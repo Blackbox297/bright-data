@@ -5,7 +5,9 @@
 # to this repo, which is what the mobile app fetches.
 #
 # Manual trigger: Actions tab → "Daily Bright pipeline" → "Run workflow".
-# Useful for debugging without waiting until 7 AM.
+# The form exposes max_per_source and history_days so you can do larger
+# backfill pulls (e.g. 50 articles per source for first-time population)
+# without needing to edit this file. Scheduled runs use the defaults below.
 
 name: Daily Bright pipeline
 
@@ -13,6 +15,15 @@ on:
   schedule:
     - cron: '0 7 * * *'
   workflow_dispatch:
+    inputs:
+      max_per_source:
+        description: 'Articles to fetch per source (default 15)'
+        type: number
+        default: 15
+      history_days:
+        description: 'Rolling history window in days (default 21)'
+        type: number
+        default: 21
 
 permissions:
   # Required so the workflow can commit the updated stories.json back.
@@ -37,7 +48,14 @@ jobs:
       - name: Run pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python pipeline.py --live --max-per-source 15 --history-days 21
+        # `inputs.*` is only populated for workflow_dispatch triggers — for
+        # the scheduled cron run those values are empty, so the `|| <fallback>`
+        # operator falls back to the same defaults declared above.
+        run: |
+          python pipeline.py \
+            --live \
+            --max-per-source ${{ inputs.max_per_source || 15 }} \
+            --history-days ${{ inputs.history_days || 21 }}
 
       - name: Commit updated stories.json
         run: |
