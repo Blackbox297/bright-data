@@ -67,6 +67,20 @@ SOURCES = [
     {"name": "Good News Network",     "url": "https://www.goodnewsnetwork.org/feed/"},
     {"name": "Positive News",         "url": "https://www.positive.news/feed/"},
     {"name": "Reasons to be Cheerful","url": "https://reasonstobecheerful.world/feed/"},
+    # Mongabay: environmental / conservation news. CC-licensed, fully free
+    # RSS, daily cadence. Strong solutions-leaning hit rate.
+    {"name": "Mongabay",              "url": "https://news.mongabay.com/feed/"},
+    # The Guardian "Upside" — their dedicated solutions journalism section.
+    # Section feed only (not the parent paper's main feed), so signal stays
+    # very high.
+    {"name": "Guardian Upside",       "url": "https://www.theguardian.com/world/series/the-upside/rss"},
+    # Fix the News (Substack) — free weekly editions in full via RSS. Note:
+    # each item is a *roundup* of 15-20 progress stories rather than a
+    # single article, so the classifier sees one combined post per week.
+    # Expect these to land in the WORLD bucket more often than not, since
+    # the body spans many countries; we accept that trade-off because the
+    # roundups themselves are high-quality "Bright"-fit reading.
+    {"name": "Fix the News",          "url": "https://www.fixthenews.com/feed"},
 ]
 
 MIN_SCORE = 7
