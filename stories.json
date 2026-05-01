@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.2",
+  "generated_at": "2026-05-01T00:17:31.956669Z",
+  "story_count": 3,
+  "country_count": 3,
+  "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "flag": "🇬🇧",
+      "lat": 51.51,
+      "lng": -0.13,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "health",
+          "title": "6 Year Old Saffie Has Her Vision Saved from Rare Form of Blindness Thanks to One-Time Gene Therapy",
+          "summary": "Gene therapy restores vision in child with rare inherited blindness",
+          "extended_summary": "A 6-year-old in the UK received a one-time gene therapy treatment for Leber's Congenital Amaurosis, a rare inherited condition caused by RPE65 gene mutations that causes progressive blindness. The therapy successfully restored her daytime and nighttime vision. While the article lacks specific clinical metrics or long-term outcome data, it documents a verified medical intervention with measurable functional improvement in a real patient case.",
+          "source": "Good News Network",
+          "time": "13h ago",
+          "link": "https://www.goodnewsnetwork.org/6-year-old-saffie-has-her-vision-saved-from-rare-form-of-blindness-thanks-to-one-time-gene-therapy/",
+          "cover": {
+            "type": "template",
+            "template_id": "sun",
+            "color_scheme": "gold"
+          }
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "flag": "🇮🇳",
+      "lat": 28.61,
+      "lng": 77.21,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "community",
+          "title": "Judicial Overhaul in India Decriminalizes Hundreds of Offenses That Previously Landed You in Prison",
+          "summary": "India decriminalizes 717 offenses to reduce prison overcriminalization.",
+          "extended_summary": "India's Jan Vishwas Act removed criminal penalties from 717 offenses previously punishable by fines or imprisonment. The legislative reform targets excessive criminalization that burdened courts and prisons while hindering business activity and daily life. By reclassifying these infractions, the policy aims to reserve criminal prosecution for serious offenses while reducing systemic strain on India's justice system.",
+          "source": "Good News Network",
+          "time": "1d ago",
+          "link": "https://www.goodnewsnetwork.org/judicial-overhaul-in-india-decriminalizes-hundreds-of-offenses-that-previously-landed-you-in-prison/",
+          "cover": {
+            "type": "template",
+            "template_id": "circles",
+            "color_scheme": "warm"
+          }
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "lat": 52.52,
+      "lng": 13.4,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "health",
+          "title": "The $1 Visionary",
+          "summary": "German teacher develops affordable glasses solution for global vision impairment.",
+          "extended_summary": "Martin Aufmuth, a mathematics educator in Erlangen, Germany, created a scalable approach to address vision correction poverty after learning that hundreds of millions lack access to affordable eyeglasses. His initiative produced low-cost glasses at approximately one dollar per pair, targeting populations in developing regions where cost barriers prevent treatment of correctable vision problems. The program demonstrates a working model with measurable distribution, though the article excerpt lacks specific outcome data on beneficiaries or health improvements achieved.",
+          "source": "Reasons to be Cheerful",
+          "time": "3d ago",
+          "link": "https://reasonstobecheerful.world/the-one-dollar-visionary/",
+          "cover": {
+            "type": "template",
+            "template_id": "sun",
+            "color_scheme": "gold"
+          }
+        }
+      ]
+    }
+  ]
+}
