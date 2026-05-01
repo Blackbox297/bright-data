@@ -1,9 +1,119 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-01T22:56:36.415188Z",
-  "story_count": 11,
-  "country_count": 9,
+  "generated_at": "2026-05-01T23:52:43.633167Z",
+  "story_count": 19,
+  "country_count": 13,
   "countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "flag": "🇬🇧",
+      "lat": 51.51,
+      "lng": -0.13,
+      "count": 3,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "Eradication of Invasive Ferrets Within N. Ireland’s Largest Seabird Colony Is a World First",
+          "summary": "Northern Ireland eradicates invasive ferrets from seabird colony in world-first conservation effort.",
+          "extended_summary": "Northern Ireland completed the first successful eradication of invasive ferrets from Rathlin Island, which hosts the UK's largest seabird colony. The project removed a non-native predator that threatened vulnerable bird populations. This achievement demonstrates the viability of invasive species removal at scale, a strategy that has enabled wildlife recovery on hundreds of islands globally. The effort addresses a measurable conservation problem with documented results.",
+          "source": "Good News Network",
+          "time": "just now",
+          "first_seen_at": "2026-05-01T23:50:04.567960+00:00",
+          "link": "https://www.goodnewsnetwork.org/eradication-of-invasive-ferrets-within-n-irelands-largest-seabird-colony-is-a-world-first/",
+          "cover": {
+            "type": "template",
+            "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        },
+        {
+          "tag": "health",
+          "title": "6 Year Old Saffie Has Her Vision Saved from Rare Form of Blindness Thanks to One-Time Gene Therapy",
+          "summary": "Gene therapy restores vision in six-year-old with rare inherited blindness.",
+          "extended_summary": "A British child received a one-time gene therapy treatment for Leber's Congenital Amaurosis, a rare inherited form of blindness caused by RPE65 gene mutations. The therapy restored her daytime and nighttime vision, enabling normal sight. This represents a documented clinical success for a previously untreatable genetic condition affecting children worldwide, demonstrating how targeted gene therapies can address otherwise irreversible vision loss.",
+          "source": "Good News Network",
+          "time": "19h ago",
+          "first_seen_at": "2026-05-01T04:40:37.241340+00:00",
+          "link": "https://www.goodnewsnetwork.org/6-year-old-saffie-has-her-vision-saved-from-rare-form-of-blindness-thanks-to-one-time-gene-therapy/",
+          "cover": {
+            "type": "template",
+            "template_id": "sun",
+            "color_scheme": "gold"
+          }
+        },
+        {
+          "tag": "environment",
+          "title": "Endangered Javan gibbon baby born in UK rare species sanctuary",
+          "summary": "UK wildlife sanctuary births endangered Javan gibbon as part of captive breeding program.",
+          "extended_summary": "A Javan gibbon born at a British wildlife park represents progress in a structured captive breeding initiative for one of the world's rarest primates. The two-month-old infant, named Lima, joins a carefully managed population at a facility recognized as a global center for the species' reproduction. Javan gibbons are critically endangered, with fewer than 4,000 remaining in their native Indonesian habitat. The birth supports reintroduction efforts aimed at eventually returning animals to the wild.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-05-01T23:51:50.031974+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/04/endangered-javan-gibbon-baby-born-in-uk-rare-species-sanctuary/",
+          "cover": {
+            "type": "template",
+            "template_id": "mountain",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "flag": "🇺🇸",
+      "lat": 38.9,
+      "lng": -77.04,
+      "count": 3,
+      "stories": [
+        {
+          "tag": "science",
+          "title": "‘Lightning in a Bottle’ Transforms Methane into High-Demand Methanol Through Breakthrough Process",
+          "summary": "Northwestern chemists convert methane to methanol using plasma in single-step process.",
+          "extended_summary": "Researchers at Northwestern University developed a technique using plasma discharge in water to convert methane directly into methanol in one step, addressing a longstanding challenge in chemistry. Methanol is a valuable industrial chemical with broad applications. The method's efficiency and scalability remain subjects for further development, but the breakthrough demonstrates a potential pathway for converting abundant natural gas into higher-value fuel products.",
+          "source": "Good News Network",
+          "time": "just now",
+          "first_seen_at": "2026-05-01T23:49:39.424586+00:00",
+          "link": "https://www.goodnewsnetwork.org/lightning-in-a-bottle-transforms-methane-into-high-demand-methanol-through-breakthrough-process/",
+          "cover": {
+            "type": "template",
+            "template_id": "orbit",
+            "color_scheme": "sky"
+          }
+        },
+        {
+          "tag": "health",
+          "title": "$20M Awarded to Louisiana Idea For Ensuring Health Clinics Stay Open During Hurricanes Across 4 States",
+          "summary": "Louisiana Public Health Institute receives $20M to keep clinics operational during hurricanes across Gulf states.",
+          "extended_summary": "The National Academies of Sciences, Engineering, and Medicine awarded $20 million to the Louisiana Public Health Institute to implement the Gulf Hub initiative, designed to maintain healthcare clinic operations during hurricanes across four Gulf Coast states. The program addresses a critical infrastructure gap: rural and underserved communities lose access to essential medical services when facilities close during storms. The funding enables planning and deployment of resilience measures that keep clinics functioning when patients most need them.",
+          "source": "Good News Network",
+          "time": "just now",
+          "first_seen_at": "2026-05-01T23:49:50.272409+00:00",
+          "link": "https://www.goodnewsnetwork.org/20m-awarded-to-louisiana-idea-for-ensuring-health-clinics-stay-open-during-hurricanes/",
+          "cover": {
+            "type": "template",
+            "template_id": "heart",
+            "color_scheme": "gold"
+          }
+        },
+        {
+          "tag": "environment",
+          "title": "Researchers Develop Way to Get Natural Gas That’s Renewable Directly From Sewage",
+          "summary": "Researchers develop sewage treatment that produces renewable natural gas at half typical cost.",
+          "extended_summary": "Washington State University researchers published a pilot study demonstrating a new sewage sludge treatment method that generates renewable natural gas while reducing treatment expenses by 50 percent. The process, detailed in Chemical Engineering Journal, addresses two infrastructure challenges simultaneously: waste management and energy production. The approach offers municipalities a potential pathway to offset wastewater treatment costs through biogas generation, though broader adoption and scalability remain to be demonstrated.",
+          "source": "Good News Network",
+          "time": "just now",
+          "first_seen_at": "2026-05-01T23:49:55.224848+00:00",
+          "link": "https://www.goodnewsnetwork.org/researchers-method-to-get-renewable-natural-gas-directly-from-sewage/",
+          "cover": {
+            "type": "template",
+            "template_id": "mountain",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
     {
       "code": "CN",
       "name": "China",
@@ -33,7 +143,7 @@
           "summary": "Chinese pangolin population recovers after national protection measures",
           "extended_summary": "China's Chinese tree pangolin, listed as critically endangered by the IUCN, shows population growth in Guangdong Province six years after receiving first-class national protection status. The species, the world's most trafficked wild animal, had faced severe decline from poaching and habitat loss. This measurable recovery demonstrates the effectiveness of dedicated conservation policy in reversing extinction risk for a high-profile wildlife target.",
           "source": "Good News Network",
-          "time": "18h ago",
+          "time": "19h ago",
           "first_seen_at": "2026-05-01T04:39:29.079250+00:00",
           "link": "https://www.goodnewsnetwork.org/chinese-pangolins-growing-steadily-in-the-wilds-of-southern-china-for-the-first-time-this-century/",
           "cover": {
@@ -58,7 +168,7 @@
           "summary": "Sumatran orangutan successfully uses rope bridge to cross fragmented habitat.",
           "extended_summary": "A wild Sumatran orangutan crossed a road using a canopy rope bridge in North Sumatra's Pakpak Bharat district, marking the first documented instance of the species using this crossing method. The infrastructure, designed to reconnect isolated forest patches, was monitored via camera trap. The achievement demonstrates how engineered solutions can reduce isolation-related deaths among endangered populations by enabling safe movement between separated habitats.",
           "source": "Good News Network",
-          "time": "17h ago",
+          "time": "18h ago",
           "first_seen_at": "2026-05-01T05:08:42.878390+00:00",
           "link": "https://www.goodnewsnetwork.org/celebrations-as-sumatran-orangutan-uses-rope-bridge-to-cross-road-for-the-first-time-ever/",
           "cover": {
@@ -98,7 +208,7 @@
           "summary": "India decriminalizes 717 offenses to reduce over-criminalization and ease business regulations.",
           "extended_summary": "India's Jan Vishwas Act removed criminal penalties from 717 offenses previously punishable by fines or imprisonment. The legislative overhaul aims to shift the country's legal framework away from excessive criminalization, reducing unnecessary burden on courts and individuals for minor infractions. The reform targets both commercial regulations and everyday conduct, addressing a structural issue in India's penal code where minor violations carried disproportionate legal consequences.",
           "source": "Good News Network",
-          "time": "18h ago",
+          "time": "19h ago",
           "first_seen_at": "2026-05-01T04:39:17.580406+00:00",
           "link": "https://www.goodnewsnetwork.org/judicial-overhaul-in-india-decriminalizes-hundreds-of-offenses-that-previously-landed-you-in-prison/",
           "cover": {
@@ -123,34 +233,9 @@
           "summary": "German teacher develops affordable glasses solution for global vision impairment.",
           "extended_summary": "Martin Aufmuth, a mathematics educator in Erlangen, Germany, launched an initiative to address vision impairment affecting hundreds of millions globally who lack access to affordable eyeglasses. His approach focuses on dramatically reducing costs through innovative manufacturing and distribution models. The initiative has demonstrated measurable impact across multiple countries, providing functional vision correction at minimal expense. This represents a working intervention with documented reach, though the full structural scale of implementation remains partially described.",
           "source": "Reasons to be Cheerful",
-          "time": "18h ago",
+          "time": "19h ago",
           "first_seen_at": "2026-05-01T04:40:00.576617+00:00",
           "link": "https://reasonstobecheerful.world/the-one-dollar-visionary/",
-          "cover": {
-            "type": "template",
-            "template_id": "sun",
-            "color_scheme": "gold"
-          }
-        }
-      ]
-    },
-    {
-      "code": "GB",
-      "name": "United Kingdom",
-      "flag": "🇬🇧",
-      "lat": 51.51,
-      "lng": -0.13,
-      "count": 1,
-      "stories": [
-        {
-          "tag": "health",
-          "title": "6 Year Old Saffie Has Her Vision Saved from Rare Form of Blindness Thanks to One-Time Gene Therapy",
-          "summary": "Gene therapy restores vision in six-year-old with rare inherited blindness.",
-          "extended_summary": "A British child received a one-time gene therapy treatment for Leber's Congenital Amaurosis, a rare inherited form of blindness caused by RPE65 gene mutations. The therapy restored her daytime and nighttime vision, enabling normal sight. This represents a documented clinical success for a previously untreatable genetic condition affecting children worldwide, demonstrating how targeted gene therapies can address otherwise irreversible vision loss.",
-          "source": "Good News Network",
-          "time": "18h ago",
-          "first_seen_at": "2026-05-01T04:40:37.241340+00:00",
-          "link": "https://www.goodnewsnetwork.org/6-year-old-saffie-has-her-vision-saved-from-rare-form-of-blindness-thanks-to-one-time-gene-therapy/",
           "cover": {
             "type": "template",
             "template_id": "sun",
@@ -254,6 +339,81 @@
           "cover": {
             "type": "template",
             "template_id": "circles",
+            "color_scheme": "warm"
+          }
+        }
+      ]
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "lat": -35.28,
+      "lng": 149.13,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "Once Extinct in the Wild, Bandicoot Marsupial to be Released Across Australia After Being Bred For Survival (LOOK)",
+          "summary": "Eastern barred bandicoot, extinct in wild since 1991, to be reintroduced across Australia.",
+          "extended_summary": "Australia's eastern barred bandicoot population collapsed to 60 individuals at a landfill site before being declared extinct in the wild in 1991. Through captive breeding focused on survival traits, the species is now ready for reintroduction across six sites nationwide. The program represents a structured recovery effort, though long-term success metrics and site-specific outcomes remain unclear from available reporting.",
+          "source": "Good News Network",
+          "time": "just now",
+          "first_seen_at": "2026-05-01T23:49:51.722426+00:00",
+          "link": "https://www.goodnewsnetwork.org/once-extinct-in-the-wild-bandicoot-marsupial-released-across-australia-after-being-bred-for-survival-look/",
+          "cover": {
+            "type": "template",
+            "template_id": "mountain",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "flag": "🇹🇷",
+      "lat": 39.93,
+      "lng": 32.86,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "Bald Ibis ‘the Herald of Spring’ Saved from Extinction in Turkey Thanks to Semi-Wild Breeding",
+          "summary": "Turkey's bald ibis population rebounds through semi-wild breeding program after near extinction.",
+          "extended_summary": "The bald ibis, a migratory species that historically nested on Turkish cliffs along the Euphrates River, faced extinction from habitat loss and other modern pressures. A coalition of local wildlife experts and international conservation organizations implemented a semi-wild breeding initiative to restore the population. The program has successfully increased numbers of birds returning during spring migration, demonstrating measurable recovery of a species that had declined to critically low levels.",
+          "source": "Good News Network",
+          "time": "just now",
+          "first_seen_at": "2026-05-01T23:50:06.338257+00:00",
+          "link": "https://www.goodnewsnetwork.org/turkey-saves-its-bald-ibis-the-herald-of-spring-from-extinction-thanks-to-semi-wild-breeding/",
+          "cover": {
+            "type": "template",
+            "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "flag": "🇿🇼",
+      "lat": -17.83,
+      "lng": 31.05,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "community",
+          "title": "Conservationist wins top award to protect lions and people in Zimbabwe",
+          "summary": "Zimbabwe trains community guardians to reduce human-wildlife conflict between lions and livestock owners.",
+          "extended_summary": "Conservationist Moreangels Mbizah leads a program in northern Zimbabwe training local \"Batabilili\" (protectors) to mitigate conflicts between lions and pastoral communities. The initiative addresses a measurable problem: livestock predation and human safety concerns that drive retaliatory killings of lions. By embedding guardians within communities to monitor and manage encounters, the program reduces both human fatalities and lion deaths, creating documented outcomes for wildlife survival and rural livelihoods in a region where coexistence has proven difficult.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-05-01T23:51:54.042381+00:00",
+          "link": "https://news.mongabay.com/2026/04/conservationist-wins-top-award-to-protect-lions-and-people-in-zimbabwe/",
+          "cover": {
+            "type": "template",
+            "template_id": "sun",
             "color_scheme": "warm"
           }
         }
