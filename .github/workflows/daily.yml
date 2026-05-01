@@ -1,0 +1,52 @@
+# Daily Bright pipeline.
+#
+# Runs every morning at 07:00 UTC (3 AM ET / midnight PT) so fresh content
+# is ready when most readers wake up. Commits the updated stories.json back
+# to this repo, which is what the mobile app fetches.
+#
+# Manual trigger: Actions tab → "Daily Bright pipeline" → "Run workflow".
+# Useful for debugging without waiting until 7 AM.
+
+name: Daily Bright pipeline
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  # Required so the workflow can commit the updated stories.json back.
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python pipeline.py --live --max-per-source 15 --history-days 21
+
+      - name: Commit updated stories.json
+        run: |
+          git config user.name "Bright Bot"
+          git config user.email "bright-bot@users.noreply.github.com"
+          git add stories.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Daily update: $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
