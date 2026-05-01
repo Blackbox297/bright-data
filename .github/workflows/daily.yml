@@ -46,6 +46,11 @@ jobs:
           git add stories.json
           if ! git diff --cached --quiet; then
             git commit -m "Daily update: $(date -u +%Y-%m-%d)"
+            # Absorb any remote changes that landed between checkout and now,
+            # so the push never gets rejected as non-fast-forward. Safe because
+            # stories.json is the only file this bot writes — rebase has nothing
+            # to conflict with unless someone edits stories.json by hand.
+            git pull --rebase origin main
             git push
           else
             echo "No changes to commit"
