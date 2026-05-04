@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-04T04:04:42.514732Z",
-  "story_count": 20,
-  "country_count": 13,
+  "generated_at": "2026-05-04T04:24:22.410755Z",
+  "story_count": 23,
+  "country_count": 15,
   "countries": [
     {
       "code": "GB",
@@ -240,7 +240,7 @@
       "flag": "🇮🇳",
       "lat": 28.61,
       "lng": 77.21,
-      "count": 1,
+      "count": 2,
       "stories": [
         {
           "tag": "community",
@@ -254,6 +254,21 @@
           "cover": {
             "type": "template",
             "template_id": "circles",
+            "color_scheme": "warm"
+          }
+        },
+        {
+          "tag": "community",
+          "title": "‘Creamy, nutty’ spiders are protein source for Indigenous Indian tribe",
+          "summary": "Study documents indigenous spider farming as sustainable protein source in Nagaland.",
+          "extended_summary": "Researchers at Nagaland University published peer-reviewed findings on orb-weaver spider consumption among an indigenous Indian community, where the practice has been sustained for generations. The study, appearing in Frontiers in Sustainable Food Systems, examines spiders as a local protein source with established cultural and nutritional significance. While the research provides academic documentation of an existing food system rather than introducing a new intervention, it contributes evidence-based understanding of sustainable dietary practices.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-05-04T04:23:41.251820+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/04/creamy-nutty-spiders-are-protein-source-for-indigenous-indian-tribe/",
+          "cover": {
+            "type": "template",
+            "template_id": "sun",
             "color_scheme": "warm"
           }
         }
@@ -430,6 +445,56 @@
             "type": "template",
             "template_id": "sun",
             "color_scheme": "warm"
+          }
+        }
+      ]
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "lat": -15.78,
+      "lng": -47.93,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "community",
+          "title": "Brazil prosecutors launch suit against meatpacking giant JBS over beef tied to slavery-like labor",
+          "summary": "Brazilian prosecutors sue JBS for sourcing cattle from farms with slavery-like labor conditions.",
+          "extended_summary": "Brazil's labor prosecutors filed a civil lawsuit against meatpacking corporation JBS, seeking 119 million reais ($24 million) in damages for purchasing cattle from farms where workers faced slavery-like exploitation. The case, filed in Para state's labor court, represents an enforcement action targeting supply-chain labor abuses in Brazil's beef industry. While this demonstrates institutional accountability mechanisms at work, the outcome remains pending and the suit's effectiveness depends on court enforcement.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-05-04T04:23:25.484114+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/04/brazil-prosecutors-launch-suit-against-meatpacking-giant-jbs-over-beef-tied-to-slavery-like-labor/",
+          "cover": {
+            "type": "template",
+            "template_id": "sun",
+            "color_scheme": "warm"
+          }
+        }
+      ]
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "flag": "🇪🇨",
+      "lat": -0.18,
+      "lng": -78.47,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "Inside the fight to save the little-known Galápagos petrel",
+          "summary": "Conservation effort targets breeding grounds of critically endangered Galápagos petrels.",
+          "extended_summary": "The Galápagos petrel population has contracted to approximately 15,000 individuals following decades of decline through the 1980s. These seabirds face multiple threats during their breeding season in their sole breeding habitat. A coordinated conservation initiative is working to address hazards at nesting sites and improve survival rates for this species found only in Ecuador's Galápagos archipelago.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-05-04T04:23:33.460479+00:00",
+          "link": "https://news.mongabay.com/2026/04/inside-the-fight-to-save-the-little-known-galapagos-petrel/",
+          "cover": {
+            "type": "template",
+            "template_id": "leaves",
+            "color_scheme": "moss"
           }
         }
       ]
