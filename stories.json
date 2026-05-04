@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-04T04:24:22.410755Z",
+  "generated_at": "2026-05-04T04:44:47.540233Z",
   "story_count": 23,
   "country_count": 15,
   "countries": [
@@ -33,7 +33,7 @@
           "summary": "Gene therapy restores vision in six-year-old with rare inherited blindness.",
           "extended_summary": "A British child received a one-time gene therapy treatment for Leber's Congenital Amaurosis, a rare inherited form of blindness caused by RPE65 gene mutations. The therapy restored her daytime and nighttime vision, enabling normal sight. This represents a documented clinical success for a previously untreatable genetic condition affecting children worldwide, demonstrating how targeted gene therapies can address otherwise irreversible vision loss.",
           "source": "Good News Network",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T04:40:37.241340+00:00",
           "link": "https://www.goodnewsnetwork.org/6-year-old-saffie-has-her-vision-saved-from-rare-form-of-blindness-thanks-to-one-time-gene-therapy/",
           "cover": {
@@ -143,7 +143,7 @@
           "summary": "Chinese pangolin population recovers after national protection measures",
           "extended_summary": "China's Chinese tree pangolin, listed as critically endangered by the IUCN, shows population growth in Guangdong Province six years after receiving first-class national protection status. The species, the world's most trafficked wild animal, had faced severe decline from poaching and habitat loss. This measurable recovery demonstrates the effectiveness of dedicated conservation policy in reversing extinction risk for a high-profile wildlife target.",
           "source": "Good News Network",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T04:39:29.079250+00:00",
           "link": "https://www.goodnewsnetwork.org/chinese-pangolins-growing-steadily-in-the-wilds-of-southern-china-for-the-first-time-this-century/",
           "cover": {
@@ -208,7 +208,7 @@
           "summary": "German teacher develops affordable glasses solution for global vision impairment.",
           "extended_summary": "Martin Aufmuth, a mathematics educator in Erlangen, Germany, launched an initiative to address vision impairment affecting hundreds of millions globally who lack access to affordable eyeglasses. His approach focuses on dramatically reducing costs through innovative manufacturing and distribution models. The initiative has demonstrated measurable impact across multiple countries, providing functional vision correction at minimal expense. This represents a working intervention with documented reach, though the full structural scale of implementation remains partially described.",
           "source": "Reasons to be Cheerful",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T04:40:00.576617+00:00",
           "link": "https://reasonstobecheerful.world/the-one-dollar-visionary/",
           "cover": {
@@ -248,7 +248,7 @@
           "summary": "India decriminalizes 717 offenses to reduce over-criminalization and ease business regulations.",
           "extended_summary": "India's Jan Vishwas Act removed criminal penalties from 717 offenses previously punishable by fines or imprisonment. The legislative overhaul aims to shift the country's legal framework away from excessive criminalization, reducing unnecessary burden on courts and individuals for minor infractions. The reform targets both commercial regulations and everyday conduct, addressing a structural issue in India's penal code where minor violations carried disproportionate legal consequences.",
           "source": "Good News Network",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T04:39:17.580406+00:00",
           "link": "https://www.goodnewsnetwork.org/judicial-overhaul-in-india-decriminalizes-hundreds-of-offenses-that-previously-landed-you-in-prison/",
           "cover": {
