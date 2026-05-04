@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-04T04:44:47.540233Z",
-  "story_count": 23,
-  "country_count": 15,
+  "generated_at": "2026-05-04T04:57:46.292036Z",
+  "story_count": 26,
+  "country_count": 16,
   "countries": [
     {
       "code": "GB",
@@ -10,8 +10,38 @@
       "flag": "🇬🇧",
       "lat": 51.51,
       "lng": -0.13,
-      "count": 3,
+      "count": 5,
       "stories": [
+        {
+          "tag": "community",
+          "title": "What went right this week: the good news that matters",
+          "summary": "England's Renters' Rights Act eliminates no-fault evictions and strengthens tenant protections.",
+          "extended_summary": "England's Renters' Rights Act took effect May 1, 2026, marking the first major rental housing reform since 1988. The law abolishes Section 21 no-fault evictions, extends notice periods from two to four months, converts fixed tenancies to rolling contracts, and grants tenants the right to challenge rent increases. Campaigners identify no-fault evictions as a leading driver of homelessness, making these structural protections substantive. The law also extends Awaab's Law to enforce landlord responses to broader health and safety hazards.",
+          "source": "Positive News",
+          "time": "just now",
+          "first_seen_at": "2026-05-04T04:55:57.723301+00:00",
+          "link": "https://www.positive.news/society/good-news-stories-from-week-18-of-2026/",
+          "cover": {
+            "type": "template",
+            "template_id": "sun",
+            "color_scheme": "warm"
+          }
+        },
+        {
+          "tag": "community",
+          "title": "The new UK television dating show boosting deaf representation",
+          "summary": "UK launches first all-BSL dating show to increase deaf representation and challenge misconceptions.",
+          "extended_summary": "Hold My Hand, broadcast on deaf-led platform Lumo TV, is the first dating show conducted entirely in British Sign Language. Hosted by deaf twins Hermon and Heroda Berhane, it features deaf contestants and children of deaf adults. The show addresses documented barriers: research found 71% of young adults lack confidence dating BSL users. Producers aim to normalize deaf culture and identity in mainstream entertainment while demonstrating BSL as a complete language rather than an accessibility accommodation.",
+          "source": "Positive News",
+          "time": "just now",
+          "first_seen_at": "2026-05-04T04:56:01.327753+00:00",
+          "link": "https://www.positive.news/lifestyle/the-new-uk-television-dating-show-boosting-deaf-representation/",
+          "cover": {
+            "type": "template",
+            "template_id": "circles",
+            "color_scheme": "warm"
+          }
+        },
         {
           "tag": "environment",
           "title": "Eradication of Invasive Ferrets Within N. Ireland’s Largest Seabird Colony Is a World First",
@@ -491,6 +521,31 @@
           "time": "just now",
           "first_seen_at": "2026-05-04T04:23:33.460479+00:00",
           "link": "https://news.mongabay.com/2026/04/inside-the-fight-to-save-the-little-known-galapagos-petrel/",
+          "cover": {
+            "type": "template",
+            "template_id": "leaves",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "flag": "🇿🇦",
+      "lat": -25.75,
+      "lng": 28.19,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "Record Number of Humpbacks Observed Feeding in ‘Supergroup’ Near South Africa",
+          "summary": "Humpback whale population shows recovery with record 304 individuals observed feeding together.",
+          "extended_summary": "Photographers documented 304 humpback whales feeding in a single aggregation near South Africa, exceeding the previous record. The gathering, called a supergroup, indicates recovery in whale populations that were hunted to near extinction. Scientists are studying the behavior to understand whether it reflects increased food availability or changing migration patterns, with implications for monitoring ocean health.",
+          "source": "Good News Network",
+          "time": "just now",
+          "first_seen_at": "2026-05-04T04:55:47.293524+00:00",
+          "link": "https://www.goodnewsnetwork.org/record-number-of-humpbacks-observed-feeding-in-supergroup-near-south-africa/",
           "cover": {
             "type": "template",
             "template_id": "leaves",
