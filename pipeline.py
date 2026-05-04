@@ -83,13 +83,22 @@ SOURCES = [
     {"name": "Fix the News",          "url": "https://www.fixthenews.com/feed"},
 ]
 
-MIN_SCORE = 7
+MIN_SCORE = 6
+# Bumped down from 7: at 7 the pipeline was producing ~1 new story per day
+# in steady state, which made the daily reading practice feel static.
+# Score 6 admits "solid solutions story — a working program with evidence,
+# even if local," which is still genuinely solutions-journalism content
+# rather than feel-good fluff. Revert to 7 if too much marginal content
+# starts landing.
 TOP_N_PER_COUNTRY = 5
-DEDUPE_THRESHOLD = 0.85
-# Bumped from 0.70: live data showed many false positives at the lower
-# threshold — short headlines share enough common bigrams that unrelated
-# stories were getting collapsed.
-DEDUPE_THRESHOLD_FALLBACK = 0.85
+DEDUPE_THRESHOLD = 0.90
+# Loosened from 0.85: with a growing rolling cache of cached stories,
+# the dedupe step was killing legitimately new items just because they
+# were thematically similar to existing ones (e.g. multiple "wildlife
+# recovery" stories share enough title/summary bigrams to flag as dupes).
+# 0.90 still catches genuine near-duplicates (same story from two outlets)
+# while letting different-but-related stories through.
+DEDUPE_THRESHOLD_FALLBACK = 0.90
 
 WORLD_CODE = "WORLD"
 WORLD_META = {"name": "World", "flag": "\U0001F30D", "lat": None, "lng": None}
