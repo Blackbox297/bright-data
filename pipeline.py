@@ -517,16 +517,45 @@ class CountryBucket:
 STUB_BODY_THRESHOLD = 300
 
 # Common HTML containers used by major publishers to wrap the article body.
-# Walked in order; first match wins. Most modern WordPress/Substack/Ghost
-# sites use either <article> or .entry-content / .post-content.
+# Walked in order; first match wins. Order matters: more specific selectors
+# come first so we don't accidentally grab a navigation <main> when the
+# article actually lives in a more semantic container.
+#
+# History note: Positive News initially fell through every selector here
+# because they use a custom theme with <div class="article"> rather than
+# the HTML5 <article> tag. Now covered by `.article`, but the
+# largest-paragraph-block fallback below catches any future publisher
+# that does something equally non-standard.
 _ARTICLE_SELECTORS = [
-    "article",
-    "[class*='entry-content']",
-    "[class*='post-content']",
-    "[class*='article-content']",
-    "[class*='article-body']",
-    "main",
+    "[itemprop='articleBody']",          # schema.org canonical
+    "article",                            # HTML5 article element
+    ".article",                           # Positive News, custom themes
+    "[class*='entry-content']",           # WordPress default
+    "[class*='post-content']",            # WordPress / Ghost
+    "[class*='article-content']",         # generic CMS
+    "[class*='article-body']",            # NYT, CNN, et al.
+    "[class*='single__content']",         # WordPress single-post themes
+    "[class*='story-content']",           # various news sites
+    "main",                               # last-resort semantic fallback
 ]
+
+
+def _largest_paragraph_block(soup) -> str | None:
+    """Fallback when no _ARTICLE_SELECTORS match: scan every <div> in the
+    document and return the one whose direct/descendant <p> children
+    contain the most text. This catches publishers with non-standard
+    markup as long as they still wrap article paragraphs in <p> tags
+    (the universal convention).
+    """
+    best_text = ""
+    for div in soup.find_all("div"):
+        ps = div.find_all("p", recursive=True)
+        if len(ps) < 3:
+            continue
+        text = " ".join(p.get_text(separator=" ", strip=True) for p in ps)
+        if len(text) > len(best_text):
+            best_text = text
+    return best_text or None
 
 
 def _fetch_full_body(url: str, timeout: int = 8) -> str | None:
@@ -585,7 +614,13 @@ def _fetch_full_body(url: str, timeout: int = 8) -> str | None:
                 body_text = text
                 break
 
+    # If no semantic selector matched, fall back to the largest <p>-rich
+    # <div> in the document. Catches publishers with custom markup that
+    # nevertheless still wrap paragraphs in <p> tags.
     if not body_text:
+        body_text = _largest_paragraph_block(soup)
+
+    if not body_text or len(body_text) < STUB_BODY_THRESHOLD:
         return None
 
     body_text = re.sub(r"\s+", " ", body_text).strip()
