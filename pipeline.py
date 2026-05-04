@@ -506,9 +506,96 @@ class CountryBucket:
 # FETCH
 # ----------------------------------------------------------------------------
 
+# Minimum acceptable body length (in characters) after HTML strip. Below
+# this we treat the RSS feed as a "stub feed" — the publisher exposes
+# only a teaser via syndication and keeps the article body on their site.
+# Positive News is the canonical example; their feed gives ~30 chars per
+# item which leaves the classifier nothing to score against, so almost
+# everything ends up below MIN_SCORE. Threshold picked empirically: 300
+# chars is roughly 2-3 sentences of prose, the minimum the classifier
+# needs to verify a structural-change claim with any confidence.
+STUB_BODY_THRESHOLD = 300
+
+# Common HTML containers used by major publishers to wrap the article body.
+# Walked in order; first match wins. Most modern WordPress/Substack/Ghost
+# sites use either <article> or .entry-content / .post-content.
+_ARTICLE_SELECTORS = [
+    "article",
+    "[class*='entry-content']",
+    "[class*='post-content']",
+    "[class*='article-content']",
+    "[class*='article-body']",
+    "main",
+]
+
+
+def _fetch_full_body(url: str, timeout: int = 8) -> str | None:
+    """Fetch the article URL and extract a clean text body from the HTML.
+
+    Returns up to ~3000 chars of plain text, or None on any failure
+    (network timeout, parse error, no article container found). Caller
+    falls back to the original short RSS body when this returns None.
+    """
+    if not url:
+        return None
+    try:
+        from urllib.request import Request, urlopen
+        from bs4 import BeautifulSoup
+    except Exception as e:
+        # bs4 not installed; bail silently so the pipeline still runs.
+        print(f"    full-body fetch unavailable ({e})", file=sys.stderr)
+        return None
+
+    try:
+        req = Request(url, headers={
+            # Some sites refuse python-urllib's default UA; pretend to be a
+            # normal browser so we get the same HTML a reader would see.
+            "User-Agent": (
+                "Mozilla/5.0 (compatible; BrightContentBot/1.0; "
+                "+https://github.com/Blackbox297/bright-data)"
+            ),
+        })
+        with urlopen(req, timeout=timeout) as resp:
+            raw = resp.read()
+        # Detect encoding from headers; default to UTF-8 with permissive errors.
+        charset = resp.headers.get_content_charset() or "utf-8"
+        html = raw.decode(charset, errors="replace")
+    except Exception as e:
+        print(f"    full-body fetch failed for {url[:60]} ({e})",
+              file=sys.stderr)
+        return None
+
+    try:
+        soup = BeautifulSoup(html, "html.parser")
+    except Exception as e:
+        print(f"    parse failed for {url[:60]} ({e})", file=sys.stderr)
+        return None
+
+    # Strip elements that pollute extracted text — scripts, styles, nav, etc.
+    for tag in soup(["script", "style", "noscript", "header", "footer",
+                     "nav", "aside", "form"]):
+        tag.decompose()
+
+    body_text = None
+    for selector in _ARTICLE_SELECTORS:
+        node = soup.select_one(selector)
+        if node:
+            text = node.get_text(separator=" ", strip=True)
+            if len(text) >= STUB_BODY_THRESHOLD:
+                body_text = text
+                break
+
+    if not body_text:
+        return None
+
+    body_text = re.sub(r"\s+", " ", body_text).strip()
+    return body_text[:3000]
+
+
 def fetch_rss(sources, max_per_source=20) -> list[RawItem]:
     import feedparser
     items: list[RawItem] = []
+    stubs_fetched = 0
     for src in sources:
         print(f"  fetching {src['name']}...", file=sys.stderr)
         try:
@@ -519,15 +606,29 @@ def fetch_rss(sources, max_per_source=20) -> list[RawItem]:
         for entry in feed.entries[:max_per_source]:
             body = entry.get("summary") or entry.get("description") or ""
             body = re.sub(r"<[^>]+>", " ", body)
-            body = re.sub(r"\s+", " ", body).strip()[:1500]
+            body = re.sub(r"\s+", " ", body).strip()
+            link = entry.get("link", "")
+
+            # Stub-feed fallback: if the publisher's RSS body is too short
+            # for the classifier to evaluate, fetch the actual article HTML
+            # and extract the body. Keeps Positive News etc. in the corpus
+            # without per-source special-casing.
+            if len(body) < STUB_BODY_THRESHOLD and link:
+                full = _fetch_full_body(link)
+                if full:
+                    body = full
+                    stubs_fetched += 1
+
+            body = body[:1500]
             items.append(RawItem(
                 title=entry.get("title", "").strip(),
                 body=body,
-                link=entry.get("link", ""),
+                link=link,
                 source=src["name"],
                 published=entry.get("published", ""),
             ))
-    print(f"  fetched {len(items)} raw items", file=sys.stderr)
+    print(f"  fetched {len(items)} raw items "
+          f"({stubs_fetched} required full-body fetch)", file=sys.stderr)
     return items
 
 # ----------------------------------------------------------------------------
