@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-04T09:26:54.291000Z",
-  "story_count": 26,
-  "country_count": 16,
+  "generated_at": "2026-05-05T09:12:41.390817Z",
+  "story_count": 28,
+  "country_count": 18,
   "countries": [
     {
       "code": "GB",
@@ -13,12 +13,27 @@
       "count": 5,
       "stories": [
         {
+          "tag": "environment",
+          "title": "Second act: the pioneers giving green tech a new spin",
+          "summary": "Company repurposes end-of-life EV batteries as grid-scale energy storage systems.",
+          "extended_summary": "Connected Energy, a Norfolk-based firm, converts spent electric vehicle batteries into utility-scale storage units for data centres and renewable energy systems. Rather than discarding batteries that no longer hold sufficient charge for vehicles, the company integrates them into larger power packs that provide grid stability and enable energy trading. This approach extends battery lifecycle, reduces e-waste, and creates a secondary market for battery materials while supporting renewable energy infrastructure.",
+          "source": "Positive News",
+          "time": "just now",
+          "first_seen_at": "2026-05-05T09:10:57.036158+00:00",
+          "link": "https://www.positive.news/environment/second-act-the-pioneers-giving-green-tech-a-new-spin/",
+          "cover": {
+            "type": "template",
+            "template_id": "leaves",
+            "color_scheme": "moss"
+          }
+        },
+        {
           "tag": "health",
           "title": "Woodland walks cut anxiety, study finds",
           "summary": "Self-led woodland trails reduce anxiety by 31% and rumination by 38%, study finds",
           "extended_summary": "Forestry England's nature-based mental health programme tracked participants on self-guided woodland trails featuring mindfulness prompts. Results showed a 31% anxiety reduction, 38% drop in rumination, and 20% increase in social connection. Now deployed across 18 sites nationwide, the initiative emerged from a pandemic-era wellbeing intervention and demonstrates measurable mental health benefits from structured nature engagement.",
           "source": "Positive News",
-          "time": "just now",
+          "time": "23h ago",
           "first_seen_at": "2026-05-04T09:25:35.387059+00:00",
           "link": "https://www.positive.news/lifestyle/woodland-walks-cut-anxiety-study-finds/",
           "cover": {
@@ -33,7 +48,7 @@
           "summary": "England's Renters' Rights Act eliminates no-fault evictions and strengthens tenant protections.",
           "extended_summary": "England's Renters' Rights Act took effect May 1, 2026, marking the first major rental housing reform since 1988. The law abolishes Section 21 no-fault evictions, extends notice periods from two to four months, converts fixed tenancies to rolling contracts, and grants tenants the right to challenge rent increases. Campaigners identify no-fault evictions as a leading driver of homelessness, making these structural protections substantive. The law also extends Awaab's Law to enforce landlord responses to broader health and safety hazards.",
           "source": "Positive News",
-          "time": "4h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-04T04:55:57.723301+00:00",
           "link": "https://www.positive.news/society/good-news-stories-from-week-18-of-2026/",
           "cover": {
@@ -48,7 +63,7 @@
           "summary": "UK launches first all-BSL dating show to increase deaf representation and challenge misconceptions.",
           "extended_summary": "Hold My Hand, broadcast on deaf-led platform Lumo TV, is the first dating show conducted entirely in British Sign Language. Hosted by deaf twins Hermon and Heroda Berhane, it features deaf contestants and children of deaf adults. The show addresses documented barriers: research found 71% of young adults lack confidence dating BSL users. Producers aim to normalize deaf culture and identity in mainstream entertainment while demonstrating BSL as a complete language rather than an accessibility accommodation.",
           "source": "Positive News",
-          "time": "4h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-04T04:56:01.327753+00:00",
           "link": "https://www.positive.news/lifestyle/the-new-uk-television-dating-show-boosting-deaf-representation/",
           "cover": {
@@ -63,28 +78,13 @@
           "summary": "Northern Ireland eradicates invasive ferrets from seabird colony in world-first conservation effort.",
           "extended_summary": "Northern Ireland completed the first successful eradication of invasive ferrets from Rathlin Island, which hosts the UK's largest seabird colony. The project removed a non-native predator that threatened vulnerable bird populations. This achievement demonstrates the viability of invasive species removal at scale, a strategy that has enabled wildlife recovery on hundreds of islands globally. The effort addresses a measurable conservation problem with documented results.",
           "source": "Good News Network",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T23:50:04.567960+00:00",
           "link": "https://www.goodnewsnetwork.org/eradication-of-invasive-ferrets-within-n-irelands-largest-seabird-colony-is-a-world-first/",
           "cover": {
             "type": "template",
             "template_id": "wave",
             "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "health",
-          "title": "6 Year Old Saffie Has Her Vision Saved from Rare Form of Blindness Thanks to One-Time Gene Therapy",
-          "summary": "Gene therapy restores vision in six-year-old with rare inherited blindness.",
-          "extended_summary": "A British child received a one-time gene therapy treatment for Leber's Congenital Amaurosis, a rare inherited form of blindness caused by RPE65 gene mutations. The therapy restored her daytime and nighttime vision, enabling normal sight. This represents a documented clinical success for a previously untreatable genetic condition affecting children worldwide, demonstrating how targeted gene therapies can address otherwise irreversible vision loss.",
-          "source": "Good News Network",
-          "time": "3d ago",
-          "first_seen_at": "2026-05-01T04:40:37.241340+00:00",
-          "link": "https://www.goodnewsnetwork.org/6-year-old-saffie-has-her-vision-saved-from-rare-form-of-blindness-thanks-to-one-time-gene-therapy/",
-          "cover": {
-            "type": "template",
-            "template_id": "sun",
-            "color_scheme": "gold"
           }
         }
       ]
@@ -103,7 +103,7 @@
           "summary": "Northwestern chemists convert methane to methanol using plasma in single-step process.",
           "extended_summary": "Researchers at Northwestern University developed a technique using plasma discharge in water to convert methane directly into methanol in one step, addressing a longstanding challenge in chemistry. Methanol is a valuable industrial chemical with broad applications. The method's efficiency and scalability remain subjects for further development, but the breakthrough demonstrates a potential pathway for converting abundant natural gas into higher-value fuel products.",
           "source": "Good News Network",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T23:49:39.424586+00:00",
           "link": "https://www.goodnewsnetwork.org/lightning-in-a-bottle-transforms-methane-into-high-demand-methanol-through-breakthrough-process/",
           "cover": {
@@ -118,7 +118,7 @@
           "summary": "Louisiana Public Health Institute receives $20M to keep clinics operational during hurricanes across Gulf states.",
           "extended_summary": "The National Academies of Sciences, Engineering, and Medicine awarded $20 million to the Louisiana Public Health Institute to implement the Gulf Hub initiative, designed to maintain healthcare clinic operations during hurricanes across four Gulf Coast states. The program addresses a critical infrastructure gap: rural and underserved communities lose access to essential medical services when facilities close during storms. The funding enables planning and deployment of resilience measures that keep clinics functioning when patients most need them.",
           "source": "Good News Network",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T23:49:50.272409+00:00",
           "link": "https://www.goodnewsnetwork.org/20m-awarded-to-louisiana-idea-for-ensuring-health-clinics-stay-open-during-hurricanes/",
           "cover": {
@@ -133,7 +133,7 @@
           "summary": "Researchers develop sewage treatment that produces renewable natural gas at half typical cost.",
           "extended_summary": "Washington State University researchers published a pilot study demonstrating a new sewage sludge treatment method that generates renewable natural gas while reducing treatment expenses by 50 percent. The process, detailed in Chemical Engineering Journal, addresses two infrastructure challenges simultaneously: waste management and energy production. The approach offers municipalities a potential pathway to offset wastewater treatment costs through biogas generation, though broader adoption and scalability remain to be demonstrated.",
           "source": "Good News Network",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T23:49:55.224848+00:00",
           "link": "https://www.goodnewsnetwork.org/researchers-method-to-get-renewable-natural-gas-directly-from-sewage/",
           "cover": {
@@ -158,7 +158,7 @@
           "summary": "China's 40-year Przewalski's horse reintroduction program has restored 900 animals to steppes.",
           "extended_summary": "Since 1986, China's Wild Horse Return Program has bred and relocated 900 Przewalski's horses to their native grasslands, marking four decades of sustained conservation effort. The program represents one of China's earliest large-scale wildlife restoration initiatives, focusing on a species hunted to extinction in the wild. The 2026 milestone coincides with the Chinese zodiac's Year of the Horse, underscoring the cultural and ecological significance of restoring this subspecies to Central Asian steppes.",
           "source": "Good News Network",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T22:54:42.672033+00:00",
           "link": "https://www.goodnewsnetwork.org/40-years-work-returning-900-wild-horses-to-chinese-steppes-celebrated-on-year-of-the-horse-2026/",
           "cover": {
@@ -173,7 +173,7 @@
           "summary": "Chinese pangolin population recovers after national protection measures",
           "extended_summary": "China's Chinese tree pangolin, listed as critically endangered by the IUCN, shows population growth in Guangdong Province six years after receiving first-class national protection status. The species, the world's most trafficked wild animal, had faced severe decline from poaching and habitat loss. This measurable recovery demonstrates the effectiveness of dedicated conservation policy in reversing extinction risk for a high-profile wildlife target.",
           "source": "Good News Network",
-          "time": "3d ago",
+          "time": "4d ago",
           "first_seen_at": "2026-05-01T04:39:29.079250+00:00",
           "link": "https://www.goodnewsnetwork.org/chinese-pangolins-growing-steadily-in-the-wilds-of-southern-china-for-the-first-time-this-century/",
           "cover": {
@@ -198,7 +198,7 @@
           "summary": "Sumatran orangutan successfully uses rope bridge to cross fragmented habitat.",
           "extended_summary": "A wild Sumatran orangutan crossed a road using a canopy rope bridge in North Sumatra's Pakpak Bharat district, marking the first documented instance of the species using this crossing method. The infrastructure, designed to reconnect isolated forest patches, was monitored via camera trap. The achievement demonstrates how engineered solutions can reduce isolation-related deaths among endangered populations by enabling safe movement between separated habitats.",
           "source": "Good News Network",
-          "time": "3d ago",
+          "time": "4d ago",
           "first_seen_at": "2026-05-01T05:08:42.878390+00:00",
           "link": "https://www.goodnewsnetwork.org/celebrations-as-sumatran-orangutan-uses-rope-bridge-to-cross-road-for-the-first-time-ever/",
           "cover": {
@@ -213,7 +213,7 @@
           "summary": "Indonesian authorities dismantle wildlife trafficking ring targeting endangered Komodo dragons.",
           "extended_summary": "Indonesian police arrested 11 people operating a trafficking network that smuggled juvenile Komodo dragons and other endemic species. The operation targeted Varanus komodoensis, the world's largest lizard species and legally protected in Indonesia. The dismantling represents enforcement action against a documented illegal trade threatening one of Indonesia's most distinctive wildlife populations.",
           "source": "Mongabay",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T22:55:49.757338+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/indonesia-busts-wildlife-trafficking-ring-targeting-komodo-dragons/",
           "cover": {
@@ -238,7 +238,7 @@
           "summary": "German teacher develops affordable glasses solution for global vision impairment.",
           "extended_summary": "Martin Aufmuth, a mathematics educator in Erlangen, Germany, launched an initiative to address vision impairment affecting hundreds of millions globally who lack access to affordable eyeglasses. His approach focuses on dramatically reducing costs through innovative manufacturing and distribution models. The initiative has demonstrated measurable impact across multiple countries, providing functional vision correction at minimal expense. This represents a working intervention with documented reach, though the full structural scale of implementation remains partially described.",
           "source": "Reasons to be Cheerful",
-          "time": "3d ago",
+          "time": "4d ago",
           "first_seen_at": "2026-05-01T04:40:00.576617+00:00",
           "link": "https://reasonstobecheerful.world/the-one-dollar-visionary/",
           "cover": {
@@ -253,7 +253,7 @@
           "summary": "Oak trees delay leaf sprouting by three days to evade caterpillar infestations.",
           "extended_summary": "German researchers using satellite data discovered that oak trees adjust their spring phenology in response to previous-year pest pressure, delaying leaf emergence by approximately three days after caterpillar defoliation events. This adaptive behavior reduces overlap between leaf vulnerability and peak caterpillar hatch timing, demonstrating measurable tree-insect synchronization. The finding provides peer-reviewed evidence of phenological plasticity in woody plants and suggests climate change could disrupt these evolved timing mechanisms.",
           "source": "Good News Network",
-          "time": "5h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-04T04:01:41.095556+00:00",
           "link": "https://www.goodnewsnetwork.org/oak-trees-will-delay-sprouting-leaves-to-avoid-hungry-caterpillars-that-ate-the-trees-last-year-study/",
           "cover": {
@@ -278,7 +278,7 @@
           "summary": "India decriminalizes 717 offenses to reduce over-criminalization and ease business regulations.",
           "extended_summary": "India's Jan Vishwas Act removed criminal penalties from 717 offenses previously punishable by fines or imprisonment. The legislative overhaul aims to shift the country's legal framework away from excessive criminalization, reducing unnecessary burden on courts and individuals for minor infractions. The reform targets both commercial regulations and everyday conduct, addressing a structural issue in India's penal code where minor violations carried disproportionate legal consequences.",
           "source": "Good News Network",
-          "time": "3d ago",
+          "time": "4d ago",
           "first_seen_at": "2026-05-01T04:39:17.580406+00:00",
           "link": "https://www.goodnewsnetwork.org/judicial-overhaul-in-india-decriminalizes-hundreds-of-offenses-that-previously-landed-you-in-prison/",
           "cover": {
@@ -293,7 +293,7 @@
           "summary": "Study documents indigenous spider farming as sustainable protein source in Nagaland.",
           "extended_summary": "Researchers at Nagaland University published peer-reviewed findings on orb-weaver spider consumption among an indigenous Indian community, where the practice has been sustained for generations. The study, appearing in Frontiers in Sustainable Food Systems, examines spiders as a local protein source with established cultural and nutritional significance. While the research provides academic documentation of an existing food system rather than introducing a new intervention, it contributes evidence-based understanding of sustainable dietary practices.",
           "source": "Mongabay",
-          "time": "5h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-04T04:23:41.251820+00:00",
           "link": "https://news.mongabay.com/short-article/2026/04/creamy-nutty-spiders-are-protein-source-for-indigenous-indian-tribe/",
           "cover": {
@@ -318,7 +318,7 @@
           "summary": "Singapore's Raffles' banded langur population doubled through targeted conservation efforts in forest reserves.",
           "extended_summary": "Singapore's population of Raffles' banded langurs has doubled, marking measurable progress in urban primate conservation. Volunteers systematically monitor canopy populations in forest reserves adjacent to the city, tracking the species' recovery. The achievement demonstrates how structured habitat protection and population monitoring can reverse decline even in densely urbanized regions where conservation space is severely limited.",
           "source": "Mongabay",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T22:55:51.368828+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/singapores-population-of-raffles-banded-langur-has-doubled/",
           "cover": {
@@ -343,7 +343,7 @@
           "summary": "Kenyan court clears landmark class action lawsuit against BP for toxic waste contamination.",
           "extended_summary": "Kenya's Environment and Land Court ruled that a class action suit against BP can proceed to full trial, addressing alleged groundwater contamination from 1980s oil exploration operations in northern regions. The case claims toxic waste killed over 500 people and thousands of livestock. This decision represents a significant procedural victory for affected communities seeking accountability and compensation from a major multinational corporation for documented environmental harm.",
           "source": "Mongabay",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T22:55:44.572665+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/kenyan-court-allows-landmark-bp-toxic-waste-lawsuit-to-proceed/",
           "cover": {
@@ -368,7 +368,7 @@
           "summary": "Guatemala deploys AI acoustic monitoring to detect illegal forest clearing in Maya Forest",
           "extended_summary": "Rangers in Guatemala's Maya Forest are using artificial intelligence to identify illegal deforestation through acoustic monitoring. The technology listens for chainsaw sounds and other indicators of forest clearing activity, enabling faster detection and intervention. This addresses a critical problem: Guatemala loses thousands of hectares annually to illegal logging and land conversion, threatening biodiversity and indigenous territories. The system represents a scalable enforcement tool for protected areas where traditional patrols struggle to cover vast territory.",
           "source": "Mongabay",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T22:55:55.148717+00:00",
           "link": "https://news.mongabay.com/2026/04/in-guatemala-new-ai-technology-will-be-listening-for-illegal-deforestation/",
           "cover": {
@@ -393,7 +393,7 @@
           "summary": "Canadian entrepreneur scales successful local news model to 50 outlets with 250 journalists.",
           "extended_summary": "Andrew Wilkinson's Victoria newsletter, launched in 2019, demonstrated that subscription-based local journalism could sustain itself amid industry decline. He is now expanding the model across Canada with 50 new outlets and 250 journalists, directly addressing news deserts where coverage has disappeared. The initiative targets regions abandoned by traditional media closures, aiming to restore systematic local reporting infrastructure rather than relying on philanthropic interventions.",
           "source": "Guardian Upside",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T22:56:28.358493+00:00",
           "link": "https://www.theguardian.com/world/2021/may/03/local-media-can-survive-the-canadian-team-building-a-future-for-community-news",
           "cover": {
@@ -418,7 +418,7 @@
           "summary": "Eastern barred bandicoot, extinct in wild since 1991, to be reintroduced across Australia.",
           "extended_summary": "Australia's eastern barred bandicoot population collapsed to 60 individuals at a landfill site before being declared extinct in the wild in 1991. Through captive breeding focused on survival traits, the species is now ready for reintroduction across six sites nationwide. The program represents a structured recovery effort, though long-term success metrics and site-specific outcomes remain unclear from available reporting.",
           "source": "Good News Network",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T23:49:51.722426+00:00",
           "link": "https://www.goodnewsnetwork.org/once-extinct-in-the-wild-bandicoot-marsupial-released-across-australia-after-being-bred-for-survival-look/",
           "cover": {
@@ -443,7 +443,7 @@
           "summary": "Turkey's bald ibis population rebounds through semi-wild breeding program after near extinction.",
           "extended_summary": "The bald ibis, a migratory species that historically nested on Turkish cliffs along the Euphrates River, faced extinction from habitat loss and other modern pressures. A coalition of local wildlife experts and international conservation organizations implemented a semi-wild breeding initiative to restore the population. The program has successfully increased numbers of birds returning during spring migration, demonstrating measurable recovery of a species that had declined to critically low levels.",
           "source": "Good News Network",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T23:50:06.338257+00:00",
           "link": "https://www.goodnewsnetwork.org/turkey-saves-its-bald-ibis-the-herald-of-spring-from-extinction-thanks-to-semi-wild-breeding/",
           "cover": {
@@ -468,7 +468,7 @@
           "summary": "Zimbabwe trains community guardians to reduce human-wildlife conflict between lions and livestock owners.",
           "extended_summary": "Conservationist Moreangels Mbizah leads a program in northern Zimbabwe training local \"Batabilili\" (protectors) to mitigate conflicts between lions and pastoral communities. The initiative addresses a measurable problem: livestock predation and human safety concerns that drive retaliatory killings of lions. By embedding guardians within communities to monitor and manage encounters, the program reduces both human fatalities and lion deaths, creating documented outcomes for wildlife survival and rural livelihoods in a region where coexistence has proven difficult.",
           "source": "Mongabay",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-01T23:51:54.042381+00:00",
           "link": "https://news.mongabay.com/2026/04/conservationist-wins-top-award-to-protect-lions-and-people-in-zimbabwe/",
           "cover": {
@@ -493,7 +493,7 @@
           "summary": "Brazilian prosecutors sue JBS for sourcing cattle from farms with slavery-like labor conditions.",
           "extended_summary": "Brazil's labor prosecutors filed a civil lawsuit against meatpacking corporation JBS, seeking 119 million reais ($24 million) in damages for purchasing cattle from farms where workers faced slavery-like exploitation. The case, filed in Para state's labor court, represents an enforcement action targeting supply-chain labor abuses in Brazil's beef industry. While this demonstrates institutional accountability mechanisms at work, the outcome remains pending and the suit's effectiveness depends on court enforcement.",
           "source": "Mongabay",
-          "time": "5h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-04T04:23:25.484114+00:00",
           "link": "https://news.mongabay.com/short-article/2026/04/brazil-prosecutors-launch-suit-against-meatpacking-giant-jbs-over-beef-tied-to-slavery-like-labor/",
           "cover": {
@@ -518,7 +518,7 @@
           "summary": "Conservation effort targets breeding grounds of critically endangered Galápagos petrels.",
           "extended_summary": "The Galápagos petrel population has contracted to approximately 15,000 individuals following decades of decline through the 1980s. These seabirds face multiple threats during their breeding season in their sole breeding habitat. A coordinated conservation initiative is working to address hazards at nesting sites and improve survival rates for this species found only in Ecuador's Galápagos archipelago.",
           "source": "Mongabay",
-          "time": "5h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-04T04:23:33.460479+00:00",
           "link": "https://news.mongabay.com/2026/04/inside-the-fight-to-save-the-little-known-galapagos-petrel/",
           "cover": {
@@ -543,9 +543,59 @@
           "summary": "Humpback whale population shows recovery with record 304 individuals observed feeding together.",
           "extended_summary": "Photographers documented 304 humpback whales feeding in a single aggregation near South Africa, exceeding the previous record. The gathering, called a supergroup, indicates recovery in whale populations that were hunted to near extinction. Scientists are studying the behavior to understand whether it reflects increased food availability or changing migration patterns, with implications for monitoring ocean health.",
           "source": "Good News Network",
-          "time": "4h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-04T04:55:47.293524+00:00",
           "link": "https://www.goodnewsnetwork.org/record-number-of-humpbacks-observed-feeding-in-supergroup-near-south-africa/",
+          "cover": {
+            "type": "template",
+            "template_id": "leaves",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "flag": "🇳🇵",
+      "lat": 27.71,
+      "lng": 85.32,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "community",
+          "title": "In Nepal’s plains, traditional bins help keep food safe from heat, floods",
+          "summary": "Nepalese farmers revive traditional earthen storage to protect grain from heat and pests.",
+          "extended_summary": "Farmers in Nepal's Dang district are adopting traditional handmade earthen pots—passed down through generations—to preserve grain during summer months when extreme heat and insects threaten crop viability. The practice addresses dual challenges of food security and climate vulnerability by leveraging low-cost, locally available materials. This revival demonstrates how indigenous agricultural knowledge offers practical, sustainable solutions to contemporary environmental pressures without requiring external inputs or technology.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-05-05T09:11:54.455370+00:00",
+          "link": "https://news.mongabay.com/2026/05/in-nepals-plains-traditional-bins-help-keep-food-safe-from-heat-floods/",
+          "cover": {
+            "type": "template",
+            "template_id": "circles",
+            "color_scheme": "warm"
+          }
+        }
+      ]
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "flag": "🇨🇷",
+      "lat": 9.93,
+      "lng": -84.08,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "Can listening to a forest reveal whether it is ecologically healthy?",
+          "summary": "Researchers use acoustic monitoring to assess forest health in Costa Rica's payment-for-ecosystem-services program.",
+          "extended_summary": "ETH Zürich researchers, including doctoral student Giacomo Delgado, are applying acoustic ecology methods to evaluate Costa Rica's payment for ecosystem services (PES) program. By analyzing forest soundscapes, they can assess whether protected forests maintain ecological integrity. This approach offers a scalable, non-invasive way to monitor biodiversity and ecosystem function across landscapes, potentially improving how conservation programs measure their real-world effectiveness beyond baseline commitments.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-05-05T09:11:56.673567+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/05/can-listening-to-a-forest-reveal-whether-it-is-ecologically-healthy/",
           "cover": {
             "type": "template",
             "template_id": "leaves",
