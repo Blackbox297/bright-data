@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-22T10:28:06.036742Z",
-  "story_count": 94,
-  "country_count": 41,
+  "generated_at": "2026-05-23T09:07:01.206443Z",
+  "story_count": 88,
+  "country_count": 37,
   "countries": [
     {
       "code": "GB",
@@ -48,7 +48,7 @@
           "summary": "Volunteers restore historic oyster reefs with 20,000 oysters in UK's largest subtidal project.",
           "extended_summary": "Over 260 volunteers participated in restoring native oyster reefs in Chichester Harbor, Portsmouth, by deploying 20,000 oysters in what organizers identified as the UK's largest subtidal oyster reef restoration effort. Native oysters historically supported biodiverse ecosystems across English waters but had declined significantly. The project represents a measurable ecological intervention with specific scale and participant numbers, though longer-term outcomes and ecological impact metrics are not yet detailed.",
           "source": "Good News Network",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-05-19T10:39:29.979304+00:00",
           "link": "https://www.goodnewsnetwork.org/over-200-volunteers-lead-largest-ever-oyster-reef-restoration-off-englands-portsmouth/",
           "cover": {
@@ -99,11 +99,26 @@
       "stories": [
         {
           "tag": "environment",
+          "title": "AI Used to Pinpoint Whale Heat Signatures to Prevent Ship Collisions in San Francisco Bay",
+          "summary": "AI thermal imaging system detects whales in San Francisco Bay to prevent ship strikes.",
+          "extended_summary": "Researchers in California deployed thermal imaging combined with machine learning to identify grey whales in San Francisco Bay, where vessel traffic poses collision risks to migrating populations. The system detects heat signatures from whales at the water's surface, enabling real-time warnings to ships. Increasing grey whale sightings in the bay—likely due to changing ocean conditions—have motivated development of this safety tool, representing a scalable approach to reducing marine mammal deaths from vessel strikes.",
+          "source": "Good News Network",
+          "time": "just now",
+          "first_seen_at": "2026-05-23T09:04:59.046336+00:00",
+          "link": "https://www.goodnewsnetwork.org/ai-employed-to-pinpoint-whale-heat-signatures-in-san-francisco-bay-to-prevent-ship-collisions/",
+          "cover": {
+            "type": "template",
+            "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        },
+        {
+          "tag": "environment",
           "title": "Three baby pumas born in Minnesota, US, is a first in more than 100 years",
           "summary": "First puma breeding documented in Minnesota in over 100 years.",
           "extended_summary": "Wildlife cameras in Minnesota captured a female puma with three kittens in March, marking the first confirmed breeding event in the state since the early 1900s. The sighting emerged from an unrelated deer monitoring project, suggesting puma populations may be naturally reestablishing in regions where they were historically extirpated. This observation indicates successful wildlife corridor connectivity and indicates measurable progress in ecosystem recovery across the upper Midwest.",
           "source": "Mongabay",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-21T10:43:22.293867+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/three-baby-pumas-born-in-minnesota-us-is-a-first-in-more-than-100-years/",
           "cover": {
@@ -156,21 +171,6 @@
             "template_id": "wave",
             "color_scheme": "moss"
           }
-        },
-        {
-          "tag": "health",
-          "title": "Mayo Clinic’s AI Can Detect Pancreatic Cancer up to 3 Years Before Diagnosis–When Treatment is Still Possible",
-          "summary": "Mayo Clinic AI detects pancreatic cancer three years earlier on routine CT scans.",
-          "extended_summary": "Researchers at Mayo Clinic developed an AI model that identifies pancreatic cancer on standard abdominal imaging up to three years before clinical diagnosis. Early detection matters because pancreatic cancer has poor survival rates when diagnosed late, but curative treatment becomes possible at earlier stages. The study demonstrates the model can recognize disease markers invisible to human radiologists, potentially shifting outcomes for a cancer with historically limited treatment windows.",
-          "source": "Good News Network",
-          "time": "16d ago",
-          "first_seen_at": "2026-05-06T09:28:05.304469+00:00",
-          "link": "https://www.goodnewsnetwork.org/mayo-clinic-creates-ai-that-can-detect-pancreatic-cancer-up-to-3-years-before-diagnosis/",
-          "cover": {
-            "type": "template",
-            "template_id": "sun",
-            "color_scheme": "gold"
-          }
         }
       ]
     },
@@ -183,12 +183,27 @@
       "count": 5,
       "stories": [
         {
+          "tag": "environment",
+          "title": "Above an Australian highway, a bridge reconnects wilderness for quolls, koalas and other animals",
+          "summary": "Wildlife overpass above Australian highway restores habitat connectivity for endangered species.",
+          "extended_summary": "Australia has constructed a bridge over a major highway in Heathcote National Park to restore animal movement between fragmented forest habitats. The structure addresses a critical conservation problem: roads fragment ecosystems, isolating populations of endangered species like spotted-tailed quolls and koalas. By enabling wildlife to safely cross without traversing the highway, the overpass reduces vehicle strikes and allows genetic diversity within populations. This represents a measurable infrastructure solution to habitat fragmentation.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-05-23T09:06:17.741539+00:00",
+          "link": "https://news.mongabay.com/2026/05/above-an-australian-highway-a-bridge-reconnects-wilderness-for-quolls-koalas-and-other-animals/",
+          "cover": {
+            "type": "template",
+            "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        },
+        {
           "tag": "community",
           "title": "What went right this week: the good news that matters",
           "summary": "Australian four-day week trial shows productivity gains and long-term adoption by participating firms.",
           "extended_summary": "Fifteen Australian companies tested a four-day work week between 2022 and 2023, where employees maintained full pay and output while reducing hours by 20%. Research published in Nature found six firms reported productivity increases, with the remainder showing no decline. All but one company continued the arrangement after the trial, suggesting structural viability across diverse industries including property and publishing.",
           "source": "Positive News",
-          "time": "just now",
+          "time": "22h ago",
           "first_seen_at": "2026-05-22T10:26:42.633105+00:00",
           "link": "https://www.positive.news/society/good-news-stories-from-week-21-of-2026/",
           "cover": {
@@ -203,7 +218,7 @@
           "summary": "Satellite mapping reveals over 1,000 previously unmapped coral reefs in northern Australia.",
           "extended_summary": "Scientists used satellite imagery analysis to identify more than 1,000 coral reefs in turbid northern Australian waters that were previously unknown to scientific records. The discovery equals the reef count of the Great Barrier Reef, though individual reefs tend to be smaller. This baseline data enables better conservation planning for understudied ecosystems and demonstrates how satellite technology can uncover marine biodiversity in areas difficult to survey directly.",
           "source": "Mongabay",
-          "time": "just now",
+          "time": "22h ago",
           "first_seen_at": "2026-05-22T10:27:37.211558+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/more-than-1000-uncharted-coral-reefs-mapped-in-vast-understudied-northern-australia/",
           "cover": {
@@ -218,7 +233,7 @@
           "summary": "Australia shifts from prosecuting Indigenous fishers to employing them to manage sea urchin overpopulation.",
           "extended_summary": "Young people from the Walbunja Indigenous community in Australia are now employed to harvest sea urchins that have devastated coastal ecosystems, reversing a previous policy of criminal enforcement against Indigenous fishing practices. This employment model simultaneously addresses an ecological crisis—sea urchin populations have exploded after overfishing removed their natural predators—while creating economic opportunities and enabling cultural reconnection to traditional practices. The program represents a policy reorientation that acknowledges both environmental management needs and Indigenous rights, though the article provides limited detail on program scale, wages, or long-term sustainability metrics.",
           "source": "Good News Network",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-21T10:42:10.558093+00:00",
           "link": "https://www.goodnewsnetwork.org/instead-of-arresting-indigenous-fishermen-australia-begins-to-pay-them-to-control-sea-urchin-plague/",
           "cover": {
@@ -241,16 +256,141 @@
             "template_id": "wave",
             "color_scheme": "moss"
           }
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "flag": "🇮🇳",
+      "lat": 28.61,
+      "lng": 77.21,
+      "count": 4,
+      "stories": [
+        {
+          "tag": "health",
+          "title": "India’s New ‘Good Samaritan Laws’ Reward Any Citizen Who Stops to Help with Traffic Injuries",
+          "summary": "India incentivizes bystander intervention at road accidents with cash rewards.",
+          "extended_summary": "India's Rah-Veer program offers 25,000 rupees (approximately $250) to citizens who stop and assist road accident victims, addressing a documented public health crisis where road injuries rank among the world's highest. The initiative targets a specific behavioral barrier—bystander hesitation—by converting an existing social responsibility into a measurable intervention. Early evidence suggests the program increases emergency response times and survival rates, though long-term impact data is still emerging.",
+          "source": "Good News Network",
+          "time": "1d ago",
+          "first_seen_at": "2026-05-21T10:42:12.655114+00:00",
+          "link": "https://www.goodnewsnetwork.org/indias-new-good-samaritan-laws-reward-any-citizen-who-stops-to-help-with-traffic-injuries/",
+          "cover": {
+            "type": "template",
+            "template_id": "sun",
+            "color_scheme": "gold"
+          }
         },
         {
           "tag": "environment",
-          "title": "Karajarri celebrate Australia’s first ‘Sea Country’ Indigenous Protected Area",
-          "summary": "Australia's first Indigenous Protected Area gives Karajarri people legal authority over Kimberley sea country management.",
-          "extended_summary": "The Karajarri Aboriginal group in northwestern Australia has secured official recognition and management control over a vast marine and coastal region in the Kimberley, establishing Australia's first Indigenous Protected Area focused on sea country. The designation grants Indigenous custodians legal authority over conservation decisions affecting diverse ecosystems—from wetlands hosting migratory birds to rare sawfish populations—representing a structural shift toward Indigenous-led environmental governance and recognition of traditional stewardship models in Australian conservation policy.",
+          "title": "Rare swamp deer subspecies thriving in new home in India",
+          "summary": "India establishes second breeding population of endangered swamp deer subspecies.",
+          "extended_summary": "Forest authorities in central India have successfully created a new breeding population of hard-ground swamp deer, a subspecies reduced to a single isolated group. The initiative expands habitat for Rucervus duvaucelii branderi beyond its lone protected area, reducing extinction risk through population diversification. This structured conservation effort demonstrates measurable progress in reversing a species decline, though full population recovery metrics require ongoing monitoring.",
           "source": "Mongabay",
-          "time": "7d ago",
-          "first_seen_at": "2026-05-15T09:51:13.913956+00:00",
-          "link": "https://news.mongabay.com/2026/05/karajarri-celebrate-australias-first-sea-country-indigenous-protected-area/",
+          "time": "9d ago",
+          "first_seen_at": "2026-05-13T09:49:26.761785+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/05/rare-swamp-deer-subspecies-thriving-in-new-home-in-india/",
+          "cover": {
+            "type": "template",
+            "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        },
+        {
+          "tag": "community",
+          "title": "‘Creamy, nutty’ spiders are protein source for Indigenous Indian tribe",
+          "summary": "Study documents indigenous spider farming as sustainable protein source in Nagaland.",
+          "extended_summary": "Researchers at Nagaland University published peer-reviewed findings on orb-weaver spider consumption among an indigenous Indian community, where the practice has been sustained for generations. The study, appearing in Frontiers in Sustainable Food Systems, examines spiders as a local protein source with established cultural and nutritional significance. While the research provides academic documentation of an existing food system rather than introducing a new intervention, it contributes evidence-based understanding of sustainable dietary practices.",
+          "source": "Mongabay",
+          "time": "19d ago",
+          "first_seen_at": "2026-05-04T04:23:41.251820+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/04/creamy-nutty-spiders-are-protein-source-for-indigenous-indian-tribe/",
+          "cover": {
+            "type": "template",
+            "template_id": "sun",
+            "color_scheme": "warm"
+          }
+        },
+        {
+          "tag": "environment",
+          "title": "Passionate ‘Tortoise Guardians’ Help Critically-Endangered Giant Tortoise Slowly Return to India",
+          "summary": "Local communities in Nagaland shift from hunting to protecting critically endangered giant tortoises.",
+          "extended_summary": "In Nagaland, a remote northeastern Indian state, residents have reversed decades of hunting pressure on the Asian giant tortoise, a critically endangered species found only on the mainland continent. Community members now actively protect the animals through local conservation efforts. The shift demonstrates how indigenous communities can become conservation allies when given appropriate incentives and engagement, though the article lacks specific population recovery data or quantified outcomes to confirm the species' trajectory.",
+          "source": "Good News Network",
+          "time": "2d ago",
+          "first_seen_at": "2026-05-20T10:26:51.386407+00:00",
+          "link": "https://www.goodnewsnetwork.org/passionate-tortoise-guardians-help-critically-endangered-giant-tortoise-slowly-return-to-india/",
+          "cover": {
+            "type": "template",
+            "template_id": "leaves",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "flag": "🇧🇩",
+      "lat": 23.81,
+      "lng": 90.41,
+      "count": 4,
+      "stories": [
+        {
+          "tag": "community",
+          "title": "In flood-prone Bangladesh, tiny homes are built to move with the river",
+          "summary": "Bangladesh develops amphibious housing design to withstand seasonal flooding.",
+          "extended_summary": "In flood-prone regions of northeastern Bangladesh, engineers have designed homes built on movable foundations that rise and fall with seasonal river flooding. The solution addresses a chronic problem affecting char communities—low-lying sand islands where families face annual crop loss and property damage. By allowing structures to float vertically on fixed posts rather than relocate entirely, the design reduces displacement while protecting assets. This represents a practical adaptation strategy for climate-vulnerable populations with limited relocation options.",
+          "source": "Mongabay",
+          "time": "1d ago",
+          "first_seen_at": "2026-05-21T10:43:01.353719+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/05/in-flood-prone-bangladesh-tiny-homes-are-built-to-move-with-the-river/",
+          "cover": {
+            "type": "template",
+            "template_id": "sun",
+            "color_scheme": "warm"
+          }
+        },
+        {
+          "tag": "environment",
+          "title": "Can Bangladesh’s new law save its natural wetlands?",
+          "summary": "Bangladesh parliament unanimously passes wetland protection law banning encroachment and illegal extraction.",
+          "extended_summary": "Bangladesh's parliament enacted the Haor and Wetlands Conservation Act in April 2026, establishing comprehensive protections for natural wetlands including haors, baors, and beels. The law prohibits encroachment, unauthorized mineral extraction, poisoning aquatic life, and construction blocking water flow. These wetlands support critical ecosystems and livelihoods for millions; the legislation represents a structural policy shift toward conservation rather than exploitation.",
+          "source": "Mongabay",
+          "time": "9d ago",
+          "first_seen_at": "2026-05-13T09:49:21.037857+00:00",
+          "link": "https://news.mongabay.com/2026/05/can-bangladeshs-new-law-save-its-natural-wetlands/",
+          "cover": {
+            "type": "template",
+            "template_id": "mountain",
+            "color_scheme": "moss"
+          }
+        },
+        {
+          "tag": "environment",
+          "title": "In Bangladesh, traditional farming methods are being replaced by a modern system",
+          "summary": "Bangladeshi farmers shift from slash-and-burn to vertical bamboo farming.",
+          "extended_summary": "Indigenous communities in Bangladesh's Chittagong Hill Tracts are adopting the machan method—growing vegetables on elevated bamboo trellises—as traditional jhum shifting cultivation becomes unsustainable due to land scarcity and falling yields. This transition addresses both resource pressure and agricultural productivity. The shift represents a practical adaptation to environmental constraints rather than a top-down intervention, though the article provides limited data on adoption rates or measurable outcomes.",
+          "source": "Mongabay",
+          "time": "16d ago",
+          "first_seen_at": "2026-05-06T09:29:08.528702+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/05/in-bangladesh-traditional-farming-methods-are-being-replaced-by-a-modern-system/",
+          "cover": {
+            "type": "template",
+            "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        },
+        {
+          "tag": "environment",
+          "title": "Bangladesh’s energy crunch highlights the promise — and limits — of solar",
+          "summary": "Bangladesh expands solar capacity to reduce dependence on fuel imports amid energy crisis.",
+          "extended_summary": "Bangladesh is deploying solar facilities to address chronic energy shortages and import costs. Solar now comprises 16 of 136 power generation sources, with at least 52 additional plants in development. While the sector shows measurable growth in grid contribution, the article acknowledges structural limits—solar alone cannot solve the country's broader energy deficit, but provides meaningful relief during fuel shortages and outages.",
+          "source": "Mongabay",
+          "time": "1d ago",
+          "first_seen_at": "2026-05-21T10:42:57.949040+00:00",
+          "link": "https://news.mongabay.com/2026/05/bangladeshs-energy-crunch-highlights-the-promise-and-limits-of-solar/",
           "cover": {
             "type": "template",
             "template_id": "leaves",
@@ -265,7 +405,7 @@
       "flag": "🇮🇩",
       "lat": -6.21,
       "lng": 106.85,
-      "count": 4,
+      "count": 3,
       "stories": [
         {
           "tag": "environment",
@@ -311,91 +451,6 @@
             "template_id": "wave",
             "color_scheme": "moss"
           }
-        },
-        {
-          "tag": "environment",
-          "title": "Indonesia busts wildlife trafficking ring targeting Komodo dragons",
-          "summary": "Indonesian authorities dismantle wildlife trafficking ring targeting endangered Komodo dragons.",
-          "extended_summary": "Indonesian police arrested 11 people operating a trafficking network that smuggled juvenile Komodo dragons and other endemic species. The operation targeted Varanus komodoensis, the world's largest lizard species and legally protected in Indonesia. The dismantling represents enforcement action against a documented illegal trade threatening one of Indonesia's most distinctive wildlife populations.",
-          "source": "Mongabay",
-          "time": "20d ago",
-          "first_seen_at": "2026-05-01T22:55:49.757338+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/05/indonesia-busts-wildlife-trafficking-ring-targeting-komodo-dragons/",
-          "cover": {
-            "type": "template",
-            "template_id": "mountain",
-            "color_scheme": "moss"
-          }
-        }
-      ]
-    },
-    {
-      "code": "IN",
-      "name": "India",
-      "flag": "🇮🇳",
-      "lat": 28.61,
-      "lng": 77.21,
-      "count": 4,
-      "stories": [
-        {
-          "tag": "health",
-          "title": "India’s New ‘Good Samaritan Laws’ Reward Any Citizen Who Stops to Help with Traffic Injuries",
-          "summary": "India incentivizes bystander intervention at road accidents with cash rewards.",
-          "extended_summary": "India's Rah-Veer program offers 25,000 rupees (approximately $250) to citizens who stop and assist road accident victims, addressing a documented public health crisis where road injuries rank among the world's highest. The initiative targets a specific behavioral barrier—bystander hesitation—by converting an existing social responsibility into a measurable intervention. Early evidence suggests the program increases emergency response times and survival rates, though long-term impact data is still emerging.",
-          "source": "Good News Network",
-          "time": "23h ago",
-          "first_seen_at": "2026-05-21T10:42:12.655114+00:00",
-          "link": "https://www.goodnewsnetwork.org/indias-new-good-samaritan-laws-reward-any-citizen-who-stops-to-help-with-traffic-injuries/",
-          "cover": {
-            "type": "template",
-            "template_id": "sun",
-            "color_scheme": "gold"
-          }
-        },
-        {
-          "tag": "environment",
-          "title": "Rare swamp deer subspecies thriving in new home in India",
-          "summary": "India establishes second breeding population of endangered swamp deer subspecies.",
-          "extended_summary": "Forest authorities in central India have successfully created a new breeding population of hard-ground swamp deer, a subspecies reduced to a single isolated group. The initiative expands habitat for Rucervus duvaucelii branderi beyond its lone protected area, reducing extinction risk through population diversification. This structured conservation effort demonstrates measurable progress in reversing a species decline, though full population recovery metrics require ongoing monitoring.",
-          "source": "Mongabay",
-          "time": "9d ago",
-          "first_seen_at": "2026-05-13T09:49:26.761785+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/05/rare-swamp-deer-subspecies-thriving-in-new-home-in-india/",
-          "cover": {
-            "type": "template",
-            "template_id": "wave",
-            "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "community",
-          "title": "‘Creamy, nutty’ spiders are protein source for Indigenous Indian tribe",
-          "summary": "Study documents indigenous spider farming as sustainable protein source in Nagaland.",
-          "extended_summary": "Researchers at Nagaland University published peer-reviewed findings on orb-weaver spider consumption among an indigenous Indian community, where the practice has been sustained for generations. The study, appearing in Frontiers in Sustainable Food Systems, examines spiders as a local protein source with established cultural and nutritional significance. While the research provides academic documentation of an existing food system rather than introducing a new intervention, it contributes evidence-based understanding of sustainable dietary practices.",
-          "source": "Mongabay",
-          "time": "18d ago",
-          "first_seen_at": "2026-05-04T04:23:41.251820+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/04/creamy-nutty-spiders-are-protein-source-for-indigenous-indian-tribe/",
-          "cover": {
-            "type": "template",
-            "template_id": "sun",
-            "color_scheme": "warm"
-          }
-        },
-        {
-          "tag": "environment",
-          "title": "Passionate ‘Tortoise Guardians’ Help Critically-Endangered Giant Tortoise Slowly Return to India",
-          "summary": "Local communities in Nagaland shift from hunting to protecting critically endangered giant tortoises.",
-          "extended_summary": "In Nagaland, a remote northeastern Indian state, residents have reversed decades of hunting pressure on the Asian giant tortoise, a critically endangered species found only on the mainland continent. Community members now actively protect the animals through local conservation efforts. The shift demonstrates how indigenous communities can become conservation allies when given appropriate incentives and engagement, though the article lacks specific population recovery data or quantified outcomes to confirm the species' trajectory.",
-          "source": "Good News Network",
-          "time": "2d ago",
-          "first_seen_at": "2026-05-20T10:26:51.386407+00:00",
-          "link": "https://www.goodnewsnetwork.org/passionate-tortoise-guardians-help-critically-endangered-giant-tortoise-slowly-return-to-india/",
-          "cover": {
-            "type": "template",
-            "template_id": "leaves",
-            "color_scheme": "moss"
-          }
         }
       ]
     },
@@ -405,7 +460,7 @@
       "flag": "🇰🇪",
       "lat": -1.29,
       "lng": 36.82,
-      "count": 4,
+      "count": 3,
       "stories": [
         {
           "tag": "environment",
@@ -428,7 +483,7 @@
           "summary": "Four mountain bongos translocated from European zoos to Kenya to bolster wild population.",
           "extended_summary": "Mountain bongos, Africa's rarest antelope species with fewer than 50 individuals remaining in the wild, received a conservation boost when four animals were transported from European zoos to Mount Kenya Wildlife Conservancy. This translocation represents a coordinated breeding and reintroduction effort to increase genetic diversity and population viability. The program demonstrates how zoos and conservation organizations can work together on species recovery, though long-term success depends on sustained habitat protection and monitoring.",
           "source": "Good News Network",
-          "time": "12d ago",
+          "time": "13d ago",
           "first_seen_at": "2026-05-10T08:58:26.953094+00:00",
           "link": "https://www.goodnewsnetwork.org/africas-rarest-antelope-gets-boost-as-zoos-send-4-bongos-to-kenya-to-help-save-the-species/",
           "cover": {
@@ -450,131 +505,6 @@
             "type": "template",
             "template_id": "circles",
             "color_scheme": "warm"
-          }
-        },
-        {
-          "tag": "environment",
-          "title": "Kenyan Court allows landmark BP toxic waste lawsuit to proceed",
-          "summary": "Kenyan court clears landmark class action lawsuit against BP for toxic waste contamination.",
-          "extended_summary": "Kenya's Environment and Land Court ruled that a class action suit against BP can proceed to full trial, addressing alleged groundwater contamination from 1980s oil exploration operations in northern regions. The case claims toxic waste killed over 500 people and thousands of livestock. This decision represents a significant procedural victory for affected communities seeking accountability and compensation from a major multinational corporation for documented environmental harm.",
-          "source": "Mongabay",
-          "time": "20d ago",
-          "first_seen_at": "2026-05-01T22:55:44.572665+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/05/kenyan-court-allows-landmark-bp-toxic-waste-lawsuit-to-proceed/",
-          "cover": {
-            "type": "template",
-            "template_id": "leaves",
-            "color_scheme": "moss"
-          }
-        }
-      ]
-    },
-    {
-      "code": "BD",
-      "name": "Bangladesh",
-      "flag": "🇧🇩",
-      "lat": 23.81,
-      "lng": 90.41,
-      "count": 4,
-      "stories": [
-        {
-          "tag": "community",
-          "title": "In flood-prone Bangladesh, tiny homes are built to move with the river",
-          "summary": "Bangladesh develops amphibious housing design to withstand seasonal flooding.",
-          "extended_summary": "In flood-prone regions of northeastern Bangladesh, engineers have designed homes built on movable foundations that rise and fall with seasonal river flooding. The solution addresses a chronic problem affecting char communities—low-lying sand islands where families face annual crop loss and property damage. By allowing structures to float vertically on fixed posts rather than relocate entirely, the design reduces displacement while protecting assets. This represents a practical adaptation strategy for climate-vulnerable populations with limited relocation options.",
-          "source": "Mongabay",
-          "time": "23h ago",
-          "first_seen_at": "2026-05-21T10:43:01.353719+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/05/in-flood-prone-bangladesh-tiny-homes-are-built-to-move-with-the-river/",
-          "cover": {
-            "type": "template",
-            "template_id": "sun",
-            "color_scheme": "warm"
-          }
-        },
-        {
-          "tag": "environment",
-          "title": "Can Bangladesh’s new law save its natural wetlands?",
-          "summary": "Bangladesh parliament unanimously passes wetland protection law banning encroachment and illegal extraction.",
-          "extended_summary": "Bangladesh's parliament enacted the Haor and Wetlands Conservation Act in April 2026, establishing comprehensive protections for natural wetlands including haors, baors, and beels. The law prohibits encroachment, unauthorized mineral extraction, poisoning aquatic life, and construction blocking water flow. These wetlands support critical ecosystems and livelihoods for millions; the legislation represents a structural policy shift toward conservation rather than exploitation.",
-          "source": "Mongabay",
-          "time": "9d ago",
-          "first_seen_at": "2026-05-13T09:49:21.037857+00:00",
-          "link": "https://news.mongabay.com/2026/05/can-bangladeshs-new-law-save-its-natural-wetlands/",
-          "cover": {
-            "type": "template",
-            "template_id": "mountain",
-            "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "environment",
-          "title": "In Bangladesh, traditional farming methods are being replaced by a modern system",
-          "summary": "Bangladeshi farmers shift from slash-and-burn to vertical bamboo farming.",
-          "extended_summary": "Indigenous communities in Bangladesh's Chittagong Hill Tracts are adopting the machan method—growing vegetables on elevated bamboo trellises—as traditional jhum shifting cultivation becomes unsustainable due to land scarcity and falling yields. This transition addresses both resource pressure and agricultural productivity. The shift represents a practical adaptation to environmental constraints rather than a top-down intervention, though the article provides limited data on adoption rates or measurable outcomes.",
-          "source": "Mongabay",
-          "time": "16d ago",
-          "first_seen_at": "2026-05-06T09:29:08.528702+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/05/in-bangladesh-traditional-farming-methods-are-being-replaced-by-a-modern-system/",
-          "cover": {
-            "type": "template",
-            "template_id": "wave",
-            "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "environment",
-          "title": "Bangladesh’s energy crunch highlights the promise — and limits — of solar",
-          "summary": "Bangladesh expands solar capacity to reduce dependence on fuel imports amid energy crisis.",
-          "extended_summary": "Bangladesh is deploying solar facilities to address chronic energy shortages and import costs. Solar now comprises 16 of 136 power generation sources, with at least 52 additional plants in development. While the sector shows measurable growth in grid contribution, the article acknowledges structural limits—solar alone cannot solve the country's broader energy deficit, but provides meaningful relief during fuel shortages and outages.",
-          "source": "Mongabay",
-          "time": "23h ago",
-          "first_seen_at": "2026-05-21T10:42:57.949040+00:00",
-          "link": "https://news.mongabay.com/2026/05/bangladeshs-energy-crunch-highlights-the-promise-and-limits-of-solar/",
-          "cover": {
-            "type": "template",
-            "template_id": "leaves",
-            "color_scheme": "moss"
-          }
-        }
-      ]
-    },
-    {
-      "code": "CN",
-      "name": "China",
-      "flag": "🇨🇳",
-      "lat": 39.9,
-      "lng": 116.4,
-      "count": 2,
-      "stories": [
-        {
-          "tag": "environment",
-          "title": "Shanghai Achieves 98% Industrial Recycling Rates After 2019 Waste Management Plan",
-          "summary": "Shanghai's industrial waste recycling rate reaches 98% following six-year sustainability initiative.",
-          "extended_summary": "Shanghai implemented a comprehensive waste management program starting in 2019 to address the city's 26,000 metric tons of daily waste generation. After six years of investment and public engagement, industrial recycling rates reached 98%, while household recycling improved by 10 percentage points to 35-45%. The program combined infrastructure development, public messaging, and behavior change to achieve measurable environmental outcomes at scale in a major metropolitan area.",
-          "source": "Good News Network",
-          "time": "8d ago",
-          "first_seen_at": "2026-05-14T09:37:03.734442+00:00",
-          "link": "https://www.goodnewsnetwork.org/shanghai-achieves-98-industrial-45-home-recycling-rates-after-2019-waste-management-plan/",
-          "cover": {
-            "type": "template",
-            "template_id": "leaves",
-            "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "environment",
-          "title": "40 Years of Work Returning 900 Wild Horses to China’s Steppes is Celebrated in Year of the Horse 2026",
-          "summary": "China's 40-year Przewalski's horse reintroduction program has restored 900 animals to steppes.",
-          "extended_summary": "Since 1986, China's Wild Horse Return Program has bred and relocated 900 Przewalski's horses to their native grasslands, marking four decades of sustained conservation effort. The program represents one of China's earliest large-scale wildlife restoration initiatives, focusing on a species hunted to extinction in the wild. The 2026 milestone coincides with the Chinese zodiac's Year of the Horse, underscoring the cultural and ecological significance of restoring this subspecies to Central Asian steppes.",
-          "source": "Good News Network",
-          "time": "20d ago",
-          "first_seen_at": "2026-05-01T22:54:42.672033+00:00",
-          "link": "https://www.goodnewsnetwork.org/40-years-work-returning-900-wild-horses-to-chinese-steppes-celebrated-on-year-of-the-horse-2026/",
-          "cover": {
-            "type": "template",
-            "template_id": "mountain",
-            "color_scheme": "moss"
           }
         }
       ]
@@ -648,7 +578,7 @@
           "summary": "Humpback whale population shows recovery with record 304 individuals observed feeding together.",
           "extended_summary": "Photographers documented 304 humpback whales feeding in a single aggregation near South Africa, exceeding the previous record. The gathering, called a supergroup, indicates recovery in whale populations that were hunted to near extinction. Scientists are studying the behavior to understand whether it reflects increased food availability or changing migration patterns, with implications for monitoring ocean health.",
           "source": "Good News Network",
-          "time": "18d ago",
+          "time": "19d ago",
           "first_seen_at": "2026-05-04T04:55:47.293524+00:00",
           "link": "https://www.goodnewsnetwork.org/record-number-of-humpbacks-observed-feeding-in-supergroup-near-south-africa/",
           "cover": {
@@ -688,7 +618,7 @@
           "summary": "US protects Jamaican butterfly species through endangered listing proposal.",
           "extended_summary": "The U.S. Fish and Wildlife Service proposed listing the Jamaican kite swallowtail butterfly as endangered under the Endangered Species Act. The species, endemic to Jamaica's limestone forests and identified as the country's most imperiled butterfly, would gain federal protection restricting habitat destruction and trade. The designation represents a cross-border conservation mechanism for a species with no established recovery targets yet, addressing immediate threats from habitat loss.",
           "source": "Mongabay",
-          "time": "14d ago",
+          "time": "15d ago",
           "first_seen_at": "2026-05-08T08:25:20.960539+00:00",
           "link": "https://news.mongabay.com/2026/05/us-proposes-endangered-species-protections-for-an-imperiled-jamaican-butterfly/",
           "cover": {
@@ -753,7 +683,7 @@
           "summary": "Zambia deploys radio and satellite alerts to reduce wildlife-livestock conflicts in farming communities.",
           "extended_summary": "Zambian wildlife officials partnered with local radio stations to broadcast real-time alerts about dangerous animal movements near farms, enabling farmers to protect livestock and avoid encounters. The system combines satellite tracking data with community reporting through radio calls, creating a two-way information channel between wildlife rangers and rural populations. Early evidence suggests the approach reduces both human casualties and wildlife deaths in high-conflict areas of eastern Zambia, addressing a persistent problem affecting food security and livelihoods.",
           "source": "Mongabay",
-          "time": "6d ago",
+          "time": "7d ago",
           "first_seen_at": "2026-05-16T08:52:06.797490+00:00",
           "link": "https://news.mongabay.com/2026/05/radio-and-satellite-alerts-help-zambian-farmers-live-with-dangerous-wildlife/",
           "cover": {
@@ -848,7 +778,7 @@
           "summary": "Wildlife recovery in Nepal creates safety risks for rural women forced into forest-edge farming.",
           "extended_summary": "Nepal's tiger population has tripled, a conservation success. However, male out-migration has left rural women managing agriculture and household tasks alone, increasingly at forest edges where human-wildlife conflicts occur. This 'feminization of agriculture' has created a safety gap: women now face disproportionate danger from wildlife encounters while performing subsistence work. The story highlights how conservation gains can produce uneven impacts across gender and class.",
           "source": "Mongabay",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-21T10:43:14.796110+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/rural-women-at-increasing-risk-of-human-wildlife-conflict-in-nepal/",
           "cover": {
@@ -888,7 +818,7 @@
           "summary": "Madagascar develops improved survey methods to better track forest biodiversity.",
           "extended_summary": "Conservation biologist Dimby Raharinjanahary led efforts to modernize how Madagascar monitors its forest ecosystems, moving beyond tracking only visible indicator species like lemurs and birds. The national parks service adopted new survey methodologies that capture broader biodiversity data, addressing gaps in the previous monitoring approach. This shift enables more comprehensive understanding of forest health across the island's unique ecosystems, informing conservation priorities and resource allocation for one of the world's most biodiverse regions.",
           "source": "Mongabay",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-21T10:43:03.600529+00:00",
           "link": "https://news.mongabay.com/2026/05/new-survey-methods-uncover-new-insights-into-madagascars-biodiversity/",
           "cover": {
@@ -913,7 +843,7 @@
           "summary": "Twenty-year study shows Amazon forests regenerate after fire but lose species diversity.",
           "extended_summary": "Researchers tracking the southeastern Brazilian Amazon over two decades found degraded forests recover structurally after fires, with no transition to savanna. However, species diversity at forest edges dropped 50 percent as fire-resistant specialist trees were replaced by fast-growing generalists. While forest resilience offers some hope, scientists warn these recovering ecosystems remain vulnerable to future climate disturbances, presenting a mixed picture for long-term Amazon preservation.",
           "source": "Mongabay",
-          "time": "just now",
+          "time": "22h ago",
           "first_seen_at": "2026-05-22T10:27:29.357894+00:00",
           "link": "https://news.mongabay.com/2026/05/amazon-resilient-to-fire-but-diversity-loss-still-a-threat-study-finds/",
           "cover": {
@@ -928,7 +858,7 @@
           "summary": "Brazilian prosecutors sue JBS for sourcing cattle from farms with slavery-like labor conditions.",
           "extended_summary": "Brazil's labor prosecutors filed a civil lawsuit against meatpacking corporation JBS, seeking 119 million reais ($24 million) in damages for purchasing cattle from farms where workers faced slavery-like exploitation. The case, filed in Para state's labor court, represents an enforcement action targeting supply-chain labor abuses in Brazil's beef industry. While this demonstrates institutional accountability mechanisms at work, the outcome remains pending and the suit's effectiveness depends on court enforcement.",
           "source": "Mongabay",
-          "time": "18d ago",
+          "time": "19d ago",
           "first_seen_at": "2026-05-04T04:23:25.484114+00:00",
           "link": "https://news.mongabay.com/short-article/2026/04/brazil-prosecutors-launch-suit-against-meatpacking-giant-jbs-over-beef-tied-to-slavery-like-labor/",
           "cover": {
@@ -953,7 +883,7 @@
           "summary": "Ecuador arrests wildlife traffickers with endangered Galápagos iguanas at airport",
           "extended_summary": "Ecuadorian police arrested three Thai nationals at Guayaquil airport in May 2026 for attempting to smuggle 12 endemic marine iguanas, with the animals discovered bound in luggage. The seizure demonstrates enforcement capacity against illegal wildlife trade targeting critically endangered species. One iguana died during transport, highlighting both the stakes and the operational success of airport interdiction efforts in protecting Galápagos biodiversity.",
           "source": "Mongabay",
-          "time": "just now",
+          "time": "22h ago",
           "first_seen_at": "2026-05-22T10:27:21.775503+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/three-thai-nationals-suspected-of-smuggling-galapagos-iguanas-arrested-in-ecuador/",
           "cover": {
@@ -968,9 +898,34 @@
           "summary": "Conservation effort targets breeding grounds of critically endangered Galápagos petrels.",
           "extended_summary": "The Galápagos petrel population has contracted to approximately 15,000 individuals following decades of decline through the 1980s. These seabirds face multiple threats during their breeding season in their sole breeding habitat. A coordinated conservation initiative is working to address hazards at nesting sites and improve survival rates for this species found only in Ecuador's Galápagos archipelago.",
           "source": "Mongabay",
-          "time": "18d ago",
+          "time": "19d ago",
           "first_seen_at": "2026-05-04T04:23:33.460479+00:00",
           "link": "https://news.mongabay.com/2026/04/inside-the-fight-to-save-the-little-known-galapagos-petrel/",
+          "cover": {
+            "type": "template",
+            "template_id": "leaves",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "flag": "🇨🇳",
+      "lat": 39.9,
+      "lng": 116.4,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "Shanghai Achieves 98% Industrial Recycling Rates After 2019 Waste Management Plan",
+          "summary": "Shanghai's industrial waste recycling rate reaches 98% following six-year sustainability initiative.",
+          "extended_summary": "Shanghai implemented a comprehensive waste management program starting in 2019 to address the city's 26,000 metric tons of daily waste generation. After six years of investment and public engagement, industrial recycling rates reached 98%, while household recycling improved by 10 percentage points to 35-45%. The program combined infrastructure development, public messaging, and behavior change to achieve measurable environmental outcomes at scale in a major metropolitan area.",
+          "source": "Good News Network",
+          "time": "8d ago",
+          "first_seen_at": "2026-05-14T09:37:03.734442+00:00",
+          "link": "https://www.goodnewsnetwork.org/shanghai-achieves-98-industrial-45-home-recycling-rates-after-2019-waste-management-plan/",
           "cover": {
             "type": "template",
             "template_id": "leaves",
@@ -993,138 +948,13 @@
           "summary": "Oak trees delay leaf sprouting by three days to evade caterpillar infestations.",
           "extended_summary": "German researchers using satellite data discovered that oak trees adjust their spring phenology in response to previous-year pest pressure, delaying leaf emergence by approximately three days after caterpillar defoliation events. This adaptive behavior reduces overlap between leaf vulnerability and peak caterpillar hatch timing, demonstrating measurable tree-insect synchronization. The finding provides peer-reviewed evidence of phenological plasticity in woody plants and suggests climate change could disrupt these evolved timing mechanisms.",
           "source": "Good News Network",
-          "time": "18d ago",
+          "time": "19d ago",
           "first_seen_at": "2026-05-04T04:01:41.095556+00:00",
           "link": "https://www.goodnewsnetwork.org/oak-trees-will-delay-sprouting-leaves-to-avoid-hungry-caterpillars-that-ate-the-trees-last-year-study/",
           "cover": {
             "type": "template",
             "template_id": "orbit",
             "color_scheme": "sky"
-          }
-        }
-      ]
-    },
-    {
-      "code": "SG",
-      "name": "Singapore",
-      "flag": "🇸🇬",
-      "lat": 1.35,
-      "lng": 103.82,
-      "count": 1,
-      "stories": [
-        {
-          "tag": "environment",
-          "title": "Singapore’s population of Raffles’ banded langur has doubled",
-          "summary": "Singapore's Raffles' banded langur population doubled through targeted conservation efforts in forest reserves.",
-          "extended_summary": "Singapore's population of Raffles' banded langurs has doubled, marking measurable progress in urban primate conservation. Volunteers systematically monitor canopy populations in forest reserves adjacent to the city, tracking the species' recovery. The achievement demonstrates how structured habitat protection and population monitoring can reverse decline even in densely urbanized regions where conservation space is severely limited.",
-          "source": "Mongabay",
-          "time": "20d ago",
-          "first_seen_at": "2026-05-01T22:55:51.368828+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/05/singapores-population-of-raffles-banded-langur-has-doubled/",
-          "cover": {
-            "type": "template",
-            "template_id": "mountain",
-            "color_scheme": "moss"
-          }
-        }
-      ]
-    },
-    {
-      "code": "GT",
-      "name": "Guatemala",
-      "flag": "🇬🇹",
-      "lat": 14.63,
-      "lng": -90.51,
-      "count": 1,
-      "stories": [
-        {
-          "tag": "environment",
-          "title": "In Guatemala, new AI technology will be ‘listening’ for illegal deforestation",
-          "summary": "Guatemala deploys AI acoustic monitoring to detect illegal forest clearing in Maya Forest",
-          "extended_summary": "Rangers in Guatemala's Maya Forest are using artificial intelligence to identify illegal deforestation through acoustic monitoring. The technology listens for chainsaw sounds and other indicators of forest clearing activity, enabling faster detection and intervention. This addresses a critical problem: Guatemala loses thousands of hectares annually to illegal logging and land conversion, threatening biodiversity and indigenous territories. The system represents a scalable enforcement tool for protected areas where traditional patrols struggle to cover vast territory.",
-          "source": "Mongabay",
-          "time": "20d ago",
-          "first_seen_at": "2026-05-01T22:55:55.148717+00:00",
-          "link": "https://news.mongabay.com/2026/04/in-guatemala-new-ai-technology-will-be-listening-for-illegal-deforestation/",
-          "cover": {
-            "type": "template",
-            "template_id": "wave",
-            "color_scheme": "moss"
-          }
-        }
-      ]
-    },
-    {
-      "code": "CA",
-      "name": "Canada",
-      "flag": "🇨🇦",
-      "lat": 45.42,
-      "lng": -75.69,
-      "count": 1,
-      "stories": [
-        {
-          "tag": "community",
-          "title": "Fifty new outlets, 250 journalists: Canadian startup unveils plan to revive local news",
-          "summary": "Canadian entrepreneur scales successful local news model to 50 outlets with 250 journalists.",
-          "extended_summary": "Andrew Wilkinson's Victoria newsletter, launched in 2019, demonstrated that subscription-based local journalism could sustain itself amid industry decline. He is now expanding the model across Canada with 50 new outlets and 250 journalists, directly addressing news deserts where coverage has disappeared. The initiative targets regions abandoned by traditional media closures, aiming to restore systematic local reporting infrastructure rather than relying on philanthropic interventions.",
-          "source": "Guardian Upside",
-          "time": "20d ago",
-          "first_seen_at": "2026-05-01T22:56:28.358493+00:00",
-          "link": "https://www.theguardian.com/world/2021/may/03/local-media-can-survive-the-canadian-team-building-a-future-for-community-news",
-          "cover": {
-            "type": "template",
-            "template_id": "circles",
-            "color_scheme": "warm"
-          }
-        }
-      ]
-    },
-    {
-      "code": "TR",
-      "name": "Turkey",
-      "flag": "🇹🇷",
-      "lat": 39.93,
-      "lng": 32.86,
-      "count": 1,
-      "stories": [
-        {
-          "tag": "environment",
-          "title": "Bald Ibis ‘the Herald of Spring’ Saved from Extinction in Turkey Thanks to Semi-Wild Breeding",
-          "summary": "Turkey's bald ibis population rebounds through semi-wild breeding program after near extinction.",
-          "extended_summary": "The bald ibis, a migratory species that historically nested on Turkish cliffs along the Euphrates River, faced extinction from habitat loss and other modern pressures. A coalition of local wildlife experts and international conservation organizations implemented a semi-wild breeding initiative to restore the population. The program has successfully increased numbers of birds returning during spring migration, demonstrating measurable recovery of a species that had declined to critically low levels.",
-          "source": "Good News Network",
-          "time": "20d ago",
-          "first_seen_at": "2026-05-01T23:50:06.338257+00:00",
-          "link": "https://www.goodnewsnetwork.org/turkey-saves-its-bald-ibis-the-herald-of-spring-from-extinction-thanks-to-semi-wild-breeding/",
-          "cover": {
-            "type": "template",
-            "template_id": "wave",
-            "color_scheme": "moss"
-          }
-        }
-      ]
-    },
-    {
-      "code": "ZW",
-      "name": "Zimbabwe",
-      "flag": "🇿🇼",
-      "lat": -17.83,
-      "lng": 31.05,
-      "count": 1,
-      "stories": [
-        {
-          "tag": "community",
-          "title": "Conservationist wins top award to protect lions and people in Zimbabwe",
-          "summary": "Zimbabwe trains community guardians to reduce human-wildlife conflict between lions and livestock owners.",
-          "extended_summary": "Conservationist Moreangels Mbizah leads a program in northern Zimbabwe training local \"Batabilili\" (protectors) to mitigate conflicts between lions and pastoral communities. The initiative addresses a measurable problem: livestock predation and human safety concerns that drive retaliatory killings of lions. By embedding guardians within communities to monitor and manage encounters, the program reduces both human fatalities and lion deaths, creating documented outcomes for wildlife survival and rural livelihoods in a region where coexistence has proven difficult.",
-          "source": "Mongabay",
-          "time": "20d ago",
-          "first_seen_at": "2026-05-01T23:51:54.042381+00:00",
-          "link": "https://news.mongabay.com/2026/04/conservationist-wins-top-award-to-protect-lions-and-people-in-zimbabwe/",
-          "cover": {
-            "type": "template",
-            "template_id": "sun",
-            "color_scheme": "warm"
           }
         }
       ]
@@ -1218,7 +1048,7 @@
           "summary": "Paris conducts large-scale heat emergency preparedness simulation with residents.",
           "extended_summary": "Paris organized a stress test in October 2023 involving approximately 70 children and residents to prepare for extreme heat scenarios. The exercise, conducted in underground tunnels and other city locations, assessed the city's capacity to protect vulnerable populations during heat waves. As European cities face intensifying temperature extremes, Paris is using structured drills to identify infrastructure gaps and improve emergency response protocols before future crises occur.",
           "source": "Reasons to be Cheerful",
-          "time": "14d ago",
+          "time": "15d ago",
           "first_seen_at": "2026-05-08T08:24:38.956421+00:00",
           "link": "https://reasonstobecheerful.world/paris-staged-a-huge-stress-test-for-extreme-heat/",
           "cover": {
@@ -1243,7 +1073,7 @@
           "summary": "Vodun spiritual beliefs protect 500+ hectares of West African mangroves from logging.",
           "extended_summary": "In Benin, mangrove forests are being preserved through Vodun spiritual practices that prohibit wood cutting under religious sanction. Over a decade, this faith-based conservation approach has protected more than 500 hectares of mangroves—critical ecosystems for carbon sequestration and coastal protection. The strategy demonstrates how traditional belief systems can enforce environmental stewardship at scale, though the article provides limited detail on monitoring mechanisms or long-term sustainability measures.",
           "source": "Mongabay",
-          "time": "13d ago",
+          "time": "14d ago",
           "first_seen_at": "2026-05-09T08:45:41.645661+00:00",
           "link": "https://news.mongabay.com/video/2026/05/voduns-sacred-role-in-saving-west-africas-mangroves/",
           "cover": {
@@ -1418,7 +1248,7 @@
           "summary": "Sixty elephants return to Uganda's Mount Elgon after 40-year absence.",
           "extended_summary": "Using tracking collar data, the Mount Elgon Foundation documented at least 60 elephants migrating from Kenya into Uganda's portion of Mount Elgon during the past year—their first presence in four decades. The return signals recovery of transboundary wildlife corridors in a region where habitat loss and poaching had eliminated the species. This measurable population movement indicates both improved protection efforts and ecosystem restoration on the Ugandan side.",
           "source": "Mongabay",
-          "time": "3d ago",
+          "time": "4d ago",
           "first_seen_at": "2026-05-18T11:10:31.806993+00:00",
           "link": "https://news.mongabay.com/2026/05/elephants-return-to-mount-elgon-side-of-uganda-after-four-decades/",
           "cover": {
@@ -1468,7 +1298,7 @@
           "summary": "Twenty-year camera-trap study documents rare Amazonian dog across Bolivia's protected forests.",
           "extended_summary": "Researchers documented over 4,600 camera-trap images of the short-eared dog (ghost dog) across Bolivia's Amazon region between 2001 and 2024, recording 594 independent sightings. The study demonstrates this elusive canid depends critically on intact forest habitat and occurs primarily in protected areas and Indigenous territories. These findings provide baseline data for one of the world's least-known carnivores and highlight the conservation value of existing land protections in maintaining Amazonian biodiversity.",
           "source": "Mongabay",
-          "time": "1d ago",
+          "time": "2d ago",
           "first_seen_at": "2026-05-20T10:28:07.385266+00:00",
           "link": "https://news.mongabay.com/2026/05/study-gathers-over-4000-photos-to-find-bolivias-rarest-amazonian-dog/",
           "cover": {
@@ -1493,7 +1323,7 @@
           "summary": "Mexico blocks Royal Caribbean waterpark over coastal ecosystem damage risks.",
           "extended_summary": "Mexican environmental authorities rejected Royal Caribbean's proposed 80-hectare waterpark in Quintana Roo's Mahahual village, citing threats to coastal ecosystems and local communities. The decision represents enforcement of environmental protections in a region under pressure from tourism development. The project would have required substantial infrastructure in an ecologically sensitive Caribbean area, making the rejection a substantive regulatory victory for environmental safeguards.",
           "source": "Mongabay",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-21T10:43:20.710060+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/mexico-rejects-perfect-day-waterpark-on-caribbean-coast-citing-environmental-risks/",
           "cover": {
@@ -1518,9 +1348,34 @@
           "summary": "Thai island community implements seagrass restoration to support dugong population recovery.",
           "extended_summary": "Residents of Koh Libong are working to restore seagrass meadows that have declined significantly over decades, directly supporting the survival of dugongs—marine mammals dependent on these ecosystems. The initiative involves local stakeholders documenting historical seagrass coverage and implementing habitat protection measures. This represents a measurable conservation effort addressing both species recovery and ecosystem health in a region where dugong populations have faced severe pressure from environmental degradation.",
           "source": "Mongabay",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-05-21T10:43:18.727980+00:00",
           "link": "https://news.mongabay.com/2026/05/thai-island-community-rallies-to-protect-beloved-dugongs-revive-declining-seagrass/",
+          "cover": {
+            "type": "template",
+            "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "flag": "🇰🇬",
+      "lat": 42.87,
+      "lng": 74.59,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "In Kyrgyzstan, a climate-ready corridor gives snow leopards and herders room to roam",
+          "summary": "Kyrgyzstan establishes wildlife corridor balancing snow leopard conservation with herder livelihoods.",
+          "extended_summary": "Kyrgyzstan has created a climate-adapted corridor to protect snow leopards while accommodating pastoral communities in Central Asia's mountains. The initiative addresses a documented conflict: herders lose livestock to leopards, while the cats face habitat pressure and poaching. By designating migration routes and implementing compensation programs, the project provides measurable space for both species and supports local economies dependent on grazing.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-05-23T09:06:11.246078+00:00",
+          "link": "https://news.mongabay.com/2026/05/in-kyrgyzstan-a-climate-ready-corridor-gives-snow-leopards-and-herders-room-to-roam/",
           "cover": {
             "type": "template",
             "template_id": "wave",
@@ -1535,7 +1390,7 @@
       "flag": "🌍",
       "lat": null,
       "lng": null,
-      "count": 19,
+      "count": 20,
       "stories": [
         {
           "tag": "environment",
@@ -1543,7 +1398,7 @@
           "summary": "Study quantifies mangrove forests' capacity to remove millions of metric tons of nitrogen pollution globally.",
           "extended_summary": "Researchers found that restoring and protecting mangrove forests worldwide could sequester over five million metric tons of nitrogen annually from coastal ecosystems. Nitrogen pollution from agricultural fertilizers and sewage degrades water quality and marine habitats. Mangroves naturally filter and store nitrogen through their root systems and sediments. The finding provides quantified evidence for mangrove conservation as a cost-effective approach to addressing a major water-pollution driver.",
           "source": "Mongabay",
-          "time": "just now",
+          "time": "22h ago",
           "first_seen_at": "2026-05-22T10:27:31.260803+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/mangroves-are-powerful-and-undervalued-for-curbing-nitrogen-pollution-study-finds/",
           "cover": {
@@ -1558,7 +1413,7 @@
           "summary": "Camera trap footage documents Persian leopards moving across Georgia-Azerbaijan border despite conflict and habitat barriers.",
           "extended_summary": "Researchers using camera traps have documented endangered Persian leopards crossing the Georgia-Azerbaijan border, a region complicated by armed conflict, landmines, and fragmented habitat. The discovery, involving Georgian and international collaborators, demonstrates the species persists across politically divided terrain. This evidence supports transboundary conservation strategies, showing that despite significant obstacles, leopard populations maintain movement corridors necessary for genetic diversity and long-term survival in the Caucasus region.",
           "source": "Mongabay",
-          "time": "6d ago",
+          "time": "7d ago",
           "first_seen_at": "2026-05-16T08:52:11.176185+00:00",
           "link": "https://news.mongabay.com/2026/05/endangered-persian-leopards-persist-across-borders-despite-hunters-and-landmines/",
           "cover": {
@@ -1618,7 +1473,7 @@
           "summary": "Study of 2,000 post-surgery patients links daily walking to faster recovery and fewer complications.",
           "extended_summary": "Researchers analyzing nearly 2,000 adults found that each additional 1,000 steps walked daily after surgery correlated with measurable clinical improvements: 18% reduced complication risk, 16% lower readmission rates, and 6% shorter hospital stays. The findings suggest a low-cost intervention with broad applicability across surgical populations. This quantified dose-response relationship provides actionable guidance for post-operative care protocols.",
           "source": "Good News Network",
-          "time": "13d ago",
+          "time": "14d ago",
           "first_seen_at": "2026-05-09T08:44:48.969272+00:00",
           "link": "https://www.goodnewsnetwork.org/walking-an-extra-1000-steps-a-day-after-surgery-helps-patients-recover-quicker/",
           "cover": {
@@ -1633,7 +1488,7 @@
           "summary": "Global tropical primary forest loss declined 36 percent in 2025 according to satellite data.",
           "extended_summary": "The World Resources Institute's Global Forest Watch platform recorded a significant slowdown in tropical primary forest loss during 2025, marking a measurable improvement in a key environmental metric. However, researchers note this represents a single year's data rather than an established trend, urging caution about interpreting it as sustained progress. The finding reflects contributions from policy changes, enforcement efforts, and market dynamics across multiple countries, though scientists emphasize continued monitoring is necessary.",
           "source": "Mongabay",
-          "time": "13d ago",
+          "time": "14d ago",
           "first_seen_at": "2026-05-09T08:45:55.165398+00:00",
           "link": "https://news.mongabay.com/2026/05/forests-fires-and-fragile-gains-interview-with-wris-elizabeth-goldman/",
           "cover": {
@@ -1648,7 +1503,7 @@
           "summary": "Private landowners in US and Australia have conserved 85 million acres through wills and bequests.",
           "extended_summary": "Wealthy individuals in the United States and Australia are using estate planning to protect large tracts of land for conservation. Australia alone has accumulated 24 million acres of privately-conserved land, establishing one of the world's largest networks of private conservation areas. This approach addresses habitat loss and ecosystem degradation by leveraging existing wealth transfer mechanisms rather than requiring new government funding or policy intervention.",
           "source": "Good News Network",
-          "time": "14d ago",
+          "time": "15d ago",
           "first_seen_at": "2026-05-08T08:24:07.486021+00:00",
           "link": "https://www.goodnewsnetwork.org/85-million-acres-of-private-land-are-being-protected-for-conservation-in-the-us-and-australia/",
           "cover": {
@@ -1663,7 +1518,7 @@
           "summary": "Blood test predicts disease progression and treatment response in proof-of-concept study.",
           "extended_summary": "Imperial College London researchers developed a blood test that analyzes RNA markers to predict how patients will respond to treatment and whether diseases will progress. The proof-of-concept study demonstrated effectiveness across multiple conditions, including infectious diseases and inflammatory bowel disease. While further research is needed, Imperial estimates a working test could be available within five years, potentially improving clinical decision-making and patient outcomes.",
           "source": "Positive News",
-          "time": "14d ago",
+          "time": "15d ago",
           "first_seen_at": "2026-05-08T08:24:24.615626+00:00",
           "link": "https://www.positive.news/society/good-news-stories-from-week-19-of-2026/",
           "cover": {
@@ -1678,7 +1533,7 @@
           "summary": "Genomic study maps elephant population decline and habitat fragmentation across Africa.",
           "extended_summary": "Researchers analyzed genomes from both savanna and forest elephants across Africa, revealing historical gene flow between populations and documenting how ivory poaching and habitat loss have fractured elephant populations at the genetic level. The study provides quantifiable evidence of human-driven ecological disruption through genomic patterns. This research establishes a baseline for understanding elephant population viability and informs conservation priorities across fragmented African habitats.",
           "source": "Mongabay",
-          "time": "14d ago",
+          "time": "15d ago",
           "first_seen_at": "2026-05-08T08:25:01.224358+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/african-elephant-genomes-reveal-ancient-mixing-and-modern-pressures/",
           "cover": {
@@ -1723,7 +1578,7 @@
           "summary": "Study reveals digger wasps use sophisticated memory to manage multiple offspring simultaneously.",
           "extended_summary": "Researchers studying Ammophila pubescens wasps discovered these insects demonstrate complex cognitive abilities despite their tiny brains. Female wasps maintain up to nine separate underground nests containing larvae at different developmental stages, remembering each location and adjusting feeding schedules based on previous assessments. The 2025 study by Field, Savill, and Foster documents how mothers prioritize feeding by age without reopening every burrow, suggesting insect cognition operates beyond simple instinctual behavior patterns.",
           "source": "Mongabay",
-          "time": "10d ago",
+          "time": "11d ago",
           "first_seen_at": "2026-05-11T10:41:16.074942+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/a-mothers-day-lesson-from-a-digger-wasp/",
           "cover": {
@@ -1798,7 +1653,7 @@
           "summary": "European and African firms commit 27 billion euros to 30 clean energy projects across Africa.",
           "extended_summary": "At the Africa Forward Summit in Nairobi, 40 companies announced investments targeting approximately 30 energy and infrastructure projects worth €27 billion across the continent. The initiatives aim to generate €100 billion in economic value and expand renewable capacity, though specific timelines, completion rates, and measurable environmental outcomes remain unclear. The announcement represents significant capital commitment but lacks detail on implementation verification or documented progress metrics needed to confirm structural impact.",
           "source": "Mongabay",
-          "time": "6d ago",
+          "time": "7d ago",
           "first_seen_at": "2026-05-16T08:51:58.370067+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/new-energy-deals-for-africa-sealed-at-nairobi-summit/",
           "cover": {
@@ -1813,12 +1668,27 @@
           "summary": "Conservation efforts have reversed declines for some species, though 18,000 remain threatened.",
           "extended_summary": "The IUCN reports that sustained conservation programs have stabilized populations of wolves, whales, certain lizards, and parrots after decades of decline. However, roughly 18,000 animal species globally remain classified as vulnerable, endangered, or critically endangered. The story acknowledges both measurable successes in species recovery and ongoing threats from habitat loss, providing a balanced assessment of conservation progress without overstating gains.",
           "source": "Mongabay",
-          "time": "6d ago",
+          "time": "7d ago",
           "first_seen_at": "2026-05-16T08:52:18.530556+00:00",
           "link": "https://news.mongabay.com/short-article/2026/05/endangered-species-day-highlights-wildlife-wins-and-mounting-losses/",
           "cover": {
             "type": "template",
             "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        },
+        {
+          "tag": "environment",
+          "title": "AI listens for endangered orcas to help reduce underwater noise exposure",
+          "summary": "AI system detects endangered orca calls to mitigate underwater noise pollution.",
+          "extended_summary": "Researchers deployed artificial intelligence to monitor Southern Resident orca vocalizations in the Salish Sea, a transboundary marine region between the U.S. and Canada. The system identifies orca presence in real time, enabling targeted noise reduction from maritime traffic. This addresses a documented threat to an endangered subspecies, though the article excerpt doesn't specify measurable outcomes like population recovery or noise reduction percentages.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-05-23T09:06:19.711413+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/05/ai-listens-for-endangered-orcas-to-help-reduce-underwater-noise-exposure/",
+          "cover": {
+            "type": "template",
+            "template_id": "leaves",
             "color_scheme": "moss"
           }
         }
