@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-08-06T09:44:18.996146Z",
-  "story_count": 83,
-  "country_count": 37,
+  "generated_at": "2026-08-07T08:19:15.755076Z",
+  "story_count": 90,
+  "country_count": 40,
   "countries": [
     {
       "code": "US",
@@ -12,6 +12,21 @@
       "lng": -77.04,
       "count": 5,
       "stories": [
+        {
+          "tag": "science",
+          "title": "From radar blobs to bird species, AI helps transform migration tracking",
+          "summary": "AI system identifies individual bird species from weather radar data during migration.",
+          "extended_summary": "U.S. researchers developed an AI model that converts weather radar signals into specific bird species identifications, solving a decades-old limitation in migration tracking. Previously, radar could only show bird movement as undifferentiated blobs; the new system enables researchers to monitor population trends and species-specific migration patterns. This advancement improves ornithological research capacity and informs conservation strategies for migratory species across North America.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-08-07T08:18:24.744071+00:00",
+          "link": "https://news.mongabay.com/2026/08/from-radar-blobs-to-bird-species-ai-helps-transform-migration-tracking/",
+          "cover": {
+            "type": "template",
+            "template_id": "constellation",
+            "color_scheme": "sky"
+          }
+        },
         {
           "tag": "environment",
           "title": "Longest Predator Exclusion Fence in the Pacific Protects Thousands of Ground-Nesting Seabirds",
@@ -71,21 +86,6 @@
             "template_id": "sun",
             "color_scheme": "warm"
           }
-        },
-        {
-          "tag": "health",
-          "title": "‘Food Really Is Medicine’",
-          "summary": "A dozen US states fund medically tailored meals for Medicaid patients with chronic disease.",
-          "extended_summary": "About a dozen U.S. states have implemented \"medically tailored meals\" programs that provide customized food to Medicaid beneficiaries with conditions like diabetes and heart disease. A new study documents that participants experience measurable health improvements. The approach addresses both nutrition and disease management by treating diet as a clinical intervention rather than solely a lifestyle choice.",
-          "source": "Reasons to be Cheerful",
-          "time": "13d ago",
-          "first_seen_at": "2026-07-24T09:24:23.871693+00:00",
-          "link": "https://reasonstobecheerful.world/food-is-medicine-study/",
-          "cover": {
-            "type": "template",
-            "template_id": "heart",
-            "color_scheme": "gold"
-          }
         }
       ]
     },
@@ -103,7 +103,7 @@
           "summary": "Rope canopy bridges in Brazil enable 15,000 wildlife crossings, eliminating roadkill for forest animals.",
           "extended_summary": "Researchers in the Brazilian Amazon deployed eight rope bridges to help primates and other canopy-dwelling animals cross above highways without descending to ground level, where vehicle collisions occur. The bridges have facilitated approximately 15,000 animal crossings with zero recorded roadkill incidents. This intervention addresses habitat fragmentation caused by road infrastructure, a major threat to Amazonian wildlife populations.",
           "source": "Mongabay",
-          "time": "just now",
+          "time": "22h ago",
           "first_seen_at": "2026-08-06T09:43:30.689066+00:00",
           "link": "https://news.mongabay.com/short-article/2026/08/amazon-canopy-bridges-enable-15000-wildlife-crossings-without-a-single-roadkill/",
           "cover": {
@@ -188,7 +188,7 @@
           "summary": "English schools implement stricter nutritional standards, use engagement strategies to boost healthy lunch adoption.",
           "extended_summary": "England's government has updated school food standards for the first time in over a decade, requiring schools to serve more nutritious meals while contending with student acceptance. Greenside Primary in London exemplifies successful implementation through hands-on strategies: involving children in food preparation (bread-making), offering interactive serving methods (burrito customization), and connecting meals to curriculum learning. The school also integrates food literacy through garden-growing and composting activities. The initiative addresses both childhood nutrition and food literacy, though broader adoption rates and health outcome data remain unclear.",
           "source": "Positive News",
-          "time": "just now",
+          "time": "22h ago",
           "first_seen_at": "2026-08-06T09:42:49.539122+00:00",
           "link": "https://www.positive.news/society/how-schools-are-winning-children-over-to-healthier-lunches/",
           "cover": {
@@ -203,7 +203,7 @@
           "summary": "Crushed basalt applied to young forests accelerates carbon sequestration and soil health.",
           "extended_summary": "Imperial College London researchers conducted a large-scale field experiment testing enhanced weathering—spreading crushed basalt rock on newly planted forests. The intervention accelerated tree development and increased carbon absorption while enriching soil microbiomes. This technique addresses both forest productivity and carbon storage simultaneously, offering a scalable approach to enhance reforestation outcomes.",
           "source": "Good News Network",
-          "time": "5d ago",
+          "time": "6d ago",
           "first_seen_at": "2026-07-31T09:48:54.280396+00:00",
           "link": "https://www.goodnewsnetwork.org/spreading-crushed-rock-on-newly-planted-forests-boosts-carbon-storing-and-nutrients/",
           "cover": {
@@ -218,7 +218,7 @@
           "summary": "Grassroots football clubs in Leicester use sports engagement to redirect at-risk youth away from knife crime.",
           "extended_summary": "Leicester Nirvana FC demonstrates how community-based football can serve as intervention for youth involved in serious crime. A pilot scheme placed a repeat knife offender into volunteer coaching roles, resulting in measurable behavioral change verified by local police. The approach relies on trusted community figures and informal settings to build relationships where formal authority figures cannot, addressing both crime prevention and mental health support alongside athletic development.",
           "source": "Positive News",
-          "time": "5d ago",
+          "time": "6d ago",
           "first_seen_at": "2026-07-31T09:49:04.833271+00:00",
           "link": "https://www.positive.news/society/how-community-football-is-helping-youth-stay-out-of-trouble/",
           "cover": {
@@ -428,7 +428,7 @@
           "summary": "Climate change increased wildfire risk in Spain by 20-fold, World Weather Attribution research finds.",
           "extended_summary": "The World Weather Attribution network, a collaboration of climate scientists, published rapid-response analysis linking human-caused climate change to severe wildfires that burned 140,000 hectares across France and Spain. Using statistical modeling, researchers quantified that climate change made extreme fire-weather conditions roughly 20 times more likely than in a pre-industrial climate. This peer-reviewed approach to attributing specific extreme events to climate drivers provides actionable evidence for policymakers assessing fire risk and planning adaptation strategies.",
           "source": "Mongabay",
-          "time": "5d ago",
+          "time": "6d ago",
           "first_seen_at": "2026-07-31T09:49:39.551009+00:00",
           "link": "https://news.mongabay.com/short-article/2026/07/climate-change-boosted-spain-wildfire-risk-20-fold-research-shows/",
           "cover": {
@@ -516,6 +516,61 @@
           "time": "2d ago",
           "first_seen_at": "2026-08-04T09:41:30.261747+00:00",
           "link": "https://news.mongabay.com/short-article/2026/08/how-borneos-giant-trees-defy-gravity-and-old-scientific-theories/",
+          "cover": {
+            "type": "template",
+            "template_id": "orbit",
+            "color_scheme": "sky"
+          }
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "flag": "🇯🇵",
+      "lat": 35.68,
+      "lng": 139.65,
+      "count": 3,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "Japanese Team Develops ‘Eco-Fireworks’ with Water-Soluble Shells to Cut Back on Debris",
+          "summary": "Japanese researchers commercialize water-soluble firework shells to reduce environmental debris.",
+          "extended_summary": "A Ryukoku University professor and fireworks manufacturer partnered to develop and market water-soluble firework shells, addressing environmental contamination from traditional fireworks debris. The innovation represents a structural solution to a documented pollution problem from celebratory pyrotechnics. While the article lacks specific metrics on debris reduction or market adoption rates, the product has reached commercial availability, indicating genuine progress beyond prototype stage.",
+          "source": "Good News Network",
+          "time": "just now",
+          "first_seen_at": "2026-08-07T08:17:14.342189+00:00",
+          "link": "https://www.goodnewsnetwork.org/japanese-team-develops-eco-fireworks-with-water-soluble-shells-to-cut-back-on-debris/",
+          "cover": {
+            "type": "template",
+            "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        },
+        {
+          "tag": "environment",
+          "title": "In coastal Japan, one project is planting forests to stand against tsunamis",
+          "summary": "Japanese coastal city plants forests as tsunami barriers following 2011 disaster.",
+          "extended_summary": "Minamisoma, a Fukushima prefecture city devastated by the 2011 tsunami, has implemented a reforestation program as a natural defense mechanism against future waves. The project involves planting trees along the coast to slow water surge, complementing existing seawalls. Mayor Kazuo Monma has made the initiative an annual community event, combining disaster risk reduction with ecological restoration in a region still rebuilding from one of history's deadliest tsunamis.",
+          "source": "Mongabay",
+          "time": "2d ago",
+          "first_seen_at": "2026-08-04T09:41:28.367205+00:00",
+          "link": "https://news.mongabay.com/2026/08/in-coastal-japan-one-project-is-planting-forests-to-stand-against-tsunamis/",
+          "cover": {
+            "type": "template",
+            "template_id": "leaves",
+            "color_scheme": "moss"
+          }
+        },
+        {
+          "tag": "science",
+          "title": "Social media images lead to first recording of parasitoid wasp species in Japan",
+          "summary": "Social media photos enable first documentation of parasitoid wasp species in Japan",
+          "extended_summary": "Japanese wasp enthusiasts sharing iridescent wasp images on social media led to the first recorded occurrence of a parasitoid wasp species in the country. The documentation also allowed scientists to describe the male form of the species for the first time. This discovery demonstrates how citizen science and digital platforms can contribute to biodiversity research and species documentation in unexpected ways.",
+          "source": "Mongabay",
+          "time": "22h ago",
+          "first_seen_at": "2026-08-06T09:43:22.115696+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/08/social-media-images-lead-to-first-recording-of-parasitoid-wasp-species-in-japan/",
           "cover": {
             "type": "template",
             "template_id": "orbit",
@@ -658,7 +713,7 @@
           "summary": "Philippine villagers protect olive ridley sea turtle nests from predators and climate threats",
           "extended_summary": "In Palawan, Philippines, residents of San Vicente municipality are working with the NGO LAMAVE to safeguard olive ridley sea turtle nesting sites facing threats from loose dogs, tourism activity, and intensifying storms. The initiative combines community engagement with targeted nest protection. This addresses both biodiversity conservation and local economic resilience, as healthy sea turtle populations support sustainable tourism and ecosystem stability in coastal regions.",
           "source": "Mongabay",
-          "time": "just now",
+          "time": "22h ago",
           "first_seen_at": "2026-08-06T09:43:16.556041+00:00",
           "link": "https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/",
           "cover": {
@@ -685,22 +740,22 @@
       ]
     },
     {
-      "code": "JP",
-      "name": "Japan",
-      "flag": "🇯🇵",
-      "lat": 35.68,
-      "lng": 139.65,
+      "code": "ID",
+      "name": "Indonesia",
+      "flag": "🇮🇩",
+      "lat": -6.21,
+      "lng": 106.85,
       "count": 2,
       "stories": [
         {
           "tag": "environment",
-          "title": "In coastal Japan, one project is planting forests to stand against tsunamis",
-          "summary": "Japanese coastal city plants forests as tsunami barriers following 2011 disaster.",
-          "extended_summary": "Minamisoma, a Fukushima prefecture city devastated by the 2011 tsunami, has implemented a reforestation program as a natural defense mechanism against future waves. The project involves planting trees along the coast to slow water surge, complementing existing seawalls. Mayor Kazuo Monma has made the initiative an annual community event, combining disaster risk reduction with ecological restoration in a region still rebuilding from one of history's deadliest tsunamis.",
+          "title": "How rescued orangutans are rebuilding a new wild population in Sumatra",
+          "summary": "Nearly 200 rescued orangutans establish self-sustaining wild population in Sumatra reserve.",
+          "extended_summary": "Since 2011, the Sumatran Orangutan Conservation Programme has relocated approximately 200 rescued orangutans to Jantho Pine Forest Nature Reserve in Aceh province, transforming a reserve with zero orangutans into a growing wild population. The effort demonstrates that reintroduction of confiscated and orphaned animals can rebuild viable breeding communities in degraded habitat. This measurable population recovery addresses both wildlife protection and habitat restoration on one of the world's most biodiverse islands.",
           "source": "Mongabay",
-          "time": "2d ago",
-          "first_seen_at": "2026-08-04T09:41:28.367205+00:00",
-          "link": "https://news.mongabay.com/2026/08/in-coastal-japan-one-project-is-planting-forests-to-stand-against-tsunamis/",
+          "time": "3d ago",
+          "first_seen_at": "2026-08-03T10:47:53.138105+00:00",
+          "link": "https://news.mongabay.com/video/2026/08/how-rescued-orangutans-are-rebuilding-a-new-wild-population-in-sumatra/",
           "cover": {
             "type": "template",
             "template_id": "leaves",
@@ -708,18 +763,18 @@
           }
         },
         {
-          "tag": "science",
-          "title": "Social media images lead to first recording of parasitoid wasp species in Japan",
-          "summary": "Social media photos enable first documentation of parasitoid wasp species in Japan",
-          "extended_summary": "Japanese wasp enthusiasts sharing iridescent wasp images on social media led to the first recorded occurrence of a parasitoid wasp species in the country. The documentation also allowed scientists to describe the male form of the species for the first time. This discovery demonstrates how citizen science and digital platforms can contribute to biodiversity research and species documentation in unexpected ways.",
+          "tag": "environment",
+          "title": "On the front lines of conservation in Sumatra: Rangers safeguard Batutegi forest",
+          "summary": "Indonesian forest rangers protect 60,000 hectares of biodiverse Sumatran forest through sustained patrol efforts.",
+          "extended_summary": "Wandi Harmoko and a small team of rangers patrol Batutegi forest in southern Sumatra, covering nearly 60,000 hectares of ecologically significant landscape. The article documents their on-the-ground conservation work over more than 15 years. While the piece highlights real enforcement efforts in a threatened ecosystem, it lacks specific metrics on outcomes—deforestation prevented, species protected, or enforcement success rates—that would confirm measurable structural impact.",
           "source": "Mongabay",
           "time": "just now",
-          "first_seen_at": "2026-08-06T09:43:22.115696+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/08/social-media-images-lead-to-first-recording-of-parasitoid-wasp-species-in-japan/",
+          "first_seen_at": "2026-08-07T08:18:20.201196+00:00",
+          "link": "https://news.mongabay.com/2026/08/on-the-front-lines-of-conservation-in-sumatra-rangers-safeguard-batutegi-forest/",
           "cover": {
             "type": "template",
-            "template_id": "orbit",
-            "color_scheme": "sky"
+            "template_id": "leaves",
+            "color_scheme": "moss"
           }
         }
       ]
@@ -813,7 +868,7 @@
           "summary": "Critically endangered white-rumped vulture reappears in Cambodian sanctuary after decade-long absence.",
           "extended_summary": "A white-rumped vulture was documented in Cambodia's Lomphat Wildlife Sanctuary during a June 2026 census, marking the species' first recorded presence there in 10 years. The sighting represents measurable progress in regional vulture conservation efforts, though the sanctuary now faces mounting pressure from mining and hydropower development. The reappearance suggests that protection measures have created conditions for species recovery, even as new threats emerge.",
           "source": "Mongabay",
-          "time": "16d ago",
+          "time": "17d ago",
           "first_seen_at": "2026-07-20T10:16:47.630472+00:00",
           "link": "https://news.mongabay.com/short-article/2026/07/white-rumped-vulture-returns-to-a-cambodian-sanctuary-after-a-decades-absence/",
           "cover": {
@@ -863,7 +918,7 @@
           "summary": "Cuba shifted from harvesting sea turtles to protecting them through policy and research.",
           "extended_summary": "Cuba's sea turtle populations faced severe pressure from legal fishing that averaged 836 metric tons annually in the 1980s. Marine biologist Félix Guillermo Moncada Gavilán helped establish protections that transformed the country's approach from extraction to conservation. The shift required changing both policy and public understanding of turtles' ecological value, moving beyond treatment as a food resource to recognizing them as protected species.",
           "source": "Mongabay",
-          "time": "16d ago",
+          "time": "17d ago",
           "first_seen_at": "2026-07-20T10:16:53.779375+00:00",
           "link": "https://news.mongabay.com/short-article/2026/07/felix-guillermo-moncada-gavilan-helped-move-cuba-from-sea-turtle-fishing-to-protection/",
           "cover": {
@@ -1188,7 +1243,7 @@
           "summary": "Giant anteater population grows from zero to 200 in Argentina reintroduction project",
           "extended_summary": "Argentina's 19-year giant anteater reintroduction program has restored a viable population to an ecosystem where the species had vanished. La Fundación Rewilding established the initiative, which grew the population from zero to approximately 200 individuals through systematic reintroduction efforts. The measurable population increase demonstrates that large mammal restoration is achievable in degraded landscapes, offering a model for other species recovery programs across the region.",
           "source": "Good News Network",
-          "time": "5d ago",
+          "time": "6d ago",
           "first_seen_at": "2026-07-31T09:48:46.873884+00:00",
           "link": "https://www.goodnewsnetwork.org/the-worlds-first-giant-anteater-reintroduction-appears-to-be-succeeding-in-brazil/",
           "cover": {
@@ -1225,31 +1280,6 @@
       ]
     },
     {
-      "code": "ID",
-      "name": "Indonesia",
-      "flag": "🇮🇩",
-      "lat": -6.21,
-      "lng": 106.85,
-      "count": 1,
-      "stories": [
-        {
-          "tag": "environment",
-          "title": "How rescued orangutans are rebuilding a new wild population in Sumatra",
-          "summary": "Nearly 200 rescued orangutans establish self-sustaining wild population in Sumatra reserve.",
-          "extended_summary": "Since 2011, the Sumatran Orangutan Conservation Programme has relocated approximately 200 rescued orangutans to Jantho Pine Forest Nature Reserve in Aceh province, transforming a reserve with zero orangutans into a growing wild population. The effort demonstrates that reintroduction of confiscated and orphaned animals can rebuild viable breeding communities in degraded habitat. This measurable population recovery addresses both wildlife protection and habitat restoration on one of the world's most biodiverse islands.",
-          "source": "Mongabay",
-          "time": "2d ago",
-          "first_seen_at": "2026-08-03T10:47:53.138105+00:00",
-          "link": "https://news.mongabay.com/video/2026/08/how-rescued-orangutans-are-rebuilding-a-new-wild-population-in-sumatra/",
-          "cover": {
-            "type": "template",
-            "template_id": "leaves",
-            "color_scheme": "moss"
-          }
-        }
-      ]
-    },
-    {
       "code": "FR",
       "name": "France",
       "flag": "🇫🇷",
@@ -1263,7 +1293,7 @@
           "summary": "Paris restores the Bièvre, a buried river, returning aquatic life to the city.",
           "extended_summary": "The Bièvre, a waterway that once flowed through Paris before being channeled underground, has been restored to a visible state with measurable ecological recovery. Fish, birds, and butterflies now inhabit the restored sections, indicating improved water quality and habitat conditions. The project represents significant infrastructure work to daylighting a buried urban river, though the article provides limited detail on restoration scope, timeline, or long-term sustainability measures.",
           "source": "Reasons to be Cheerful",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-08-03T10:47:34.924515+00:00",
           "link": "https://reasonstobecheerful.world/bievre-river/",
           "cover": {
@@ -1325,20 +1355,110 @@
       ]
     },
     {
+      "code": "TR",
+      "name": "Turkey",
+      "flag": "🇹🇷",
+      "lat": 39.93,
+      "lng": 32.86,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "Locals Succeed in Tripling Protected Seascapes Along 300 Miles of Turkiye’s Breathtaking Coastline",
+          "summary": "Turkish conservationists and fishermen tripled marine protected areas across 300 miles of Mediterranean coastline.",
+          "extended_summary": "A coalition of local conservationists, fishermen, and an NGO expanded marine protections along Turkey's Mediterranean coast from existing but poorly enforced sanctuaries to a tripled protected area spanning 300 miles. The effort addressed fragmentation and enforcement gaps in previous designations. While the article lacks specific biodiversity metrics or long-term monitoring data, the documented expansion of protected seascape and demonstrated local-NGO collaboration represents measurable conservation progress.",
+          "source": "Good News Network",
+          "time": "just now",
+          "first_seen_at": "2026-08-07T08:17:16.730486+00:00",
+          "link": "https://www.goodnewsnetwork.org/locals-succeed-in-tripling-protected-seascapes-along-300-miles-of-turkiyes-breathtaking-coastline/",
+          "cover": {
+            "type": "template",
+            "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "flag": "🇸🇬",
+      "lat": 1.35,
+      "lng": 103.82,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "Over 100 Refill Stations for Home/Laundry Cleaners to Open Across Singapore at 30% Discount",
+          "summary": "Singapore deploys 100+ refill stations for cleaning products at 30% discount",
+          "extended_summary": "Lam Soon, a household product manufacturer, is installing over 100 refill stations across Singapore for its Bio-Home cleaning line. The refill model offers customers a 30% price reduction compared to standard packaging. The initiative responds to Singapore's stalled recycling rates, which have plateaued around 11%, targeting both cost reduction and packaging waste. The rollout provides measurable structural intervention in consumer waste patterns through economic incentive.",
+          "source": "Good News Network",
+          "time": "just now",
+          "first_seen_at": "2026-08-07T08:17:20.938037+00:00",
+          "link": "https://www.goodnewsnetwork.org/over-100-refill-stations-for-home-laundry-cleaners-to-open-across-singapore-at-30-discount/",
+          "cover": {
+            "type": "template",
+            "template_id": "mountain",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "flag": "🇲🇻",
+      "lat": 4.18,
+      "lng": 73.51,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "How social media and parrotfish poop are protecting the Maldives",
+          "summary": "Social media campaigns expose illegal fishing in Maldives, spurring marine protection efforts.",
+          "extended_summary": "After discovering vulnerable species being illegally harvested and sold in Maldivian fish markets, activist Shaha Hashim used social media to document the problem six years ago. The campaign highlighted threats to giant clams, Napoleon wrasse, and parrotfish populations across atoll ecosystems. This public pressure prompted measurable conservation responses, demonstrating how digital awareness can catalyze structural change in marine resource management and enforcement in island nations dependent on reef health.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-08-07T08:18:22.631920+00:00",
+          "link": "https://news.mongabay.com/2026/08/how-social-media-and-parrotfish-poop-are-protecting-the-maldives/",
+          "cover": {
+            "type": "template",
+            "template_id": "mountain",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
       "code": "WORLD",
       "name": "World",
       "flag": "🌍",
       "lat": null,
       "lng": null,
-      "count": 19,
+      "count": 21,
       "stories": [
+        {
+          "tag": "environment",
+          "title": "Protecting primates could protect thousands of other species, study finds",
+          "summary": "Study shows protecting primate habitats preserves thousands of other species simultaneously.",
+          "extended_summary": "Researchers propose using primates as umbrella species for conservation efforts, similar to existing strategies with tigers and giant pandas. The approach recognizes that protecting large habitat areas needed by primates automatically safeguards numerous other species sharing those ecosystems. This method could optimize conservation funding and outcomes as biodiversity declines globally, offering a measurable framework for habitat protection prioritization.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-08-07T08:18:12.489389+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "cover": {
+            "type": "template",
+            "template_id": "mountain",
+            "color_scheme": "moss"
+          }
+        },
         {
           "tag": "health",
           "title": "UN Summit on HIV/AIDS Shows Incredible Progress in Infection Rates, Deaths, Treatment Access",
           "summary": "Global HIV infections and AIDS deaths hit 30-year lows; seven nations achieve epidemic control.",
           "extended_summary": "A UNAIDS report presented at the 26th International AIDS Conference documented declining HIV infection rates and AIDS-related mortality worldwide, reaching their lowest levels since the early 1990s. Seven countries—Benin, Eswatini, Kenya, Lesotho, Nepal, Rwanda, and Zimbabwe—achieved epidemic control, meeting key public health thresholds. The findings reflect expanded treatment access and prevention efforts, though the article lacks specific numerical data on infection reductions and death counts needed for a perfect score.",
           "source": "Good News Network",
-          "time": "just now",
+          "time": "22h ago",
           "first_seen_at": "2026-08-06T09:42:27.751608+00:00",
           "link": "https://www.goodnewsnetwork.org/un-summit-on-hiv-aids-shows-incredible-progress-in-infection-rates-deaths-treatment-access/",
           "cover": {
@@ -1398,7 +1518,7 @@
           "summary": "Global hunger drops below 8% of population for first time since pandemic.",
           "extended_summary": "Malnutrition rates have declined for three consecutive years, with the global share falling below 8 percent—the lowest since COVID-19 disrupted food systems. The improvement reflects a sustained 5-year trend across multiple continents. This metric matters because malnutrition remains a leading preventable cause of mortality and developmental harm, particularly for children. The recovery suggests progress in rebuilding agricultural supply chains and food access systems disrupted by pandemic-related closures.",
           "source": "Good News Network",
-          "time": "5d ago",
+          "time": "6d ago",
           "first_seen_at": "2026-07-31T09:48:51.877832+00:00",
           "link": "https://www.goodnewsnetwork.org/global-hunger-falls-below-8-for-the-first-time-since-the-pandemic/",
           "cover": {
@@ -1413,7 +1533,7 @@
           "summary": "Entrepreneur develops tampon-based diagnostic tool for fertility testing after medical dismissal.",
           "extended_summary": "Ridhi Tariyal, frustrated by a gynecologist's claim that fertility testing was impossible, developed a tampon-based diagnostic device. Drawing on her Harvard MBA and scientific training, she created a medical tool that uses tampon samples to assess reproductive health. The innovation addresses a gap in accessible fertility diagnostics and demonstrates how consumer products can be repurposed for clinical applications.",
           "source": "Reasons to be Cheerful",
-          "time": "5d ago",
+          "time": "6d ago",
           "first_seen_at": "2026-07-31T09:49:37.538546+00:00",
           "link": "https://reasonstobecheerful.world/menstrual-blood-medical-possibilities/",
           "cover": {
@@ -1443,7 +1563,7 @@
           "summary": "European air pollution from major sources dropped 39-59% over a decade, per official monitoring data.",
           "extended_summary": "The Copernicus Atmosphere Monitoring Service, an EU program tracking air quality since 2010, documented significant declines in emissions from industrial and road sources across Europe. The 2025 Assessment Report on European Air Quality showed reductions of 39-59% in major pollutants over ten years. This improvement reflects combined effects of stricter emissions standards, vehicle technology advances, and industrial regulation enforcement across multiple European nations.",
           "source": "Good News Network",
-          "time": "9d ago",
+          "time": "10d ago",
           "first_seen_at": "2026-07-27T10:46:44.563315+00:00",
           "link": "https://www.goodnewsnetwork.org/europes-air-quality-dramatically-improved-with-39-59-drop-in-industrial-and-road-emissions/",
           "cover": {
@@ -1458,7 +1578,7 @@
           "summary": "Investigation documents illegal shark finning and labor abuses by major Chinese fishing fleet.",
           "extended_summary": "An investigative series by Mongabay exposed illegal shark-finning operations and systematic labor exploitation within Dalian Ocean Fishing's fleet operating in international waters. Reporters interviewed approximately two dozen Indonesian deckhands, documenting working conditions and abuses aboard the company's vessels. The investigation combines documented environmental crime with labor violations, revealing structural problems in high-seas fishing that affect both marine ecosystems and vulnerable workers.",
           "source": "Mongabay",
-          "time": "9d ago",
+          "time": "10d ago",
           "first_seen_at": "2026-07-27T10:47:39.307203+00:00",
           "link": "https://news.mongabay.com/specials/2026/07/finning-the-high-seas/",
           "cover": {
@@ -1615,6 +1735,21 @@
             "type": "template",
             "template_id": "wave",
             "color_scheme": "moss"
+          }
+        },
+        {
+          "tag": "science",
+          "title": "What went right this week: ‘fire cloud’ studies, plus more",
+          "summary": "NASA studies fire-generated thunderstorms to improve wildfire prediction and climate understanding.",
+          "extended_summary": "NASA's INSPYRE project is conducting airborne research into pyrocumulonimbus clouds—rare, powerful thunderstorms generated by wildfires that launch smoke particles 50,000 feet into the atmosphere. Scientists flying from bases in Colorado and Montana will gather data over six weeks to better predict how these storms form and measure their climate impacts. Understanding pyroCbs matters because they complicate firefighting, spark new blazes through lightning, and deposit smoke in the stratosphere for over a year, affecting global weather patterns and ozone.",
+          "source": "Positive News",
+          "time": "just now",
+          "first_seen_at": "2026-08-07T08:17:49.892601+00:00",
+          "link": "https://www.positive.news/society/good-news-stories-from-week-31-of-2026/",
+          "cover": {
+            "type": "template",
+            "template_id": "constellation",
+            "color_scheme": "sky"
           }
         }
       ]
