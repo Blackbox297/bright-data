@@ -1,8 +1,8 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-10-23T12:32:04.223447Z",
-  "story_count": 98,
-  "country_count": 39,
+  "generated_at": "2026-10-24T11:56:35.407754Z",
+  "story_count": 90,
+  "country_count": 36,
   "countries": [
     {
       "code": "US",
@@ -18,7 +18,7 @@
           "summary": "Farmers adopt silvopasture systems integrating trees and livestock despite reduced government incentives.",
           "extended_summary": "Silvopasture—combining trees with pasture grazing—is gaining traction among U.S. farmers, including Vermont operators Sabra Ewing and Sebastian Lousada, who observed improved grass quality and animal behavior under tree canopies. The practice reduces soil erosion, sequesters carbon, and improves livestock welfare, yet adoption continues despite declining financial support from conservation programs. This represents a working land-management approach with documented environmental benefits that farmers find economically viable enough to pursue independently.",
           "source": "Mongabay",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-10-22T12:52:51.402826+00:00",
           "link": "https://news.mongabay.com/2026/10/sustainable-silvopasture-is-popular-with-u-s-farmers-despite-waning-financial-supports/",
           "cover": {
@@ -33,7 +33,7 @@
           "summary": "New York pilot tests residential battery storage to reduce grid strain during peak demand.",
           "extended_summary": "A Buffalo apartment building will use a large-scale battery system from manufacturer Viridi to store energy during low-demand periods and discharge it when grid demand peaks. The project aims to demonstrate that utility-scale batteries can operate safely in residential settings, addressing concerns about scaling energy storage infrastructure. Success metrics will likely include grid impact measurements and operational safety records, potentially informing broader adoption of distributed battery storage in urban areas.",
           "source": "Mongabay",
-          "time": "1d ago",
+          "time": "2d ago",
           "first_seen_at": "2026-10-21T12:49:43.545321+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/can-larger-batteries-safely-power-residential-buildings-a-project-in-new-york-aims-to-show-how/",
           "cover": {
@@ -48,7 +48,7 @@
           "summary": "Louisiana tests recycled glass as a coastal erosion mitigation strategy.",
           "extended_summary": "Louisiana loses roughly a soccer field of coastline every 100 minutes due to erosion worsened by sea level rise, oil extraction, and Mississippi River modifications. Researchers are piloting recycled glass as a sediment alternative to rebuild eroded marshes and barrier islands. The approach repurposes industrial waste while addressing a critical infrastructure threat affecting millions of residents and ecosystems dependent on Louisiana's coastal geography.",
           "source": "Mongabay",
-          "time": "1d ago",
+          "time": "2d ago",
           "first_seen_at": "2026-10-21T12:49:45.351336+00:00",
           "link": "https://news.mongabay.com/2026/10/recycled-glass-offers-a-potential-new-tool-to-restore-a-vanishing-coastline/",
           "cover": {
@@ -63,7 +63,7 @@
           "summary": "Automated sound monitoring in Yellowstone tracks wolf populations using AI analysis of vocalizations.",
           "extended_summary": "Researchers deployed 50 recording stations across Yellowstone's backcountry to collect roughly 500,000 hours of ambient sound annually. Computer models analyze the recordings to identify and count wolf vocalizations, enabling population monitoring without intrusive field methods. The Cry Wolf Project, launched in 2023 by linguist Jeffrey Reed and collaborators, provides scalable ecological data that supports wildlife management and conservation research.",
           "source": "Mongabay",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-10-20T12:38:06.001213+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/what-500000-hours-of-yellowstone-sound-can-tell-us-about-wolves/",
           "cover": {
@@ -78,7 +78,7 @@
           "summary": "UC Santa Cruz researchers validate steam sterilization as viable organic alternative to chemical soil fumigants for strawberry farming.",
           "extended_summary": "Researchers at UC Santa Cruz have demonstrated that soil steaming—using boiling water vapor—effectively replaces chemical fumigants in strawberry cultivation, a significant finding for California's major strawberry-growing region. The method sterilizes soil without synthetic chemicals, addressing both yield reliability and environmental contamination concerns from traditional fumigation practices. This peer-reviewed agricultural technique offers organic farmers a scalable alternative that maintains productivity while reducing chemical inputs and associated soil/water impacts.",
           "source": "Good News Network",
-          "time": "3d ago",
+          "time": "4d ago",
           "first_seen_at": "2026-10-19T14:28:25.300101+00:00",
           "link": "https://www.goodnewsnetwork.org/simple-soil-steaming-found-as-effective-replacement-for-chemicals-in-organic-strawberry-farming/",
           "cover": {
@@ -103,7 +103,7 @@
           "summary": "Animated buoys and kites reduce seabird bycatch in commercial fishing nets off Cornwall.",
           "extended_summary": "Researchers tested visual deterrents—spinning-eye buoys and kite systems—on fishing nets off Cornwall to prevent seabirds from becoming entangled. The study measured bycatch rates across nets with and without these devices, finding measurable reductions in bird captures. Seabird bycatch remains a significant conservation problem in commercial fisheries worldwide. This intervention offers a scalable, low-cost approach that fishing operations can adopt without major equipment changes.",
           "source": "Mongabay",
-          "time": "just now",
+          "time": "23h ago",
           "first_seen_at": "2026-10-23T12:31:03.329769+00:00",
           "link": "https://news.mongabay.com/2026/10/googly-eyed-buoys-and-kites-help-keep-seabirds-out-of-fishing-nets-study-finds/",
           "cover": {
@@ -118,28 +118,13 @@
           "summary": "London launches 200km green corridor project to reconnect fragmented natural spaces across outer boroughs.",
           "extended_summary": "CPRE London is executing a 25-year initiative to establish a continuous green ring around the capital, involving community groups, schools, and landowners in tree planting and habitat restoration. The project aims to benefit 10 million people through improved urban cooling, biodiversity recovery, and carbon sequestration. Early test sites have successfully planted native species including disease-resistant elm across neglected woodland pockets. This structural approach addresses fragmented green infrastructure by systematically reconnecting natural areas at the metropolitan scale.",
           "source": "Positive News",
-          "time": "10d ago",
+          "time": "11d ago",
           "first_seen_at": "2026-10-12T16:37:22.417852+00:00",
           "link": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
           "cover": {
             "type": "template",
             "template_id": "mountain",
             "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "community",
-          "title": "Can affordable ethical fashion scale up?",
-          "summary": "UK clothing brand scales ethical model with investment while maintaining worker pay standards.",
-          "extended_summary": "Yes Friends, a Bristol-based clothing company founded in 2021, produces garments at accessible price points while prioritizing fair wages and sustainable materials. The company secured £20,000 investment on BBC's Dragons' Den, doubling its initial funding request. The funding provides a measurable test of whether its ethical-fashion model—combining affordability with improved labor conditions—can sustain these principles during growth. The outcome will demonstrate whether higher standards are economically viable at scale.",
-          "source": "Positive News",
-          "time": "20d ago",
-          "first_seen_at": "2026-10-02T13:42:28.347130+00:00",
-          "link": "https://www.positive.news/economics/the-ethical-fashion-brand-championing-change-across-the-industry/",
-          "cover": {
-            "type": "template",
-            "template_id": "sun",
-            "color_scheme": "warm"
           }
         },
         {
@@ -163,7 +148,7 @@
           "summary": "UK certification scheme incentivizes solar farms to integrate wildlife habitat protection.",
           "extended_summary": "Wild Power, launched in 2022, has created a certification standard assessing how renewable energy sites protect and enhance biodiversity. Two UK solar farms have achieved certification so far. The scheme addresses dual crises by enabling solar development to simultaneously generate clean electricity and provide wildlife refuges, with research indicating well-managed solar farms can support diverse species including ground-nesting birds and pollinators.",
           "source": "Positive News",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-10-22T12:52:01.425390+00:00",
           "link": "https://www.positive.news/environment/the-new-certification-scheme-helping-solar-farms-become-havens-for-wildlife/",
           "cover": {
@@ -171,86 +156,16 @@
             "template_id": "mountain",
             "color_scheme": "moss"
           }
-        }
-      ]
-    },
-    {
-      "code": "BR",
-      "name": "Brazil",
-      "flag": "🇧🇷",
-      "lat": -15.78,
-      "lng": -47.93,
-      "count": 5,
-      "stories": [
-        {
-          "tag": "environment",
-          "title": "Deforestation in Brazil’s Amazon and Cerrado savanna at lowest rate ever recorded",
-          "summary": "Brazil records lowest deforestation rates in Amazon and Cerrado under Lula administration.",
-          "extended_summary": "Brazil's National Institute for Space Research documented record-low deforestation across the Amazon rainforest and Cerrado savanna during President Luiz Inácio Lula da Silva's current administration. The data provides measurable environmental metrics tied to specific policy implementation. These findings represent structural change in forest protection outcomes, though the article excerpt does not specify exact deforestation figures or timeframes for comparison.",
-          "source": "Mongabay",
-          "time": "23h ago",
-          "first_seen_at": "2026-10-22T12:52:30.010902+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/10/deforestation-in-brazils-amazon-and-cerrado-savanna-at-lowest-rate-ever-recorded/",
-          "cover": {
-            "type": "template",
-            "template_id": "wave",
-            "color_scheme": "moss"
-          }
         },
         {
           "tag": "environment",
-          "title": "Amazon deforestation falls 42% to a record low",
-          "summary": "Amazon deforestation drops 42% to record low of 3,335 square kilometers annually.",
-          "extended_summary": "Brazil's national space research institute reported deforestation in the Amazon fell to its lowest recorded level in the 12 months through July 2026, covering 3,335 square kilometers. The 42% decline represents measurable progress in protecting the world's largest rainforest, though scientists emphasize sustained enforcement and policy commitment remain essential to prevent reversals in this critical ecosystem.",
-          "source": "Mongabay",
-          "time": "6d ago",
-          "first_seen_at": "2026-10-17T11:30:24.785641+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/10/amazon-deforestation-falls-42-to-a-record-low/",
-          "cover": {
-            "type": "template",
-            "template_id": "leaves",
-            "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "environment",
-          "title": "Invasive lionfish reach Brazil’s largest coral reefs. Local fishers fight back",
-          "summary": "Brazil pays fishers to remove invasive lionfish threatening coral reef ecosystems",
-          "extended_summary": "Local fishers in Porto Seguro, northeastern Brazil, have removed at least 440 invasive lionfish through a government-funded harvest program designed to protect native fish populations and coral reef health. Lionfish, an Atlantic species with few natural predators in Brazilian waters, pose a documented threat to local marine biodiversity. The initiative combines economic incentives for fishers with ecosystem management, though long-term effectiveness at scale remains to be demonstrated.",
-          "source": "Mongabay",
-          "time": "7d ago",
-          "first_seen_at": "2026-10-15T12:33:45.946406+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/10/invasive-lionfish-reach-brazils-largest-coral-reefs-local-fishers-fight-back/",
-          "cover": {
-            "type": "template",
-            "template_id": "leaves",
-            "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "environment",
-          "title": "Solar power helps Amazon communities ditch diesel and prepare for El Niño drought",
-          "summary": "Solar systems replace diesel generators in Amazon communities, improving water access during droughts.",
-          "extended_summary": "Remote communities across Brazil's Amazon are installing off-grid solar power systems to replace diesel generators and secure water supplies during severe droughts. In Nova Sociedade, solar-powered pumps now deliver clean water to 36 families who previously walked up to 20 kilometers during the 2024 drought. The transition addresses both immediate climate vulnerability and long-term environmental damage from diesel dependence, with measurable impact on household resilience.",
-          "source": "Mongabay",
-          "time": "15d ago",
-          "first_seen_at": "2026-10-07T14:21:10.378425+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/10/solar-power-helps-amazon-communities-ditch-diesel-and-prepare-for-el-nino-drought/",
-          "cover": {
-            "type": "template",
-            "template_id": "leaves",
-            "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "environment",
-          "title": "A first in Brazil: Black-faced lion tamarins vaccinated",
-          "summary": "Brazilian researchers vaccinate endangered black-faced lion tamarins against disease in conservation effort.",
-          "extended_summary": "Conservation researchers in Paraná state, Brazil vaccinated black-faced lion tamarins for the first time, targeting a specific disease threat to the endangered species. The initiative by SPVS (Society for Wildlife Research and Environmental Education) represents a novel intervention in protecting one of Brazil's most threatened primates. While the article demonstrates concrete action and measurable intervention, the piece lacks specific disease prevalence data, vaccination numbers, or long-term outcome metrics needed to fully assess conservation impact.",
-          "source": "Mongabay",
-          "time": "20d ago",
-          "first_seen_at": "2026-10-02T13:43:03.610714+00:00",
-          "link": "https://news.mongabay.com/2026/10/a-first-in-brazil-black-faced-lion-tamarins-vaccinated/",
+          "title": "Volunteers became salmon, deer and earthworms. Then they set out to save their river",
+          "summary": "UK researchers use immersive role-play to help communities understand wildlife pressures and plan river restoration.",
+          "extended_summary": "Researchers at the University of the West of England and ASRA conducted an empathy-building study where 18 volunteers experienced their local landscape from the perspective of five animal species—salmon, deer, kestrel, otter, and earthworm. Participants were trained in each animal's physiology and sensory abilities before navigating the polluted River Tone in Somerset. The exercise aims to inform a 30-year restoration plan by helping communities understand how human infrastructure and pollution specifically damage wildlife survival, moving beyond generic conservation messaging.",
+          "source": "Positive News",
+          "time": "just now",
+          "first_seen_at": "2026-10-24T11:55:02.080744+00:00",
+          "link": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/",
           "cover": {
             "type": "template",
             "template_id": "wave",
@@ -273,7 +188,7 @@
           "summary": "Australia establishes three national parks protecting 250 square miles of Victorian forest habitat.",
           "extended_summary": "Victoria state in Australia has created three new national parks—Mount Buangor, Pyrenees, and Wombat-Lerderderg—totaling over 250 square miles of protected forest. Parliament approved the legislation in November 2025, with protections taking effect this week. The parks safeguard habitat for gliders, owls, and other wildlife species in central Victoria, representing a measurable expansion of the state's conservation infrastructure.",
           "source": "Good News Network",
-          "time": "12d ago",
+          "time": "13d ago",
           "first_seen_at": "2026-10-10T13:26:50.229688+00:00",
           "link": "https://www.goodnewsnetwork.org/australia-announces-3-new-national-parks-to-protect-gliders-owls-and-other-victoria-wildlife/",
           "cover": {
@@ -288,7 +203,7 @@
           "summary": "Australia's High Court blocks coal mine expansion, setting precedent for climate impact assessments.",
           "extended_summary": "Australia's highest court rejected an appeal to expand the Mount Pleasant coal mine in New South Wales, upholding a 2025 appeals court decision that ruled the original approval unlawful. Retired teachers Wendy Wales and Tony Lonergan successfully challenged the project, which would have extended mining operations by 22 years and doubled output. The High Court's decision establishes legal precedent requiring planners to assess downstream climate impacts of fossil fuel approvals, strengthening climate accountability mechanisms across Australia.",
           "source": "Positive News",
-          "time": "13d ago",
+          "time": "14d ago",
           "first_seen_at": "2026-10-09T14:15:33.012913+00:00",
           "link": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
           "cover": {
@@ -303,7 +218,7 @@
           "summary": "Queensland rainforest restoration plants 300,000 native trees but faces ecological challenges.",
           "extended_summary": "Community groups and Indigenous rangers across Queensland's Wet Tropics have planted over 300,000 native trees to convert cleared agricultural land back into rainforest. While the reforestation effort represents significant on-ground restoration work, the initiative faces a limitation: young tree canopies alone may not restore the full ecological complexity of ancient wet forests. The project demonstrates measurable environmental commitment but reveals gaps between structural tree coverage and genuine forest ecosystem recovery.",
           "source": "Mongabay",
-          "time": "15d ago",
+          "time": "16d ago",
           "first_seen_at": "2026-10-07T14:21:12.209513+00:00",
           "link": "https://news.mongabay.com/2026/10/in-australias-wet-tropics-restoration-misses-the-forest-for-the-tree-cover/",
           "cover": {
@@ -318,7 +233,7 @@
           "summary": "Tasmania's sea urchin harvesting program restored kelp forests but faces funding uncertainty.",
           "extended_summary": "For nearly a decade, Tasmania has funded commercial diving operations to harvest invasive long-spined sea urchins that devastated kelp forest ecosystems along the state's coast. The program creates economic incentive through urchin roe sales while addressing ecological damage. Early results show measurable kelp forest recovery, but ongoing funding remains uncertain, threatening the program's continuation and the ecological gains achieved so far.",
           "source": "Mongabay",
-          "time": "3d ago",
+          "time": "4d ago",
           "first_seen_at": "2026-10-19T14:29:23.684583+00:00",
           "link": "https://news.mongabay.com/2026/10/funding-uncertainty-threatens-tasmanias-gains-against-kelp-grazing-sea-urchins/",
           "cover": {
@@ -333,12 +248,82 @@
           "summary": "Indigenous ranger network manages 270 million hectares across Australian desert",
           "extended_summary": "The Indigenous Desert Alliance coordinates 70 ranger teams across 270 million hectares of Australian desert, an area comparable to Argentina's size. The organization was nominated for an Earthshot Prize, recognizing its land management approach. The initiative demonstrates how Indigenous-led conservation can operate at landscape scale, though the article provides limited detail on specific conservation outcomes or measurable environmental metrics achieved.",
           "source": "Mongabay",
-          "time": "1d ago",
+          "time": "2d ago",
           "first_seen_at": "2026-10-21T12:49:33.786213+00:00",
           "link": "https://news.mongabay.com/podcast/2026/10/for-australias-indigenous-desert-alliance-caring-for-country-starts-with-a-story/",
           "cover": {
             "type": "template",
             "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "lat": -15.78,
+      "lng": -47.93,
+      "count": 4,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "Deforestation in Brazil’s Amazon and Cerrado savanna at lowest rate ever recorded",
+          "summary": "Brazil records lowest deforestation rates in Amazon and Cerrado under Lula administration.",
+          "extended_summary": "Brazil's National Institute for Space Research documented record-low deforestation across the Amazon rainforest and Cerrado savanna during President Luiz Inácio Lula da Silva's current administration. The data provides measurable environmental metrics tied to specific policy implementation. These findings represent structural change in forest protection outcomes, though the article excerpt does not specify exact deforestation figures or timeframes for comparison.",
+          "source": "Mongabay",
+          "time": "1d ago",
+          "first_seen_at": "2026-10-22T12:52:30.010902+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/10/deforestation-in-brazils-amazon-and-cerrado-savanna-at-lowest-rate-ever-recorded/",
+          "cover": {
+            "type": "template",
+            "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        },
+        {
+          "tag": "environment",
+          "title": "Amazon deforestation falls 42% to a record low",
+          "summary": "Amazon deforestation drops 42% to record low of 3,335 square kilometers annually.",
+          "extended_summary": "Brazil's national space research institute reported deforestation in the Amazon fell to its lowest recorded level in the 12 months through July 2026, covering 3,335 square kilometers. The 42% decline represents measurable progress in protecting the world's largest rainforest, though scientists emphasize sustained enforcement and policy commitment remain essential to prevent reversals in this critical ecosystem.",
+          "source": "Mongabay",
+          "time": "7d ago",
+          "first_seen_at": "2026-10-17T11:30:24.785641+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/10/amazon-deforestation-falls-42-to-a-record-low/",
+          "cover": {
+            "type": "template",
+            "template_id": "leaves",
+            "color_scheme": "moss"
+          }
+        },
+        {
+          "tag": "environment",
+          "title": "Invasive lionfish reach Brazil’s largest coral reefs. Local fishers fight back",
+          "summary": "Brazil pays fishers to remove invasive lionfish threatening coral reef ecosystems",
+          "extended_summary": "Local fishers in Porto Seguro, northeastern Brazil, have removed at least 440 invasive lionfish through a government-funded harvest program designed to protect native fish populations and coral reef health. Lionfish, an Atlantic species with few natural predators in Brazilian waters, pose a documented threat to local marine biodiversity. The initiative combines economic incentives for fishers with ecosystem management, though long-term effectiveness at scale remains to be demonstrated.",
+          "source": "Mongabay",
+          "time": "8d ago",
+          "first_seen_at": "2026-10-15T12:33:45.946406+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/10/invasive-lionfish-reach-brazils-largest-coral-reefs-local-fishers-fight-back/",
+          "cover": {
+            "type": "template",
+            "template_id": "leaves",
+            "color_scheme": "moss"
+          }
+        },
+        {
+          "tag": "environment",
+          "title": "Solar power helps Amazon communities ditch diesel and prepare for El Niño drought",
+          "summary": "Solar systems replace diesel generators in Amazon communities, improving water access during droughts.",
+          "extended_summary": "Remote communities across Brazil's Amazon are installing off-grid solar power systems to replace diesel generators and secure water supplies during severe droughts. In Nova Sociedade, solar-powered pumps now deliver clean water to 36 families who previously walked up to 20 kilometers during the 2024 drought. The transition addresses both immediate climate vulnerability and long-term environmental damage from diesel dependence, with measurable impact on household resilience.",
+          "source": "Mongabay",
+          "time": "16d ago",
+          "first_seen_at": "2026-10-07T14:21:10.378425+00:00",
+          "link": "https://news.mongabay.com/short-article/2026/10/solar-power-helps-amazon-communities-ditch-diesel-and-prepare-for-el-nino-drought/",
+          "cover": {
+            "type": "template",
+            "template_id": "leaves",
             "color_scheme": "moss"
           }
         }
@@ -358,7 +343,7 @@
           "summary": "Indonesia halts massive deforestation project after achieving rice self-sufficiency ahead of schedule, preserving 4 million acres.",
           "extended_summary": "Indonesian authorities have suspended a large-scale agricultural development initiative in rainforest and peatland regions after the country reached rice self-sufficiency three years earlier than planned. The halt preserves approximately 4 million acres of ecologically sensitive terrain from conversion to farmland. While the long-term protection status of these lands remains to be determined, the early cessation represents a significant departure from the original development timeline and reduces immediate deforestation pressure in biodiverse regions.",
           "source": "Good News Network",
-          "time": "just now",
+          "time": "23h ago",
           "first_seen_at": "2026-10-23T12:30:09.686911+00:00",
           "link": "https://www.goodnewsnetwork.org/indonesia-calls-an-early-halt-to-worlds-largest-deforestation-project-saving-potentially-4-million-acres/",
           "cover": {
@@ -373,7 +358,7 @@
           "summary": "Indonesian women's group restores mangroves while creating economic opportunities in coastal village.",
           "extended_summary": "Since 2022, Rhizopora, a women-led initiative in North Sulawesi, has combined mangrove restoration with livelihood development for village women. The program addresses dual challenges: coastal ecosystem degradation and limited economic prospects for female fishers. By linking conservation work to income generation, the initiative demonstrates how environmental restoration can provide measurable economic benefit to participating communities.",
           "source": "Mongabay",
-          "time": "6d ago",
+          "time": "7d ago",
           "first_seen_at": "2026-10-17T11:30:21.323654+00:00",
           "link": "https://news.mongabay.com/2026/10/indonesian-women-cash-in-on-mangrove-restoration-interview-with-community-leader-wisye-sahambangung/",
           "cover": {
@@ -403,7 +388,7 @@
           "summary": "Indonesian conservationists rescue orangutans threatened by forest fires in Borneo.",
           "extended_summary": "Forest fires in West Kalimantan are destroying orangutan habitat and pushing the species toward extinction. Veterinarian Komara and the YIARI team operate on the front lines, implementing rescue and rehabilitation efforts during fire season. The organization combines immediate animal welfare response with habitat protection, though the article lacks specific data on animals saved or long-term outcomes achieved. This represents active conservation work addressing a documented crisis.",
           "source": "Mongabay",
-          "time": "just now",
+          "time": "23h ago",
           "first_seen_at": "2026-10-23T12:31:07.139564+00:00",
           "link": "https://news.mongabay.com/2026/10/scorched-sanctuaries-the-race-to-save-borneos-orangutans-from-fires/",
           "cover": {
@@ -428,7 +413,7 @@
           "summary": "Thailand deploys artificial mangrove roots to combat accelerating coastal erosion in the Chao Phraya Delta.",
           "extended_summary": "Phra Samut Chedi district in Thailand loses 20-60 meters of coastline annually to erosion. Residents have implemented artificial mangrove root structures as a mitigation strategy in this muddy river delta region where Bangkok's main waterway meets the Gulf of Thailand. While the article frames this as a 'stopgap,' it represents a tested intervention addressing a documented environmental challenge affecting vulnerable coastal communities.",
           "source": "Mongabay",
-          "time": "7d ago",
+          "time": "8d ago",
           "first_seen_at": "2026-10-15T12:33:31.289038+00:00",
           "link": "https://news.mongabay.com/2026/10/artificial-mangrove-roots-offer-a-stopgap-for-thailands-eroding-coastline/",
           "cover": {
@@ -443,7 +428,7 @@
           "summary": "Thailand's wildlife center rehabilitates rescued leopard cats for forest release.",
           "extended_summary": "Thailand's Department of National Parks and Wildlife operates a rescue center caring for orphaned and confiscated leopard cats, small wild felids threatened by habitat loss and illegal trade. Staff hand-rear cubs and juveniles, conditioning them through staged exposure to natural stimuli before gradual release into protected forest areas. The program addresses both immediate animal welfare and broader conservation of a species facing population pressures from human encroachment.",
           "source": "Mongabay",
-          "time": "14d ago",
+          "time": "15d ago",
           "first_seen_at": "2026-10-08T14:29:05.838034+00:00",
           "link": "https://news.mongabay.com/2026/10/a-few-are-afraid-of-the-chicks-preparing-thailands-rescued-leopard-cats-for-life-in-the-wild/",
           "cover": {
@@ -458,7 +443,7 @@
           "summary": "Thailand seized 400 ivory pieces hidden in timber shipment from Zambia and launched DNA investigation.",
           "extended_summary": "Thai authorities intercepted approximately 400 pieces of African elephant ivory concealed within timber logs at Laem Chabang Port. The shipment had been declared as processed wood from Zambia. Officials initiated DNA testing to trace the elephants' origins, potentially strengthening enforcement against illegal wildlife trafficking networks. This interdiction represents active enforcement capacity, though long-term impact depends on whether DNA findings lead to prosecutions or policy changes.",
           "source": "Mongabay",
-          "time": "7d ago",
+          "time": "8d ago",
           "first_seen_at": "2026-10-15T12:33:25.354094+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/thailand-seizes-ivory-shipment-from-zambia-to-launch-dna-investigation/",
           "cover": {
@@ -483,7 +468,7 @@
           "summary": "Canadian entrepreneur expands successful local news model to 50 outlets nationwide.",
           "extended_summary": "Andrew Wilkinson's Victoria newsletter, launched in 2019 with a single reporter, demonstrated viability in an industry losing jobs faster than coal mining. The startup now plans to operate 50 outlets employing 250 journalists across Canada. This addresses documented news deserts where communities lack regular local coverage, though the article provides limited detail on funding mechanisms, sustainability metrics, or editorial independence safeguards.",
           "source": "Guardian Upside",
-          "time": "6d ago",
+          "time": "7d ago",
           "first_seen_at": "2026-10-17T11:31:04.289346+00:00",
           "link": "https://www.theguardian.com/world/2021/may/03/local-media-can-survive-the-canadian-team-building-a-future-for-community-news",
           "cover": {
@@ -498,7 +483,7 @@
           "summary": "First Nation partnership restores kelp forests in British Columbia coastal waters.",
           "extended_summary": "The Tla-o-qui-aht First Nation, working with restoration organizations, is actively replanting kelp forests in Clayoquot Sound, addressing decades of ecosystem degradation. Kelp forests support fisheries, marine biodiversity, and carbon sequestration. This initiative represents a structured restoration effort grounded in Indigenous leadership and marine ecological science, demonstrating measurable habitat recovery work in progress.",
           "source": "Mongabay",
-          "time": "10d ago",
+          "time": "11d ago",
           "first_seen_at": "2026-10-12T16:37:58.877365+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/first-nation-led-effort-replants-kelp-forests-in-clayoquot-sound/",
           "cover": {
@@ -513,7 +498,7 @@
           "summary": "Kelp nurseries combining scientific and Indigenous approaches restore coastal ecosystems in British Columbia.",
           "extended_summary": "The Redd Fish Restoration Society operates a kelp nursery in Clayoquot Sound's traditional territories, integrating Indigenous knowledge with marine science to restore degraded kelp forests. Sea otters, natural predators of sea urchins that overgraze kelp, play a supporting ecological role in recovery. The initiative addresses coastal ecosystem collapse driven by urchin overpopulation following otter extirpation, combining controlled nursery cultivation with broader ecosystem restoration principles.",
           "source": "Mongabay",
-          "time": "15d ago",
+          "time": "16d ago",
           "first_seen_at": "2026-10-07T14:21:14.768507+00:00",
           "link": "https://news.mongabay.com/2026/10/science-indigenous-knowledge-team-up-to-restore-canadas-kelp-sea-otters-help-too/",
           "cover": {
@@ -538,7 +523,7 @@
           "summary": "Local NGO becomes first to co-manage DRC protected wildlife area with national authority.",
           "extended_summary": "Strong Roots Congo, a homegrown nonprofit organization, has secured a co-management agreement for a wildlife reserve in the Democratic Republic of Congo—marking the first time a local NGO holds formal authority over a protected area alongside the country's wildlife agency. This structural shift transfers decision-making power from international organizations to domestic actors, potentially improving accountability and enabling conservation strategies aligned with regional priorities and local knowledge.",
           "source": "Mongabay",
-          "time": "9d ago",
+          "time": "10d ago",
           "first_seen_at": "2026-10-13T14:55:12.693486+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/in-a-first-for-the-drc-a-homegrown-ngo-will-co-manage-a-wildlife-reserve/",
           "cover": {
@@ -553,53 +538,13 @@
           "summary": "Orphaned gorilla rehabilitated and released to wild gives birth in Democratic Republic of Congo.",
           "extended_summary": "An eastern lowland gorilla, rescued from captivity and reintegrated into Virunga National Park in the DRC, successfully gave birth in May. The birth represents progress in gorilla conservation efforts, though the article provides limited detail on the rehabilitation program's scope, success rates, or broader ecosystem impact. The outcome demonstrates that rewilding can work for great apes, but lacks sufficient data on population-level effects or long-term survival metrics.",
           "source": "Good News Network",
-          "time": "17d ago",
+          "time": "18d ago",
           "first_seen_at": "2026-10-05T15:43:23.336698+00:00",
           "link": "https://www.goodnewsnetwork.org/orphaned-rescued-and-rewilded-female-gorilla-becomes-a-mother-in-historic-conservation-success/",
           "cover": {
             "type": "template",
             "template_id": "mountain",
             "color_scheme": "moss"
-          }
-        }
-      ]
-    },
-    {
-      "code": "HK",
-      "name": "Hong Kong",
-      "flag": "🇭🇰",
-      "lat": 22.3,
-      "lng": 114.17,
-      "count": 2,
-      "stories": [
-        {
-          "tag": "environment",
-          "title": "Artificial nests give Hong Kong’s cockatoos a home – and a chance to study their behavior",
-          "summary": "Artificial nest boxes help Hong Kong track and protect endangered yellow-crested cockatoos.",
-          "extended_summary": "Conservationists in Hong Kong have installed nest boxes designed for yellow-crested cockatoos, an endangered species, enabling researchers to monitor population dynamics and breeding success. The initiative combines habitat restoration with behavioral study, involving local schools in installation efforts. By providing suitable nesting sites, the program addresses a key limiting factor for the species' recovery while generating data on their urban ecology in one of Asia's densest cities.",
-          "source": "Mongabay",
-          "time": "16d ago",
-          "first_seen_at": "2026-10-06T14:03:11.918139+00:00",
-          "link": "https://news.mongabay.com/2026/10/artificial-nests-give-hong-kongs-cockatoos-a-home-and-a-chance-to-study-their-behavior/",
-          "cover": {
-            "type": "template",
-            "template_id": "wave",
-            "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "health",
-          "title": "As Hong Kong heats up, calls grow for tougher rules to protect outdoor workers",
-          "summary": "Hong Kong considers stricter heat protections for outdoor workers facing climate impacts",
-          "extended_summary": "As temperatures rise in Hong Kong, outdoor workers like 74-year-old Wong Ping-kuong face increasing health risks during shifts that regularly exceed 31°C. The article documents growing advocacy for regulatory changes to protect this vulnerable workforce from heat-related illness. While it identifies a real problem and emerging policy discussions, the piece appears to report on calls for action rather than implemented solutions or measurable outcomes from completed interventions.",
-          "source": "Mongabay",
-          "time": "20d ago",
-          "first_seen_at": "2026-10-02T13:42:52.970884+00:00",
-          "link": "https://news.mongabay.com/2026/10/as-hong-kong-heats-up-calls-grow-for-tougher-rules-to-protect-outdoor-workers/",
-          "cover": {
-            "type": "template",
-            "template_id": "heart",
-            "color_scheme": "gold"
           }
         }
       ]
@@ -633,52 +578,12 @@
           "summary": "Saudi solar farm doubles as breeding habitat for endangered Arabian sand gazelles.",
           "extended_summary": "Saudi Arabia has integrated wildlife conservation into a large-scale solar installation near the Red Sea, creating breeding grounds for Arabian sand gazelles, a vulnerable native species. The solar park operates within a 24,500-square-mile nature reserve, allowing simultaneous energy generation and species protection. While the initiative demonstrates practical coexistence between renewable infrastructure and conservation, the article lacks specific population data, breeding success metrics, or details on how long-term sustainability will be monitored.",
           "source": "Good News Network",
-          "time": "15d ago",
+          "time": "16d ago",
           "first_seen_at": "2026-10-07T14:20:05.374327+00:00",
           "link": "https://www.goodnewsnetwork.org/saudi-solar-park-proves-brilliant-breeding-ground-for-threatened-sand-gazelles/",
           "cover": {
             "type": "template",
             "template_id": "leaves",
-            "color_scheme": "moss"
-          }
-        }
-      ]
-    },
-    {
-      "code": "DE",
-      "name": "Germany",
-      "flag": "🇩🇪",
-      "lat": 52.52,
-      "lng": 13.4,
-      "count": 2,
-      "stories": [
-        {
-          "tag": "environment",
-          "title": "‘Like Caring for a Pet’ – the App That Lets You Know if Your Neighborhood Tree Is Thirsty",
-          "summary": "Berlin app mobilizes thousands to water city trees during heatwaves.",
-          "extended_summary": "Gieß den Kiez, an open-source application, has engaged thousands of Berlin residents in systematic tree maintenance by gamifying street-tree care. The app maps roughly 900,000 city trees and notifies users when individual trees need watering, creating accountability during summer heat stress. This addresses a measurable urban forestry challenge: climate-driven drought threatens canopy survival in dense cities, while municipal resources cannot reach all trees regularly. The program demonstrates how civic participation can supplement public infrastructure maintenance.",
-          "source": "Good News Network",
-          "time": "10d ago",
-          "first_seen_at": "2026-10-12T16:36:52.680033+00:00",
-          "link": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
-          "cover": {
-            "type": "template",
-            "template_id": "leaves",
-            "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "environment",
-          "title": "Wind turbine taller than the Eiffel Tower aims to boost German electricity production",
-          "summary": "Germany deploys world's tallest wind turbine to expand renewable electricity capacity",
-          "extended_summary": "Germany has installed a 365-meter wind turbine in Lusatia, surpassing the Eiffel Tower's height, at an existing wind farm southeast of Berlin. The project represents infrastructure expansion in renewable energy generation rather than a breakthrough technology. While the turbine's scale demonstrates commitment to wind power scaling, the article provides limited data on actual electricity output gains or grid impact metrics needed to assess genuine structural progress.",
-          "source": "Mongabay",
-          "time": "20d ago",
-          "first_seen_at": "2026-10-02T13:43:05.444334+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/10/wind-turbine-taller-than-the-eiffel-tower-aims-to-boost-german-electricity-production/",
-          "cover": {
-            "type": "template",
-            "template_id": "mountain",
             "color_scheme": "moss"
           }
         }
@@ -698,7 +603,7 @@
           "summary": "Nigeria shut down illegal gold mining operation affecting its largest national park.",
           "extended_summary": "Nigeria's National Park Service closed a major illegal gold mine near Gashaka-Gumti National Park, removing approximately 4,000 miners from the Kila mining area. The operation involved coordination between the park service and other enforcement agencies. While mining threatens wildlife habitat and water resources in Africa's largest protected area, the closure demonstrates concrete enforcement action, though long-term sustainability remains uncertain.",
           "source": "Mongabay",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-10-20T12:37:48.166238+00:00",
           "link": "https://news.mongabay.com/2026/10/nigerias-parks-chief-stresses-conservation-gains-amid-struggle-to-protect-wildlife/",
           "cover": {
@@ -738,7 +643,7 @@
           "summary": "Women beekeepers in Uttarakhand preserve native honeybee species through traditional apiculture practices.",
           "extended_summary": "In Uttarakhand's Himalayan region, women including 80-year-old Saraswati Devi are reviving indigenous honeybee conservation through traditional beekeeping methods. The initiative addresses the decline of native bee species crucial for local pollination and agricultural productivity. By combining ecological knowledge with community-based practices, these beekeepers demonstrate measurable impact on biodiversity while generating sustainable livelihoods in rural mountain communities.",
           "source": "Mongabay",
-          "time": "1d ago",
+          "time": "2d ago",
           "first_seen_at": "2026-10-21T12:49:37.682460+00:00",
           "link": "https://news.mongabay.com/2026/10/the-women-keeping-uttarakhands-native-bees-alive/",
           "cover": {
@@ -778,7 +683,7 @@
           "summary": "Solar panels above grapevines increased fruit yield while generating renewable energy.",
           "extended_summary": "Researchers at the University of Bari tested agrivoltaics—combining solar energy production with agriculture—on wine grapes. The study found that vines grown beneath solar panels produced larger, healthier fruit while the panels generated clean electricity. Though agrivoltaics has proven effective in other crops, this represents the first rigorous examination of the technique's effects on viticulture, suggesting a scalable model for energy production on agricultural land.",
           "source": "Good News Network",
-          "time": "just now",
+          "time": "23h ago",
           "first_seen_at": "2026-10-23T12:30:04.472999+00:00",
           "link": "https://www.goodnewsnetwork.org/vines-produce-bigger-healthier-wine-grapes-when-grown-under-solar-panels/",
           "cover": {
@@ -793,7 +698,7 @@
           "summary": "Italian biomethane facility converts agricultural waste into renewable gas for 3,000 homes.",
           "extended_summary": "A biomethane plant in Grottole, southern Italy, began operations converting agricultural waste into renewable natural gas. The facility will supply energy to over 3,000 households while eliminating approximately 9,000 tons of annual CO2 emissions and generating 45 gigawatt-hours of renewable energy yearly. The project demonstrates a practical alternative to fossil fuel infrastructure using existing agricultural byproducts.",
           "source": "Good News Network",
-          "time": "8d ago",
+          "time": "9d ago",
           "first_seen_at": "2026-10-14T12:45:33.603198+00:00",
           "link": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
           "cover": {
@@ -805,22 +710,47 @@
       ]
     },
     {
-      "code": "UG",
-      "name": "Uganda",
-      "flag": "🇺🇬",
-      "lat": 0.32,
-      "lng": 32.58,
+      "code": "HK",
+      "name": "Hong Kong",
+      "flag": "🇭🇰",
+      "lat": 22.3,
+      "lng": 114.17,
       "count": 1,
       "stories": [
         {
           "tag": "environment",
-          "title": "Uganda and NGO to co-manage sector of national park home to tree-climbing lions",
-          "summary": "Uganda and Wildlife Conservation Society formalize 10-year co-management agreement for national park sector.",
-          "extended_summary": "Uganda's Wildlife Authority and the Wildlife Conservation Society have signed a decade-long partnership to jointly manage the Ishasha Sector of Queen Elizabeth National Park, known for its tree-climbing lions. The arrangement divides responsibilities for biodiversity protection, local community relations, and operational management between the government agency and the international NGO. This structured approach to protected-area governance addresses the challenge of maintaining conservation efforts while balancing community needs in a region with significant wildlife populations.",
+          "title": "Artificial nests give Hong Kong’s cockatoos a home – and a chance to study their behavior",
+          "summary": "Artificial nest boxes help Hong Kong track and protect endangered yellow-crested cockatoos.",
+          "extended_summary": "Conservationists in Hong Kong have installed nest boxes designed for yellow-crested cockatoos, an endangered species, enabling researchers to monitor population dynamics and breeding success. The initiative combines habitat restoration with behavioral study, involving local schools in installation efforts. By providing suitable nesting sites, the program addresses a key limiting factor for the species' recovery while generating data on their urban ecology in one of Asia's densest cities.",
           "source": "Mongabay",
-          "time": "20d ago",
-          "first_seen_at": "2026-10-02T13:42:51.189296+00:00",
-          "link": "https://news.mongabay.com/short-article/2026/10/uganda-and-ngo-to-co-manage-sector-of-national-park-home-to-tree-climbing-lions/",
+          "time": "17d ago",
+          "first_seen_at": "2026-10-06T14:03:11.918139+00:00",
+          "link": "https://news.mongabay.com/2026/10/artificial-nests-give-hong-kongs-cockatoos-a-home-and-a-chance-to-study-their-behavior/",
+          "cover": {
+            "type": "template",
+            "template_id": "wave",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "lat": 52.52,
+      "lng": 13.4,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "‘Like Caring for a Pet’ – the App That Lets You Know if Your Neighborhood Tree Is Thirsty",
+          "summary": "Berlin app mobilizes thousands to water city trees during heatwaves.",
+          "extended_summary": "Gieß den Kiez, an open-source application, has engaged thousands of Berlin residents in systematic tree maintenance by gamifying street-tree care. The app maps roughly 900,000 city trees and notifies users when individual trees need watering, creating accountability during summer heat stress. This addresses a measurable urban forestry challenge: climate-driven drought threatens canopy survival in dense cities, while municipal resources cannot reach all trees regularly. The program demonstrates how civic participation can supplement public infrastructure maintenance.",
+          "source": "Good News Network",
+          "time": "11d ago",
+          "first_seen_at": "2026-10-12T16:36:52.680033+00:00",
+          "link": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
           "cover": {
             "type": "template",
             "template_id": "leaves",
@@ -843,88 +773,13 @@
           "summary": "New Zealand develops targeted strategies to control invasive caulerpa seaweed discovered in 2021.",
           "extended_summary": "Since caulerpa seaweed was discovered in New Zealand's coastal waters in 2021, it has spread across sections of the seabed, prompting researchers and officials to develop containment methods. The invasive species poses risks to native marine ecosystems and fisheries. Scientists are working on multiple intervention approaches, though the article suggests the seaweed's resilience presents ongoing challenges to control efforts.",
           "source": "Mongabay",
-          "time": "8d ago",
+          "time": "9d ago",
           "first_seen_at": "2026-10-14T12:46:40.790914+00:00",
           "link": "https://news.mongabay.com/2026/10/new-zealand-builds-an-arsenal-of-tools-to-battle-a-wily-invasive-seaweed/",
           "cover": {
             "type": "template",
             "template_id": "wave",
             "color_scheme": "moss"
-          }
-        }
-      ]
-    },
-    {
-      "code": "CN",
-      "name": "China",
-      "flag": "🇨🇳",
-      "lat": 39.9,
-      "lng": 116.4,
-      "count": 1,
-      "stories": [
-        {
-          "tag": "science",
-          "title": "Chinese Commercial Reactor Achieves Nuclear Fusion with Clean Hydrogen-Boron Fuel",
-          "summary": "Chinese reactor demonstrates nuclear fusion using hydrogen-boron fuel in commercial setting.",
-          "extended_summary": "A state-backed Chinese energy company achieved brief nuclear fusion using hydrogen-boron fuel in a spherical reactor, employing laser and radio waves to generate plasma. An international review team deemed the result a \"significant and valuable\" advance. The hydrogen-boron approach offers potential advantages in fuel abundance and waste reduction compared to traditional fusion methods, though the achievement remains in early demonstration stages without disclosed efficiency metrics or timeline to commercial viability.",
-          "source": "Good News Network",
-          "time": "20d ago",
-          "first_seen_at": "2026-10-02T13:42:03.826698+00:00",
-          "link": "https://www.goodnewsnetwork.org/chinese-commercial-reactor-achieves-nuclear-fusion-with-clean-hydrogen-boron-fuel/",
-          "cover": {
-            "type": "template",
-            "template_id": "constellation",
-            "color_scheme": "sky"
-          }
-        }
-      ]
-    },
-    {
-      "code": "AF",
-      "name": "Afghanistan",
-      "flag": "🇦🇫",
-      "lat": 34.53,
-      "lng": 69.17,
-      "count": 1,
-      "stories": [
-        {
-          "tag": "community",
-          "title": "When the Taliban Banned Girls From School, SOLA Kept Teaching",
-          "summary": "Afghan school relocates to Rwanda, continues educating girls banned from Taliban classrooms.",
-          "extended_summary": "SOLA, Afghanistan's only boarding school for girls, evacuated to Rwanda in 2021 after the Taliban banned female education. The school's first cohort has since graduated, while inside Afghanistan, women operate underground schools and girls use rationed internet access to continue learning. SOLA has established a permanent campus in Rwanda, providing continued education and safety for Afghan girls while documenting the broader resistance movement among Afghan women educators.",
-          "source": "Fix the News",
-          "time": "20d ago",
-          "first_seen_at": "2026-10-02T13:43:56.462737+00:00",
-          "link": "https://substack.fixthenews.com/p/when-the-taliban-banned-girls-from-e7d",
-          "cover": {
-            "type": "template",
-            "template_id": "circles",
-            "color_scheme": "warm"
-          }
-        }
-      ]
-    },
-    {
-      "code": "GA",
-      "name": "Gabon",
-      "flag": "🇬🇦",
-      "lat": 0.42,
-      "lng": 9.47,
-      "count": 1,
-      "stories": [
-        {
-          "tag": "community",
-          "title": "Gabon, home to the medicinal plant behind ibogaine, wants a fairer share of its global boom",
-          "summary": "Gabon seeks equitable benefit-sharing from global ibogaine market tied to traditional knowledge.",
-          "extended_summary": "Gabon is negotiating for fair compensation as ibogaine—derived from the iboga plant native to the country—gains commercial value globally, particularly in addiction treatment research. The story involves traditional knowledge holders, local markets, and questions of biopiracy and resource sovereignty. Success would establish a model for developing nations to capture economic benefits from their biodiversity rather than seeing profits flow entirely to foreign pharmaceutical and wellness companies.",
-          "source": "Mongabay",
-          "time": "20d ago",
-          "first_seen_at": "2026-10-02T13:43:11.322194+00:00",
-          "link": "https://news.mongabay.com/2026/10/gabon-home-to-the-medicinal-plant-behind-ibogaine-wants-a-fairer-share-of-its-global-boom/",
-          "cover": {
-            "type": "template",
-            "template_id": "circles",
-            "color_scheme": "warm"
           }
         }
       ]
@@ -943,7 +798,7 @@
           "summary": "Female elephant keepers in Kenya lead conservation efforts and community engagement.",
           "extended_summary": "Dorothy Lowakutuk and other women at Reteti elephant sanctuary in northern Kenya are reshaping conservation leadership and community involvement in wildlife protection. The sanctuary rescues orphaned elephants like Nemparwai, requiring intensive hands-on care that builds trust between humans and animals. By centering women's roles in traditionally male-dominated conservation work, these keepers are challenging assumptions about who leads environmental stewardship and expanding how local communities participate in elephant protection.",
           "source": "Positive News",
-          "time": "16d ago",
+          "time": "17d ago",
           "first_seen_at": "2026-10-06T14:02:40.914738+00:00",
           "link": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
           "cover": {
@@ -968,7 +823,7 @@
           "summary": "Demining partnership clears 14,000+ explosives from Libyan city and farmland.",
           "extended_summary": "A coalition including UNSMIL, Italian aid, local Libyan organizations, and the HALO Trust removed over 14,000 pieces of unexploded ordnance from a coastal Libyan city in a single year. The demining effort, ongoing since 2018, addresses a critical infrastructure problem: landmines and unexploded ordnance restrict agricultural use and civilian safety. The quantified removal target demonstrates measurable progress toward making affected areas habitable and economically viable again.",
           "source": "Good News Network",
-          "time": "14d ago",
+          "time": "15d ago",
           "first_seen_at": "2026-10-08T14:28:06.222288+00:00",
           "link": "https://www.goodnewsnetwork.org/more-than-14000-derelict-explosives-cleared-from-libyan-city-and-nearby-farmland/",
           "cover": {
@@ -993,7 +848,7 @@
           "summary": "Chile's Patagonia National Park reintroduces Darwin's rheas after decades of absence.",
           "extended_summary": "A women-led team with Rewilding Chile Foundation is preparing to release 13 Darwin's rheas into Patagonia National Park in April 2026, restoring a species that vanished from the region. Rangers provide round-the-clock care while addressing ecological threats including puma predation and illegal livestock grazing. The project represents a measurable rewilding effort addressing habitat loss, though success depends on post-release survival rates and ecosystem management.",
           "source": "Mongabay",
-          "time": "12d ago",
+          "time": "13d ago",
           "first_seen_at": "2026-10-10T13:27:45.750837+00:00",
           "link": "https://news.mongabay.com/video/2026/10/these-women-are-bringing-darwins-rheas-back-to-chilean-patagonia/",
           "cover": {
@@ -1018,7 +873,7 @@
           "summary": "Aldabra's giant tortoise population reaches 180,000, highest recorded count.",
           "extended_summary": "A comprehensive survey of the Aldabra atoll in Seychelles documented approximately 180,000 giant tortoises, the largest number ever recorded for this species. The population recovery represents decades of conservation effort on the remote island chain, where habitat protection and invasive species management have enabled the species to rebound from endangered status. This measurable outcome demonstrates how focused environmental intervention can restore wildlife populations to sustainable levels.",
           "source": "Good News Network",
-          "time": "10d ago",
+          "time": "11d ago",
           "first_seen_at": "2026-10-12T16:37:02.325021+00:00",
           "link": "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/",
           "cover": {
@@ -1043,7 +898,7 @@
           "summary": "Cape Town captures and relocates baboon troops to reduce human-wildlife conflicts in Table Mountain National Park.",
           "extended_summary": "Cape Town authorities are implementing a relocation program for chacma baboon troops that have increasingly moved into urban areas and national park boundaries. The initiative targets specific troops, including the 44-strong Waterfall troop, to reduce conflicts between growing baboon populations and human residents. The program represents a shift toward managing wildlife movement rather than culling, though effectiveness depends on long-term monitoring of relocated populations and whether relocated baboons remain in designated areas.",
           "source": "Mongabay",
-          "time": "9d ago",
+          "time": "10d ago",
           "first_seen_at": "2026-10-13T14:55:10.800522+00:00",
           "link": "https://news.mongabay.com/2026/10/a-hard-reset-cape-town-to-capture-and-relocate-baboon-troops/",
           "cover": {
@@ -1068,7 +923,7 @@
           "summary": "Deep-sea expedition off Argentina identifies 57 previously unknown species in Atlantic canyon.",
           "extended_summary": "A research team exploring a deep-sea canyon in the South Atlantic near Argentina discovered 57 species previously unknown to science, including a sea cucumber researchers named Loki. The organisms were found at depths exceeding 2,500 meters, in extreme conditions where few humans have ventured. The discovery expands scientific understanding of deep-ocean biodiversity and highlights how little we know about life in Earth's deepest environments.",
           "source": "Mongabay",
-          "time": "8d ago",
+          "time": "9d ago",
           "first_seen_at": "2026-10-14T12:46:30.929680+00:00",
           "link": "https://news.mongabay.com/2026/10/patrick-sea-star-went-viral-but-argentine-deep-sea-canyon-held-57-new-species/",
           "cover": {
@@ -1093,7 +948,7 @@
           "summary": "Belize proposes three offshore marine protected areas to reach 30% ocean protection target.",
           "extended_summary": "Belize submitted a draft marine spatial plan in September to establish three offshore marine protected areas, closing the gap needed to protect 30% of its ocean territory. The initiative fulfills a specific milestone under Belize's Blue Bond agreement, which ties ocean conservation to development finance. Deep-sea MPAs address a protection gap in existing coastal reserves, extending safeguards to less-monitored offshore ecosystems where biodiversity remains largely unknown.",
           "source": "Mongabay",
-          "time": "7d ago",
+          "time": "8d ago",
           "first_seen_at": "2026-10-15T12:33:21.470682+00:00",
           "link": "https://news.mongabay.com/2026/10/belize-looks-to-the-deep-sea-to-complete-its-30-ocean-protection-pledge/",
           "cover": {
@@ -1118,7 +973,7 @@
           "summary": "Ukrainian repair festival relocates underground to continue despite Russian strikes",
           "extended_summary": "Chornomorsk's repair movement, a hub for Ukraine's circular economy initiatives, is adapting to wartime conditions by moving its annual repair festival into an underground shelter after Russian missile strikes destroyed their previous venue. Organizers are proceeding with the October 17 International Repair Day event, including workshops and an experimental zone exploring product design. The initiative reflects efforts to preserve community learning and civil society structures amid ongoing conflict.",
           "source": "Positive News",
-          "time": "7d ago",
+          "time": "8d ago",
           "first_seen_at": "2026-10-15T12:32:46.580202+00:00",
           "link": "https://www.positive.news/society/in-ukraine-the-repair-movement-is-heading-underground/",
           "cover": {
@@ -1168,7 +1023,7 @@
           "summary": "Mozambique designates 23,000 acres as protected conservation area for butterfly habitat.",
           "extended_summary": "Mozambique's government formally protected Mount Mabu as a community conservation area through an August decree, safeguarding 23,000 acres of one of southern Africa's wettest regions. The area harbors over 200 butterfly species found nowhere else, making it ecologically significant. The designation establishes legal protection while enabling local community involvement in management, addressing both biodiversity loss and sustainable land use in a biodiverse region.",
           "source": "Good News Network",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-10-20T12:36:54.341997+00:00",
           "link": "https://www.goodnewsnetwork.org/mozambique-protects-the-butterfly-forest-of-mount-mabu-home-to-200-species/",
           "cover": {
@@ -1193,7 +1048,7 @@
           "summary": "AI system combines machine learning with local knowledge to predict tiger attacks in Nepal.",
           "extended_summary": "Researchers in Nepal developed an AI model that integrates local community expertise with machine learning to forecast tiger-human conflict hotspots. The system helps wildlife officials and residents in tiger-inhabited areas take preventive measures, reducing casualties on both sides. By incorporating traditional ecological knowledge from communities like the Tharu people alongside spatial data, the approach addresses a persistent conservation challenge affecting rural populations while protecting an endangered species.",
           "source": "Mongabay",
-          "time": "2d ago",
+          "time": "3d ago",
           "first_seen_at": "2026-10-20T12:37:54.043849+00:00",
           "link": "https://news.mongabay.com/2026/10/in-nepal-ai-builds-on-local-knowledge-to-help-prevent-tiger-attacks/",
           "cover": {
@@ -1218,7 +1073,7 @@
           "summary": "Jersey expands marine protected areas to 21.7% of territorial waters, banning trawling.",
           "extended_summary": "Jersey increased its marine protected areas by 15 percentage points, bringing total coverage to 21.7% of territorial waters as of September 2024. The expansion prohibits trawling and other destructive fishing practices in vulnerable ecosystems. This represents measurable structural protection for marine habitats, though the long-term ecological impact and enforcement mechanisms remain to be demonstrated.",
           "source": "Good News Network",
-          "time": "1d ago",
+          "time": "2d ago",
           "first_seen_at": "2026-10-21T12:48:30.457536+00:00",
           "link": "https://www.goodnewsnetwork.org/isle-of-jersey-expands-marine-protections-to-cover-21-of-territorial-waters/",
           "cover": {
@@ -1243,7 +1098,7 @@
           "summary": "Cambodia's Irrawaddy dolphin population reaches 118 with six confirmed calves born this year.",
           "extended_summary": "Six calves were born in 2024 along a 120-kilometer river stretch in northeastern Cambodia, bringing the critically endangered Irrawaddy dolphin population to approximately 118 individuals. The births represent measurable population growth for a species that had declined to near extinction. Conservation officials view the reproduction as evidence that recent protection efforts are creating conditions for recovery, though the dolphins remain threatened by dam construction and fishing activities.",
           "source": "Mongabay",
-          "time": "1d ago",
+          "time": "2d ago",
           "first_seen_at": "2026-10-21T12:49:49.146621+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/six-new-calves-offer-hope-amid-ongoing-threats-to-cambodias-irrawaddy-dolphins/",
           "cover": {
@@ -1268,7 +1123,7 @@
           "summary": "Japan launches spacecraft to collect and return Martian moon samples for scientific study.",
           "extended_summary": "Japan's Martian Moons eXploration (MMX) mission launched October 19th to collect soil samples from Mars's moons and return them to Earth—a first in planetary science. The mission represents a significant advance in understanding Mars's geology and the formation of its moon system. Successful sample return will enable peer-reviewed analysis across the global scientific community, potentially informing future Mars exploration strategies and broader questions about planetary system development.",
           "source": "Good News Network",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-10-22T12:51:39.131506+00:00",
           "link": "https://www.goodnewsnetwork.org/japan-launches-first-mission-mars-moon-samples/",
           "cover": {
@@ -1293,7 +1148,7 @@
           "summary": "Native wildlife recovers on Samoan island after invasive species removal program.",
           "extended_summary": "Nu'utele Island in Samoa has shown ecological recovery following the removal of invasive rats and pigs, with native forests and wildlife populations rebounding within one year. The island, designated a Key Biodiversity Area, supports some of Samoa's most intact native forest ecosystems. This restoration effort demonstrates how targeted invasive species control can restore island ecosystems and food resources, a replicable model for Pacific conservation challenges.",
           "source": "Good News Network",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-10-22T12:51:33.754796+00:00",
           "link": "https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/",
           "cover": {
@@ -1318,7 +1173,7 @@
           "summary": "ETH Zurich researchers develop low-energy method to recycle acrylic glass into reusable material.",
           "extended_summary": "Scientists at ETH Zurich have developed a process to decompose acrylic glass (Plexiglas) back into its original chemical components, enabling practical recycling at scale. The material appears widely in windows, vehicle lights, and protective barriers, most of which currently ends up in landfills. This low-energy approach makes high-quality recycling economically viable for the first time, addressing a significant gap in circular manufacturing for commonly discarded plastics.",
           "source": "Good News Network",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-10-22T12:51:40.874781+00:00",
           "link": "https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/",
           "cover": {
@@ -1343,7 +1198,7 @@
           "summary": "Cocoa farmer leads forest conservation effort linking livelihood sustainability with climate resilience in Ghana.",
           "extended_summary": "Susana Afrifa Ankrah, a cocoa farmer in Ghana's Atewa Range, participates in a community-led conservation scheme that protects tropical forest while supporting agricultural livelihoods. The forest provides tangible benefits: improved rainfall patterns, crop productivity, and medicinal resources for local herbalists treating malaria and other diseases. By demonstrating that forest protection and economic viability can coexist, the initiative offers a replicable model for climate adaptation in West African agricultural communities.",
           "source": "Positive News",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-10-22T12:51:57.559935+00:00",
           "link": "https://www.positive.news/society/the-farmer-growing-a-future-under-ghanas-trees/",
           "cover": {
@@ -1368,7 +1223,7 @@
           "summary": "Greenland suspends seabed mining licenses until 2029 to assess environmental risks.",
           "extended_summary": "Greenland's parliament voted to pause seabed mining licensing, directing the government to draft legislation implementing a moratorium through at least 2029. The decision responds to concerns about potential marine ecosystem damage and foreign corporate control of extraction activities. While this represents meaningful precautionary action, the outcome remains conditional on future parliamentary approval of implementing legislation in 2027, leaving the policy's durability uncertain.",
           "source": "Mongabay",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-10-22T12:52:34.021356+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/a-decision-to-decide-greenland-moves-to-suspend-seabed-mining-until-2029/",
           "cover": {
@@ -1393,9 +1248,34 @@
           "summary": "Supermarket chain tests commercial viability of heritage apple varieties across Alpine regions.",
           "extended_summary": "Spar Group, a major European supermarket chain, is conducting market trials to make heirloom apple varieties commercially available at scale. The initiative focuses on Alpine cultivars that have become less common as industrial agriculture favors fewer, high-yield varieties. While the project demonstrates potential for biodiversity in food systems and may preserve genetic diversity, the article lacks measurable outcomes—production volumes, consumer uptake rates, or timeline for wider rollout remain unspecified.",
           "source": "Good News Network",
-          "time": "just now",
+          "time": "23h ago",
           "first_seen_at": "2026-10-23T12:30:11.624126+00:00",
           "link": "https://www.goodnewsnetwork.org/major-supermarket-begins-wide-scale-tests-to-bring-heritage-apple-varieties-to-market/",
+          "cover": {
+            "type": "template",
+            "template_id": "leaves",
+            "color_scheme": "moss"
+          }
+        }
+      ]
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "flag": "🇧🇩",
+      "lat": 23.81,
+      "lng": 90.41,
+      "count": 1,
+      "stories": [
+        {
+          "tag": "environment",
+          "title": "Bangladesh’s climate migrants are arriving in cities unprepared to protect them",
+          "summary": "Bangladesh faces mass climate displacement with cities unprepared for incoming migrants.",
+          "extended_summary": "Bangladesh experienced 2.4 million internal displacements in 2024 due to climate disasters, with projections suggesting rising seas could submerge over one-seventh of the country's land and reduce food production by nearly one-third by 2050. Researchers are studying the specific vulnerabilities migrants encounter when relocating to urban areas. The analysis addresses the gap between massive environmental pressure and inadequate urban infrastructure and social systems.",
+          "source": "Mongabay",
+          "time": "just now",
+          "first_seen_at": "2026-10-24T11:55:33.887251+00:00",
+          "link": "https://news.mongabay.com/2026/10/bangladeshs-climate-migrants-are-arriving-in-cities-unprepared-to-protect-them/",
           "cover": {
             "type": "template",
             "template_id": "leaves",
@@ -1410,7 +1290,7 @@
       "flag": "🌍",
       "lat": null,
       "lng": null,
-      "count": 30,
+      "count": 28,
       "stories": [
         {
           "tag": "environment",
@@ -1418,7 +1298,7 @@
           "summary": "Seabird restoration on tropical atolls measurably strengthens islands against sea level rise.",
           "extended_summary": "Researchers from Lancaster University found that reintroducing seabirds and native vegetation to low-lying tropical islands enhances their resilience to rising seas. Coral reefs grew 2.5 times faster around islands with thriving seabird populations compared to rat-infested atolls, due to nutrient-rich droppings that fertilize reefs and increase sediment production. The study demonstrates a specific ecological mechanism—bird guano accelerates reef growth and island building—offering a measurable conservation strategy for vulnerable island nations.",
           "source": "Positive News",
-          "time": "just now",
+          "time": "23h ago",
           "first_seen_at": "2026-10-23T12:30:25.089159+00:00",
           "link": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
           "cover": {
@@ -1433,7 +1313,7 @@
           "summary": "Lead poisoning affects one billion children globally, but solutions exist and organizations are scaling interventions.",
           "extended_summary": "Lead exposure from cookware, spices, cosmetics, and industrial sources causes irreversible cognitive damage in approximately one billion children worldwide, reducing IQ by up to six points per child. Pure Earth and similar organizations have spent nearly two decades documenting the scale and developing elimination strategies. The article highlights that unlike many development challenges, the technical pathway to solving lead poisoning is established; the remaining barrier is mobilizing global political and financial commitment to implement known interventions.",
           "source": "Fix the News",
-          "time": "just now",
+          "time": "23h ago",
           "first_seen_at": "2026-10-23T12:31:54.047956+00:00",
           "link": "https://substack.fixthenews.com/p/lead-poisoning-is-solvable-so-whats-b68",
           "cover": {
@@ -1448,7 +1328,7 @@
           "summary": "Photographers campaign to end deceptive wildlife imagery from captive animal facilities.",
           "extended_summary": "Wildlife photographers are exposing the use of game farms—captive facilities where photographers stage images of wild animals for commercial sale and competition entry. Photographers like Melissa Groo are organizing to eliminate this practice, which undermines conservation by misrepresenting captive animals as wild and enabling fraudulent submissions to awards and publications. This structural shift targets both the supply chain (stock sites, magazines) and credibility standards in wildlife photography.",
           "source": "Mongabay",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-10-22T12:52:57.262146+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/wildlife-photographys-dirty-little-secret/",
           "cover": {
@@ -1478,7 +1358,7 @@
           "summary": "Multiple countries implement measurable marine protection across millions of square kilometers of ocean.",
           "extended_summary": "French Polynesia and a four-country Eastern Tropical Pacific corridor have established marine protected areas covering millions of square kilometers with varying protection levels. The article examines what enforcement mechanisms and governance structures actually sustain these reserves beyond initial designation. By analyzing specific regional implementations, the reporting identifies patterns in successful ocean conservation policy, moving beyond rhetorical commitments to examine documented outcomes.",
           "source": "Mongabay",
-          "time": "7d ago",
+          "time": "8d ago",
           "first_seen_at": "2026-10-15T12:33:29.343331+00:00",
           "link": "https://news.mongabay.com/2026/10/from-paper-parks-to-lasting-protection-heres-what-works-in-marine-conservation/",
           "cover": {
@@ -1493,7 +1373,7 @@
           "summary": "Global mangrove forests reversed decades of decline, expanding by 477 square kilometers.",
           "extended_summary": "After sustained losses, mangrove cover worldwide has begun recovering, according to recent data analysis. The expansion of these salt-tolerant coastal ecosystems represents a measurable environmental gain with documented benefits: carbon sequestration, biodiversity support for thousands of species, and natural coastal defense against storms and erosion. The reversal reflects conservation efforts across multiple regions, though the recovery remains modest relative to historical destruction.",
           "source": "Mongabay",
-          "time": "7d ago",
+          "time": "8d ago",
           "first_seen_at": "2026-10-15T12:33:44.088502+00:00",
           "link": "https://news.mongabay.com/2026/10/mangroves-gain-ground-globally-marking-turnaround-after-decades-of-loss/",
           "cover": {
@@ -1508,7 +1388,7 @@
           "summary": "Painted wind turbine blades using warning colors reduce bird collision rates in tests.",
           "extended_summary": "Researchers tested whether high-contrast color patterns inspired by nature's warning systems could help birds detect and avoid wind turbine blades. Using video-game experiments with great tits, scientists found that specific painted designs significantly improved avoidance compared to standard turbines. If proven effective at scale, this low-cost intervention could reduce bird mortality at wind farms globally while supporting renewable energy expansion.",
           "source": "Mongabay",
-          "time": "8d ago",
+          "time": "9d ago",
           "first_seen_at": "2026-10-14T12:46:25.257616+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/painted-turbines-can-save-millions-of-birds/",
           "cover": {
@@ -1523,7 +1403,7 @@
           "summary": "Personalized mRNA cancer vaccines show clinical benefit in melanoma trial.",
           "extended_summary": "Moderna and Merck completed a late-stage trial combining personalized mRNA cancer vaccines with immunotherapy drug Keytruda. Researchers sequenced tumors from 1,137 melanoma patients, identified neoantigens for immune targeting, and manufactured individualized vaccines within six weeks. The combination reduced relapse and metastasis rates compared to Keytruda alone, marking the first verified efficacy for mRNA cancer vaccines in late-stage human trials.",
           "source": "Fix the News",
-          "time": "11d ago",
+          "time": "12d ago",
           "first_seen_at": "2026-10-11T13:54:33.265220+00:00",
           "link": "https://substack.fixthenews.com/p/351-ice-stupa-menhaden-cancer-vaccine",
           "cover": {
@@ -1538,7 +1418,7 @@
           "summary": "Painting wind turbine blades reduces bird collision deaths in peer-reviewed study.",
           "extended_summary": "Researchers discovered that painting wind turbine blades with high-contrast patterns significantly decreases avian collisions, a major cause of bird deaths in renewable energy operations. The solution addresses a genuine ecological cost of wind power expansion without requiring expensive infrastructure changes or reducing energy output. This low-cost intervention could scale across existing turbine installations globally, offering measurable environmental benefit alongside climate mitigation efforts.",
           "source": "Mongabay",
-          "time": "12d ago",
+          "time": "13d ago",
           "first_seen_at": "2026-10-10T13:27:51.268516+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/painted-wind-turbines-can-dramatically-reduce-bird-deaths-study-finds/",
           "cover": {
@@ -1553,7 +1433,7 @@
           "summary": "Global deaths from diarrheal infections halved since 2000, with child mortality dropping 72 percent.",
           "extended_summary": "Enteric infectious disease deaths fell from 2.66 million annually in 2000 to 1.27 million in 2023, according to data published in The Lancet. Children under five experienced the steepest decline, with diarrhea-related deaths dropping from 1.14 million to 317,000 per year. This improvement reflects gains in sanitation, oral rehydration therapy, vaccination, and treatment access across multiple countries. The reduction represents one of public health's most significant achievements, yet remains largely unrecognized globally.",
           "source": "Fix the News",
-          "time": "18d ago",
+          "time": "19d ago",
           "first_seen_at": "2026-10-04T13:07:37.300256+00:00",
           "link": "https://substack.fixthenews.com/p/350-uukhai-gut-infections-daintree",
           "cover": {
@@ -1568,7 +1448,7 @@
           "summary": "Sentinel program aims to detect dangerous viruses before human outbreaks through testing infrastructure.",
           "extended_summary": "Dr. Pardis Sabeti and Christian Happi founded Sentinel, a viral surveillance initiative grounded in a practical insight: emerging diseases often circulate undetected due to insufficient testing capacity rather than sudden emergence. The team, which includes Harvard, Tulane, and regional partners in West Africa, developed methods to identify pathogens like Lassa and Ebola earlier in their spread. The work demonstrates that existing science and local networks can shift pandemic prevention from reactive response to proactive detection, though the initiative now faces pressure from reduced global health funding.",
           "source": "Fix the News",
-          "time": "18d ago",
+          "time": "19d ago",
           "first_seen_at": "2026-10-04T13:07:42.450799+00:00",
           "link": "https://substack.fixthenews.com/p/dr-pardis-sabeti-sentinel",
           "cover": {
@@ -1594,41 +1474,11 @@
         },
         {
           "tag": "environment",
-          "title": "Mangroves keep waves at bay. A new study helps scientists predict how",
-          "summary": "Study develops predictive model for mangrove wave-reduction capacity during storms.",
-          "extended_summary": "Researchers have created a methodology to quantify how effectively mangrove forests reduce wave intensity from severe storms. Mangroves already serve as critical coastal buffers against storm surge and sea-level rise, but this work moves beyond general recognition to predictive capability. The model enables coastal planners and conservation managers to estimate specific wave-attenuation benefits when evaluating mangrove protection or restoration investments in vulnerable regions.",
-          "source": "Mongabay",
-          "time": "20d ago",
-          "first_seen_at": "2026-10-02T13:42:59.860191+00:00",
-          "link": "https://news.mongabay.com/2026/10/mangroves-keep-waves-at-bay-a-new-study-helps-scientists-predict-how/",
-          "cover": {
-            "type": "template",
-            "template_id": "mountain",
-            "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "environment",
-          "title": "Antarctica’s Wind Farm Saves 122,000 Gallons of Diesel Over 15 Years Powering McMurdo Station",
-          "summary": "Three wind turbines reduced diesel consumption at Antarctic research station by 122,000 gallons over 15 years.",
-          "extended_summary": "Three wind turbines installed on Ross Island in 2008-2009 have displaced approximately 122,000 gallons of diesel fuel at McMurdo Station over their operational lifetime. The installation addressed a significant logistical challenge in Antarctica's remote environment, where fuel must be shipped across extreme distances. While the quantified fuel savings demonstrate measurable environmental benefit, the turbines are now nearing end-of-life, raising questions about long-term renewable energy strategy for Antarctic research operations.",
-          "source": "Good News Network",
-          "time": "20d ago",
-          "first_seen_at": "2026-10-02T13:41:56.389495+00:00",
-          "link": "https://www.goodnewsnetwork.org/antarcticas-wind-farm-saves-122000-gallons-of-diesel-over-15-years-powering-mcmurdo-station/",
-          "cover": {
-            "type": "template",
-            "template_id": "leaves",
-            "color_scheme": "moss"
-          }
-        },
-        {
-          "tag": "environment",
           "title": "International Whaling Commission rejects push to revive commercial whaling",
           "summary": "International Whaling Commission blocks attempt to legalize commercial whaling globally.",
           "extended_summary": "The International Whaling Commission rejected a resolution that would have reopened commercial whaling, which has been prohibited since 1986. The proposal, backed by Antigua and Barbuda, Palau, and other nations, was withdrawn on the final day of the meeting after insufficient support materialized. The moratorium has allowed many whale populations to recover from near-extinction, though enforcement remains inconsistent across member nations.",
           "source": "Mongabay",
-          "time": "15d ago",
+          "time": "16d ago",
           "first_seen_at": "2026-10-07T14:20:56.846852+00:00",
           "link": "https://news.mongabay.com/2026/10/international-whaling-commission-rejects-push-to-revive-commercial-whaling/",
           "cover": {
@@ -1643,7 +1493,7 @@
           "summary": "UN adopts Equal Earth map projection to correct geographic distortions in Mercator map.",
           "extended_summary": "The UN General Assembly voted 164-1 to adopt the Equal Earth map projection as an alternative to the Mercator projection, which has systematically misrepresented continent sizes for centuries. The Mercator map depicted Africa as equivalent in size to Greenland, despite Africa being 14 times larger. This structural change addresses how geography is taught globally, with potential implications for how nations perceive their own and others' importance.",
           "source": "Fix the News",
-          "time": "15d ago",
+          "time": "16d ago",
           "first_seen_at": "2026-10-07T14:21:52.584899+00:00",
           "link": "https://substack.fixthenews.com/p/353-kwita-izina-correct-the-map-mexico",
           "cover": {
@@ -1658,7 +1508,7 @@
           "summary": "African wildlife populations fell 80% since 1970, but conservation efforts show recovery is possible.",
           "extended_summary": "A global assessment released in October documented a severe decline in monitored African wildlife populations, averaging 80% loss over five decades. The Living Planet Report also identified specific regions where sustained conservation interventions have reversed population declines. These localized successes demonstrate that structural habitat protection and long-term resource commitment can counteract biodiversity loss, offering measurable evidence for conservation strategy effectiveness across the continent.",
           "source": "Mongabay",
-          "time": "14d ago",
+          "time": "15d ago",
           "first_seen_at": "2026-10-08T14:28:58.030640+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/africas-monitored-wildlife-populations-declined-80-since-1970-new-report-says/",
           "cover": {
@@ -1673,7 +1523,7 @@
           "summary": "Genetic analysis identifies Arabian Sea humpbacks as distinct subspecies facing extinction risk.",
           "extended_summary": "Researchers from the Wildlife Conservation Society used genetic sequencing to establish that humpback whales in the Arabian Sea represent a unique subspecies, isolated for tens of thousands of years. The finding clarifies a long-standing scientific puzzle about these populations. Recognition as a distinct subspecies may strengthen conservation protections, though the article provides limited detail on current population numbers or specific threats requiring mitigation.",
           "source": "Mongabay",
-          "time": "14d ago",
+          "time": "15d ago",
           "first_seen_at": "2026-10-08T14:29:01.926647+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/arabian-sea-humpbacks-may-be-a-unique-subspecies-at-risk-of-extinction/",
           "cover": {
@@ -1688,7 +1538,7 @@
           "summary": "Global funders exceed $2.35 billion pledge for Indigenous land rights through 2025.",
           "extended_summary": "An international coalition exceeded its $1.7 billion funding target for Indigenous peoples and local communities' forest land rights by 35%, delivering $2.35 billion between 2021 and 2025 following commitments made at the 2021 UN Climate Conference. The Forest Tenure Funders Group tracked disbursements across multiple donors and countries. While the headline number shows progress on a critical conservation mechanism—Indigenous-managed lands demonstrate stronger forest preservation outcomes—the report notes that direct funding to communities remains proportionally low, suggesting implementation gaps between pledged and community-accessible resources.",
           "source": "Mongabay",
-          "time": "14d ago",
+          "time": "15d ago",
           "first_seen_at": "2026-10-08T14:29:08.271383+00:00",
           "link": "https://news.mongabay.com/2026/10/international-pledge-to-fund-forest-rights-exceeds-target-but-direct-funding-remains-low/",
           "cover": {
@@ -1703,7 +1553,7 @@
           "summary": "Global Safety Net v3 maps remaining ecosystems using satellite imagery and AI to guide conservation priorities worldwide.",
           "extended_summary": "Global Safety Net v3, developed by Nature Data Lab, combines satellite imagery, artificial intelligence, and geospatial mapping to identify intact ecosystems and inform conservation strategies. The tool addresses a fundamental challenge: determining where ecological protection efforts should be concentrated globally. By providing data-driven insights into ecosystem status, the platform aims to improve targeting of land protection initiatives and help organizations monitor conservation outcomes over time.",
           "source": "Mongabay",
-          "time": "13d ago",
+          "time": "14d ago",
           "first_seen_at": "2026-10-09T14:16:14.528042+00:00",
           "link": "https://news.mongabay.com/2026/10/how-much-nature-is-left-interview-with-nature-data-labs-karl-burkart/",
           "cover": {
@@ -1718,7 +1568,7 @@
           "summary": "Coordinated law enforcement operation across nine Latin American countries disrupts wildlife and timber trafficking networks.",
           "extended_summary": "Interpol coordinated an enforcement operation across nine Latin American and Caribbean nations in June-July, resulting in hundreds of arrests and recovery of over 1,000 animals. Operation Madre Tierra, the eighth iteration of this recurring initiative, targeted organized environmental crime networks trafficking wildlife and timber. The multinational approach demonstrates growing institutional capacity to combat transnational trafficking, though the article lacks detail on enforcement sustainability or trafficking reduction metrics.",
           "source": "Mongabay",
-          "time": "13d ago",
+          "time": "14d ago",
           "first_seen_at": "2026-10-09T14:16:29.800305+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/crackdown-reveals-industrial-scale-wildlife-and-timber-trafficking-across-latin-america/",
           "cover": {
@@ -1733,7 +1583,7 @@
           "summary": "Harvard scientist develops early-warning system to detect disease outbreaks before they spread.",
           "extended_summary": "Dr. Pardis Sabeti and her team at Harvard are building Sentinel, an early-warning system designed to detect infectious diseases as they emerge, particularly in resource-limited regions across Africa. The system aims to identify dangerous viruses in real time and provide health workers actionable information to contain outbreaks. While the concept shows promise based on Sabeti's track record tracking Ebola and COVID-19, the article discusses ambitions rather than deployed results or measured impact, making it solutions-oriented but not yet field-proven at scale.",
           "source": "Fix the News",
-          "time": "13d ago",
+          "time": "14d ago",
           "first_seen_at": "2026-10-09T14:17:08.422623+00:00",
           "link": "https://substack.fixthenews.com/p/can-we-stop-the-next-pandemic-before-8f3",
           "cover": {
@@ -1748,7 +1598,7 @@
           "summary": "Gait modification shown to reduce knee arthritis pain and slow cartilage damage",
           "extended_summary": "Researchers have documented that altering walking patterns can provide pain relief comparable to medication while potentially slowing osteoarthritis progression. The finding addresses a condition affecting roughly 25% of adults over 40, for which no curative treatment currently exists. The study demonstrates a non-pharmacological intervention with measurable effects on both symptoms and underlying joint deterioration, offering patients a drug-free management option.",
           "source": "Good News Network",
-          "time": "10d ago",
+          "time": "11d ago",
           "first_seen_at": "2026-10-12T16:37:00.475757+00:00",
           "link": "https://www.goodnewsnetwork.org/new-way-to-relieve-arthritic-knees-without-drugs-or-surgery-by-changing-your-gait/",
           "cover": {
@@ -1763,7 +1613,7 @@
           "summary": "Study identifies gaps in wildlife disease monitoring systems across 107 countries.",
           "extended_summary": "Researchers analyzed disease surveillance infrastructure in 107 countries and found that 59% lack functional wildlife health monitoring systems. The study proposes a framework for strengthening local surveillance networks to detect outbreaks before they spread to agriculture and human populations. Weak monitoring systems create vulnerability to zoonotic diseases and ecosystem collapse, affecting food security and public health globally.",
           "source": "Mongabay",
-          "time": "10d ago",
+          "time": "11d ago",
           "first_seen_at": "2026-10-12T16:38:10.176708+00:00",
           "link": "https://news.mongabay.com/short-article/2026/10/wildlife-disease-surveillance-at-global-scale-needs-stronger-local-networks-study/",
           "cover": {
@@ -1793,7 +1643,7 @@
           "summary": "Textile covering tripled strawberry yields while reducing pesticide and water use in field tests.",
           "extended_summary": "Researchers developed Plant Armor, a specially structured fabric that covers strawberry plants to boost production. Field tests showed yields tripled without harming plant health, while pesticide and water consumption decreased. The technology addresses agricultural efficiency and chemical reduction, though the article lacks specifics on testing scale, duration, commercial viability timeline, or peer-review status needed to confirm broader impact potential.",
           "source": "Good News Network",
-          "time": "6d ago",
+          "time": "7d ago",
           "first_seen_at": "2026-10-17T11:29:34.024127+00:00",
           "link": "https://www.goodnewsnetwork.org/drape-some-of-this-plant-armor-fabric-over-a-strawberry-patch-to-triple-yields-with-less-pesticides/",
           "cover": {
@@ -1808,7 +1658,7 @@
           "summary": "Teen develops Bluetooth messaging app that functions when cellular networks fail during disasters.",
           "extended_summary": "A high school student created a messaging application designed to operate via Bluetooth relay when conventional cellular and internet infrastructure becomes unavailable during earthquakes or other disasters. The app was inspired by the February 2023 earthquakes in Türkiye and Syria, which disabled communication networks when connectivity was most critical. While the concept addresses a genuine infrastructure vulnerability and the solution shows technical promise, the article lacks deployment data, user testing results, or evidence of actual field effectiveness to confirm measurable impact.",
           "source": "Good News Network",
-          "time": "6d ago",
+          "time": "7d ago",
           "first_seen_at": "2026-10-17T11:29:36.116468+00:00",
           "link": "https://www.goodnewsnetwork.org/teens-disaster-messaging-app-can-hop-across-bluetooth-when-cellular-networks-collapse/",
           "cover": {
@@ -1823,7 +1673,7 @@
           "summary": "Conservation efforts restore species populations; researchers warn policy support needed for long-term survival.",
           "extended_summary": "Megafauna recovery programs have successfully increased populations of elephants, birds, and other species across multiple regions. However, scientists emphasize that ecological gains remain fragile without sustained governmental commitment. Large animals play critical roles in ecosystem function—seed dispersal, water knowledge transfer, landscape shaping—making their recovery important for broader environmental stability. The article highlights the gap between current conservation progress and the policy infrastructure required to protect these advances.",
           "source": "Mongabay",
-          "time": "3d ago",
+          "time": "4d ago",
           "first_seen_at": "2026-10-19T14:29:18.057249+00:00",
           "link": "https://news.mongabay.com/2026/10/conservation-is-bringing-species-back-governments-must-help-those-gains-last/",
           "cover": {
@@ -1838,7 +1688,7 @@
           "summary": "Native forests and seabirds may help atoll islands withstand sea level rise.",
           "extended_summary": "Researchers found that tropical atoll islands with native vegetation and healthy seabird populations can naturally accrete land at rates matching or exceeding projected sea-level rise. Seabirds transport ocean nutrients to islands, supporting tree growth that stabilizes shorelines through root systems and sediment capture. The study suggests nature-based adaptation may offer vulnerable island nations a complement to other climate resilience strategies, though implementation challenges and broader emissions reductions remain critical.",
           "source": "Mongabay",
-          "time": "23h ago",
+          "time": "1d ago",
           "first_seen_at": "2026-10-22T12:52:43.283018+00:00",
           "link": "https://news.mongabay.com/2026/10/seabird-guano-and-native-trees-keep-islands-above-rising-seas-study/",
           "cover": {
@@ -1853,7 +1703,7 @@
           "summary": "Former aid workers and innovators develop alternative funding and solutions as traditional systems falter.",
           "extended_summary": "After USAID's dismantling created a funding crisis, multiple actors developed workarounds: former aid workers redirected over $170 million to at-risk programs; a dating app integrated HIV prevention resources; a social enterprise addressed malnutrition; and philanthropic organizations experimented with unrestricted funding models. While these represent adaptive responses to systemic failure, the article frames them as emerging solutions without demonstrating measurable outcomes or evidence of long-term structural change beyond individual initiatives.",
           "source": "Fix the News",
-          "time": "just now",
+          "time": "23h ago",
           "first_seen_at": "2026-10-23T12:31:48.113349+00:00",
           "link": "https://substack.fixthenews.com/p/the-people-rewriting-the-rules-five-6d5",
           "cover": {
